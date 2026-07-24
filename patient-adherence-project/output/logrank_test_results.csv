@@ -1,0 +1,4 @@
+comparison,median_days_group1,median_days_group2,logrank_p_value,significant_at_0.05
+Insured vs Uninsured,644.0,99.0,1.781705286257649e-83,True
+30 vs 60 vs 90 day supply (overall),229.0,844.0,1.0559047198950387e-48,True
+Across 6 therapy classes (overall),,,2.2884692108041325e-12,True

@@ -1,0 +1,4 @@
+initial_supply_days,patient_count,discontinued_count,avg_pdc,avg_days_persisted,discontinuation_rate_pct,persistency_rate_pct
+30,1079,758,0.851,299.0,70.3,29.7
+90,385,210,0.961,561.0,54.5,45.5
+60,536,231,0.919,536.0,43.1,56.9

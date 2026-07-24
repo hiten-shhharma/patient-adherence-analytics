@@ -1,0 +1,7 @@
+test,statistic,p_value,significant_at_0.05
+Chi-square: discontinuation vs insurance_status,156.04,8.317680200788822e-36,True
+Chi-square: discontinuation vs initial_supply_days,115.77,7.266842748032103e-26,True
+Chi-square: discontinuation vs therapy_class,36.88,6.327075632082008e-07,True
+Chi-square: discontinuation vs region,94.52,1.4402144589804978e-19,True
+Chi-square: discontinuation vs age_band,75.58,2.7245249634588453e-16,True
+"Welch t-test: PDC, Insured vs Uninsured",-4.56,6.28101689054754e-06,True

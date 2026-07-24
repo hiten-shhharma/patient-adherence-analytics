@@ -1,0 +1,6 @@
+region,patient_count,discontinued_count,avg_pdc,avg_days_persisted,discontinuation_rate_pct,persistency_rate_pct
+West,386,308,0.91,267.0,79.8,20.2
+South,417,257,0.89,404.0,61.6,38.4
+North,425,239,0.891,471.0,56.2,43.8
+Central,370,202,0.882,456.0,54.6,45.4
+East,402,193,0.879,460.0,48.0,52.0

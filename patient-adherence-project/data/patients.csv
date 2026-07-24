@@ -1,0 +1,2001 @@
+patient_id,age,gender,region,insurance_status,therapy_class,initial_supply_days,therapy_start_date
+P00001,23,M,West,Insured,Hyperlipidemia,60,2022-07-09
+P00002,69,M,Central,Insured,Hypertension,90,2024-08-22
+P00003,61,M,West,Uninsured,Hyperlipidemia,30,2023-01-28
+P00004,47,M,East,Insured,Hypertension,30,2024-08-11
+P00005,47,F,East,Insured,Hypertension,60,2024-02-28
+P00006,75,M,South,Insured,Hyperlipidemia,60,2023-01-15
+P00007,23,F,South,Insured,Depression/Anxiety,30,2023-11-13
+P00008,64,M,West,Insured,Osteoporosis,90,2022-07-12
+P00009,31,F,North,Insured,Osteoporosis,90,2024-08-01
+P00010,24,M,North,Insured,Osteoporosis,60,2023-05-09
+P00011,53,F,South,Insured,Depression/Anxiety,90,2023-08-07
+P00012,83,F,West,Insured,Depression/Anxiety,60,2022-11-25
+P00013,67,M,West,Uninsured,Hypertension,60,2023-07-18
+P00014,68,F,East,Insured,Depression/Anxiety,30,2023-08-21
+P00015,66,M,East,Insured,Hypertension,30,2023-02-09
+P00016,70,M,North,Insured,Hypertension,30,2025-06-10
+P00017,52,F,South,Insured,Hypertension,60,2023-04-12
+P00018,26,F,North,Insured,Osteoporosis,60,2022-12-22
+P00019,74,M,West,Insured,Depression/Anxiety,30,2024-02-09
+P00020,48,M,West,Insured,Asthma/COPD,60,2023-05-27
+P00021,51,F,South,Insured,Asthma/COPD,30,2023-10-26
+P00022,42,F,South,Insured,Asthma/COPD,30,2024-08-27
+P00023,30,F,South,Insured,Hypertension,90,2022-08-28
+P00024,80,F,Central,Uninsured,Osteoporosis,30,2023-12-27
+P00025,70,F,East,Uninsured,Osteoporosis,30,2022-06-25
+P00026,61,M,West,Uninsured,Osteoporosis,30,2022-07-20
+P00027,44,F,East,Insured,Hypertension,30,2022-09-13
+P00028,73,M,West,Insured,Hypertension,60,2022-11-30
+P00029,54,F,East,Insured,Asthma/COPD,90,2023-06-30
+P00030,47,M,South,Uninsured,Hypertension,60,2025-04-21
+P00031,48,F,Central,Insured,Diabetes (Type 2),60,2025-03-20
+P00032,33,F,West,Insured,Hyperlipidemia,30,2022-09-25
+P00033,24,F,West,Insured,Hypertension,60,2025-06-24
+P00034,55,F,Central,Insured,Hypertension,30,2024-05-18
+P00035,77,M,South,Insured,Asthma/COPD,30,2024-02-16
+P00036,22,F,North,Insured,Osteoporosis,90,2024-11-11
+P00037,75,M,East,Insured,Asthma/COPD,30,2023-11-29
+P00038,73,M,South,Uninsured,Diabetes (Type 2),30,2023-03-27
+P00039,36,M,East,Insured,Diabetes (Type 2),30,2024-01-19
+P00040,60,M,South,Uninsured,Diabetes (Type 2),90,2024-08-27
+P00041,29,M,South,Insured,Hyperlipidemia,30,2024-07-10
+P00042,68,F,South,Insured,Hypertension,30,2022-12-09
+P00043,64,F,South,Insured,Depression/Anxiety,90,2025-04-25
+P00044,41,F,West,Uninsured,Asthma/COPD,30,2023-04-18
+P00045,22,M,East,Insured,Hyperlipidemia,90,2024-12-12
+P00046,83,M,East,Insured,Diabetes (Type 2),30,2023-05-19
+P00047,47,M,North,Insured,Diabetes (Type 2),60,2022-08-11
+P00048,77,F,East,Insured,Hypertension,90,2025-06-29
+P00049,63,F,North,Insured,Diabetes (Type 2),30,2024-03-26
+P00050,70,M,South,Insured,Hyperlipidemia,60,2023-01-29
+P00051,68,F,East,Uninsured,Diabetes (Type 2),30,2022-06-01
+P00052,31,M,North,Insured,Hyperlipidemia,60,2022-10-24
+P00053,42,M,South,Insured,Osteoporosis,90,2022-12-09
+P00054,49,M,South,Insured,Diabetes (Type 2),60,2025-04-11
+P00055,51,M,Central,Uninsured,Hypertension,90,2022-12-17
+P00056,20,F,Central,Uninsured,Hypertension,60,2022-11-30
+P00057,54,F,North,Insured,Hypertension,60,2025-01-01
+P00058,28,M,West,Uninsured,Hyperlipidemia,30,2025-02-17
+P00059,67,F,West,Insured,Osteoporosis,60,2023-01-22
+P00060,63,F,South,Uninsured,Osteoporosis,90,2024-06-04
+P00061,79,F,East,Uninsured,Depression/Anxiety,60,2024-01-25
+P00062,67,F,West,Insured,Diabetes (Type 2),30,2024-03-13
+P00063,42,M,South,Insured,Hypertension,30,2023-05-18
+P00064,82,F,North,Insured,Diabetes (Type 2),60,2024-09-26
+P00065,45,M,South,Insured,Diabetes (Type 2),90,2025-02-19
+P00066,39,F,South,Uninsured,Osteoporosis,30,2024-08-28
+P00067,78,M,South,Insured,Hyperlipidemia,30,2025-03-16
+P00068,42,F,South,Insured,Diabetes (Type 2),30,2022-10-03
+P00069,23,M,North,Uninsured,Diabetes (Type 2),30,2024-06-11
+P00070,49,M,Central,Insured,Hypertension,90,2025-07-03
+P00071,71,F,North,Insured,Asthma/COPD,30,2024-01-26
+P00072,30,F,West,Insured,Hypertension,30,2025-04-29
+P00073,49,M,West,Insured,Hypertension,30,2023-06-29
+P00074,26,F,West,Insured,Hypertension,30,2025-03-09
+P00075,63,F,Central,Insured,Osteoporosis,90,2025-04-25
+P00076,49,M,North,Insured,Hyperlipidemia,30,2024-05-03
+P00077,40,F,South,Insured,Depression/Anxiety,30,2024-08-04
+P00078,33,M,North,Insured,Diabetes (Type 2),30,2024-01-12
+P00079,55,F,East,Insured,Hypertension,90,2023-05-24
+P00080,62,M,West,Insured,Osteoporosis,90,2024-01-27
+P00081,81,M,Central,Insured,Hypertension,30,2025-05-22
+P00082,47,F,South,Insured,Hypertension,60,2022-06-17
+P00083,28,F,South,Insured,Hyperlipidemia,30,2023-01-18
+P00084,73,F,Central,Insured,Hypertension,60,2023-12-16
+P00085,60,F,West,Insured,Hypertension,30,2023-06-19
+P00086,64,F,West,Uninsured,Osteoporosis,90,2024-05-05
+P00087,24,F,East,Insured,Hyperlipidemia,90,2023-07-13
+P00088,38,F,East,Insured,Diabetes (Type 2),30,2024-06-13
+P00089,69,M,South,Insured,Diabetes (Type 2),30,2022-09-29
+P00090,73,M,West,Insured,Depression/Anxiety,30,2023-06-10
+P00091,47,M,South,Insured,Hypertension,30,2024-07-22
+P00092,71,F,Central,Insured,Hypertension,30,2023-11-15
+P00093,74,M,North,Uninsured,Hyperlipidemia,30,2024-08-14
+P00094,43,M,East,Insured,Hyperlipidemia,90,2024-05-19
+P00095,78,F,South,Insured,Asthma/COPD,30,2023-06-06
+P00096,37,M,West,Insured,Diabetes (Type 2),90,2023-09-27
+P00097,34,M,West,Insured,Hypertension,30,2025-05-25
+P00098,63,F,Central,Insured,Hyperlipidemia,30,2025-05-22
+P00099,60,F,West,Insured,Depression/Anxiety,30,2022-07-11
+P00100,27,M,South,Uninsured,Hypertension,90,2024-08-05
+P00101,73,M,South,Insured,Hyperlipidemia,30,2023-12-07
+P00102,31,M,Central,Insured,Hypertension,30,2022-06-02
+P00103,71,F,East,Insured,Osteoporosis,60,2024-05-16
+P00104,18,F,North,Insured,Osteoporosis,60,2022-06-27
+P00105,71,M,Central,Uninsured,Diabetes (Type 2),60,2023-05-26
+P00106,70,F,West,Insured,Asthma/COPD,30,2024-07-19
+P00107,70,M,North,Insured,Asthma/COPD,30,2024-12-04
+P00108,62,M,West,Insured,Hypertension,90,2023-09-09
+P00109,49,F,West,Uninsured,Diabetes (Type 2),60,2024-11-30
+P00110,65,M,West,Insured,Hyperlipidemia,60,2025-01-03
+P00111,36,M,Central,Insured,Hypertension,30,2023-10-19
+P00112,70,M,East,Uninsured,Diabetes (Type 2),30,2022-12-13
+P00113,55,F,East,Insured,Diabetes (Type 2),90,2024-06-14
+P00114,48,F,West,Insured,Asthma/COPD,60,2022-06-16
+P00115,51,F,North,Insured,Diabetes (Type 2),30,2025-03-05
+P00116,56,M,North,Insured,Depression/Anxiety,90,2023-08-13
+P00117,20,M,Central,Insured,Diabetes (Type 2),60,2024-10-06
+P00118,27,F,South,Uninsured,Hypertension,30,2024-09-09
+P00119,34,M,East,Insured,Osteoporosis,30,2023-11-16
+P00120,25,F,South,Insured,Hypertension,60,2025-06-02
+P00121,47,F,South,Uninsured,Hypertension,30,2024-11-16
+P00122,62,M,East,Uninsured,Diabetes (Type 2),60,2025-02-22
+P00123,61,F,Central,Uninsured,Depression/Anxiety,60,2022-09-15
+P00124,49,M,East,Insured,Diabetes (Type 2),30,2023-11-29
+P00125,75,M,North,Uninsured,Hypertension,90,2025-05-10
+P00126,55,F,South,Insured,Diabetes (Type 2),30,2024-12-04
+P00127,23,F,North,Insured,Diabetes (Type 2),30,2023-10-26
+P00128,69,F,Central,Insured,Hypertension,60,2022-08-19
+P00129,56,F,South,Uninsured,Hyperlipidemia,60,2023-04-15
+P00130,60,F,South,Uninsured,Hypertension,30,2024-03-08
+P00131,55,F,North,Insured,Diabetes (Type 2),60,2024-05-25
+P00132,55,F,East,Insured,Depression/Anxiety,90,2025-04-09
+P00133,24,M,Central,Insured,Depression/Anxiety,90,2022-09-13
+P00134,55,F,East,Insured,Diabetes (Type 2),90,2023-08-22
+P00135,71,F,West,Insured,Diabetes (Type 2),30,2023-04-04
+P00136,38,M,North,Insured,Diabetes (Type 2),30,2025-05-19
+P00137,58,M,North,Insured,Asthma/COPD,60,2022-12-05
+P00138,20,M,West,Uninsured,Hypertension,30,2023-02-05
+P00139,41,M,North,Insured,Hypertension,60,2023-05-03
+P00140,47,F,East,Uninsured,Hyperlipidemia,30,2022-09-28
+P00141,83,M,South,Insured,Hypertension,30,2024-05-27
+P00142,32,F,North,Insured,Hypertension,30,2024-01-14
+P00143,36,F,East,Insured,Hypertension,30,2024-02-20
+P00144,45,F,Central,Insured,Depression/Anxiety,30,2025-03-21
+P00145,84,M,North,Insured,Hyperlipidemia,60,2023-10-02
+P00146,75,M,Central,Insured,Depression/Anxiety,60,2023-05-18
+P00147,20,F,East,Insured,Depression/Anxiety,30,2023-07-29
+P00148,33,F,West,Insured,Diabetes (Type 2),30,2024-11-20
+P00149,73,F,North,Insured,Asthma/COPD,90,2024-01-18
+P00150,21,F,Central,Insured,Depression/Anxiety,30,2022-12-09
+P00151,75,M,North,Insured,Osteoporosis,30,2024-07-18
+P00152,36,F,Central,Insured,Depression/Anxiety,30,2024-09-19
+P00153,79,M,West,Insured,Diabetes (Type 2),60,2023-03-10
+P00154,37,M,South,Insured,Diabetes (Type 2),90,2024-02-19
+P00155,47,F,North,Insured,Diabetes (Type 2),60,2024-02-27
+P00156,62,M,West,Insured,Hypertension,90,2022-12-15
+P00157,26,M,North,Uninsured,Hyperlipidemia,90,2022-06-11
+P00158,55,M,West,Insured,Hypertension,30,2024-08-19
+P00159,51,M,West,Insured,Hypertension,30,2024-04-25
+P00160,70,F,South,Insured,Asthma/COPD,30,2024-08-14
+P00161,84,M,South,Insured,Depression/Anxiety,30,2023-08-01
+P00162,62,F,South,Insured,Hyperlipidemia,60,2024-01-03
+P00163,45,F,South,Uninsured,Diabetes (Type 2),30,2025-06-13
+P00164,45,M,North,Insured,Hyperlipidemia,30,2023-02-10
+P00165,46,M,South,Insured,Asthma/COPD,30,2024-06-07
+P00166,72,F,West,Insured,Depression/Anxiety,60,2022-10-28
+P00167,39,F,South,Insured,Hyperlipidemia,60,2022-08-14
+P00168,29,F,West,Insured,Hyperlipidemia,90,2025-05-16
+P00169,40,F,Central,Insured,Diabetes (Type 2),30,2022-10-25
+P00170,19,M,West,Insured,Depression/Anxiety,30,2024-06-10
+P00171,25,M,East,Uninsured,Asthma/COPD,90,2024-01-02
+P00172,24,F,South,Insured,Diabetes (Type 2),60,2024-11-30
+P00173,69,M,Central,Uninsured,Diabetes (Type 2),60,2024-02-08
+P00174,66,F,South,Insured,Diabetes (Type 2),30,2024-07-26
+P00175,64,F,East,Uninsured,Diabetes (Type 2),30,2025-03-06
+P00176,48,F,East,Insured,Asthma/COPD,90,2024-12-23
+P00177,66,M,West,Insured,Depression/Anxiety,60,2024-08-23
+P00178,28,M,East,Uninsured,Diabetes (Type 2),60,2022-12-01
+P00179,78,M,West,Insured,Diabetes (Type 2),30,2022-12-09
+P00180,51,M,Central,Uninsured,Diabetes (Type 2),30,2023-12-14
+P00181,80,F,South,Insured,Hypertension,30,2024-06-13
+P00182,28,M,Central,Insured,Hyperlipidemia,60,2024-06-23
+P00183,51,M,North,Insured,Osteoporosis,30,2024-11-05
+P00184,64,M,Central,Insured,Depression/Anxiety,30,2022-09-25
+P00185,51,M,North,Uninsured,Hypertension,30,2022-12-13
+P00186,47,F,Central,Uninsured,Depression/Anxiety,90,2022-11-17
+P00187,29,M,South,Insured,Depression/Anxiety,30,2024-02-01
+P00188,43,F,Central,Insured,Diabetes (Type 2),30,2024-05-16
+P00189,33,M,North,Insured,Depression/Anxiety,60,2022-10-09
+P00190,38,F,East,Insured,Hyperlipidemia,90,2025-02-05
+P00191,63,M,Central,Insured,Osteoporosis,60,2023-05-09
+P00192,60,M,North,Insured,Hypertension,90,2024-06-15
+P00193,58,F,South,Insured,Hypertension,30,2024-09-26
+P00194,42,F,North,Uninsured,Hyperlipidemia,90,2022-07-11
+P00195,82,F,South,Insured,Hypertension,90,2025-02-01
+P00196,23,M,South,Insured,Diabetes (Type 2),30,2025-05-31
+P00197,40,M,West,Insured,Osteoporosis,60,2025-05-18
+P00198,25,F,South,Uninsured,Hypertension,30,2022-11-05
+P00199,40,M,North,Insured,Hyperlipidemia,30,2023-08-18
+P00200,82,F,North,Insured,Asthma/COPD,30,2023-02-18
+P00201,42,F,Central,Insured,Hyperlipidemia,30,2023-10-22
+P00202,78,F,Central,Uninsured,Hyperlipidemia,90,2025-06-05
+P00203,51,F,South,Insured,Hyperlipidemia,30,2024-10-09
+P00204,64,F,North,Insured,Hypertension,60,2024-10-18
+P00205,48,M,North,Insured,Hypertension,30,2023-09-20
+P00206,35,M,Central,Insured,Depression/Anxiety,30,2025-04-23
+P00207,69,F,West,Insured,Diabetes (Type 2),30,2025-04-04
+P00208,82,M,West,Insured,Diabetes (Type 2),30,2024-11-27
+P00209,35,M,South,Insured,Hypertension,60,2024-12-06
+P00210,70,M,West,Insured,Osteoporosis,90,2024-06-05
+P00211,35,F,North,Insured,Hypertension,30,2022-09-16
+P00212,66,F,West,Insured,Depression/Anxiety,90,2023-04-18
+P00213,70,F,East,Insured,Diabetes (Type 2),60,2024-10-15
+P00214,48,M,South,Insured,Hyperlipidemia,60,2023-06-05
+P00215,67,M,West,Insured,Diabetes (Type 2),30,2022-12-12
+P00216,36,F,West,Insured,Hypertension,30,2025-05-05
+P00217,23,M,East,Insured,Hyperlipidemia,90,2023-12-04
+P00218,24,F,North,Insured,Depression/Anxiety,60,2025-01-27
+P00219,47,F,North,Uninsured,Hypertension,30,2023-04-17
+P00220,78,M,Central,Insured,Diabetes (Type 2),90,2023-07-11
+P00221,26,M,South,Insured,Hyperlipidemia,30,2023-06-23
+P00222,48,M,South,Insured,Hypertension,60,2023-07-27
+P00223,65,F,West,Insured,Hyperlipidemia,30,2023-10-08
+P00224,31,F,South,Insured,Hypertension,90,2023-05-03
+P00225,66,M,South,Insured,Hyperlipidemia,30,2024-12-06
+P00226,38,F,West,Uninsured,Hypertension,30,2023-06-04
+P00227,72,M,East,Insured,Hyperlipidemia,60,2023-10-12
+P00228,56,M,West,Insured,Diabetes (Type 2),30,2025-01-27
+P00229,54,F,North,Insured,Hyperlipidemia,90,2023-10-07
+P00230,29,M,East,Insured,Diabetes (Type 2),60,2022-06-12
+P00231,49,M,East,Uninsured,Asthma/COPD,30,2022-06-01
+P00232,75,F,West,Insured,Hyperlipidemia,30,2023-10-06
+P00233,19,M,North,Insured,Osteoporosis,90,2024-06-02
+P00234,68,F,North,Insured,Diabetes (Type 2),60,2025-04-30
+P00235,51,M,West,Insured,Diabetes (Type 2),90,2022-10-26
+P00236,66,M,West,Insured,Hypertension,30,2024-02-03
+P00237,62,M,Central,Insured,Diabetes (Type 2),90,2023-04-23
+P00238,46,M,South,Uninsured,Depression/Anxiety,30,2023-10-22
+P00239,38,M,Central,Insured,Osteoporosis,60,2023-10-13
+P00240,60,M,South,Insured,Hyperlipidemia,30,2023-05-19
+P00241,27,F,West,Uninsured,Depression/Anxiety,30,2022-06-21
+P00242,57,M,North,Uninsured,Hypertension,90,2022-08-23
+P00243,24,M,Central,Insured,Hypertension,90,2024-01-11
+P00244,61,M,South,Insured,Osteoporosis,30,2023-02-09
+P00245,60,M,Central,Insured,Hypertension,90,2023-06-05
+P00246,23,M,South,Insured,Hypertension,30,2022-09-11
+P00247,68,F,West,Uninsured,Asthma/COPD,30,2022-07-27
+P00248,45,M,East,Insured,Asthma/COPD,30,2022-10-22
+P00249,70,F,North,Insured,Hyperlipidemia,30,2023-07-31
+P00250,20,F,North,Uninsured,Diabetes (Type 2),30,2022-12-02
+P00251,30,M,West,Insured,Osteoporosis,30,2023-02-17
+P00252,51,M,North,Insured,Hypertension,30,2023-05-07
+P00253,30,M,South,Insured,Diabetes (Type 2),60,2023-04-25
+P00254,40,F,East,Insured,Diabetes (Type 2),90,2022-06-13
+P00255,62,M,South,Uninsured,Asthma/COPD,60,2022-10-11
+P00256,27,F,North,Insured,Asthma/COPD,30,2025-05-08
+P00257,63,F,West,Insured,Depression/Anxiety,60,2024-06-24
+P00258,24,F,West,Insured,Hypertension,30,2022-10-18
+P00259,29,F,West,Uninsured,Hyperlipidemia,60,2023-04-17
+P00260,57,F,Central,Insured,Diabetes (Type 2),60,2023-08-07
+P00261,71,M,North,Uninsured,Osteoporosis,30,2025-03-19
+P00262,29,M,East,Uninsured,Hypertension,30,2025-02-17
+P00263,38,M,South,Insured,Hypertension,90,2024-10-17
+P00264,79,F,Central,Uninsured,Depression/Anxiety,90,2022-09-29
+P00265,84,F,East,Insured,Hyperlipidemia,60,2023-12-06
+P00266,56,F,North,Insured,Osteoporosis,90,2023-11-28
+P00267,47,M,West,Insured,Hypertension,90,2024-05-20
+P00268,41,F,North,Uninsured,Osteoporosis,30,2025-01-09
+P00269,59,F,South,Uninsured,Hypertension,60,2023-05-29
+P00270,57,F,West,Insured,Hypertension,30,2024-02-19
+P00271,37,F,East,Uninsured,Hyperlipidemia,30,2023-03-25
+P00272,19,M,West,Insured,Diabetes (Type 2),30,2023-01-24
+P00273,28,M,East,Uninsured,Hyperlipidemia,90,2023-05-20
+P00274,82,F,Central,Uninsured,Hypertension,60,2024-09-08
+P00275,46,M,East,Insured,Hypertension,30,2023-10-08
+P00276,50,M,North,Insured,Depression/Anxiety,30,2024-07-09
+P00277,49,M,North,Insured,Hypertension,30,2024-07-20
+P00278,70,M,West,Uninsured,Depression/Anxiety,60,2023-07-14
+P00279,22,F,North,Insured,Depression/Anxiety,90,2025-05-14
+P00280,23,F,South,Insured,Hypertension,30,2022-07-23
+P00281,36,M,North,Insured,Depression/Anxiety,30,2025-03-09
+P00282,50,M,South,Insured,Diabetes (Type 2),60,2022-06-09
+P00283,62,M,East,Insured,Diabetes (Type 2),30,2023-08-06
+P00284,50,F,North,Insured,Hypertension,30,2024-12-18
+P00285,47,F,East,Uninsured,Osteoporosis,30,2024-07-12
+P00286,80,F,Central,Insured,Hyperlipidemia,30,2023-05-30
+P00287,28,M,North,Uninsured,Hyperlipidemia,30,2025-02-24
+P00288,56,M,North,Insured,Asthma/COPD,90,2022-11-03
+P00289,54,M,South,Uninsured,Diabetes (Type 2),30,2024-06-27
+P00290,49,F,Central,Insured,Asthma/COPD,30,2024-01-07
+P00291,72,M,East,Insured,Depression/Anxiety,60,2023-01-20
+P00292,35,F,West,Insured,Asthma/COPD,90,2025-04-05
+P00293,81,F,North,Insured,Asthma/COPD,30,2024-10-12
+P00294,40,M,West,Insured,Asthma/COPD,30,2022-06-10
+P00295,54,M,North,Uninsured,Hypertension,60,2022-09-07
+P00296,52,M,West,Insured,Osteoporosis,30,2022-08-03
+P00297,74,M,North,Insured,Osteoporosis,60,2023-09-12
+P00298,47,M,Central,Insured,Depression/Anxiety,30,2023-09-14
+P00299,37,F,South,Insured,Diabetes (Type 2),30,2024-08-26
+P00300,19,M,North,Insured,Asthma/COPD,30,2024-07-03
+P00301,42,M,South,Insured,Hypertension,60,2022-06-18
+P00302,73,F,North,Insured,Hyperlipidemia,30,2023-11-20
+P00303,18,F,North,Uninsured,Hyperlipidemia,30,2024-11-03
+P00304,78,M,East,Insured,Hypertension,30,2025-03-10
+P00305,54,F,South,Insured,Depression/Anxiety,60,2023-04-26
+P00306,27,F,South,Insured,Hypertension,30,2022-07-20
+P00307,38,F,Central,Insured,Depression/Anxiety,60,2022-11-20
+P00308,55,F,North,Insured,Osteoporosis,60,2023-06-20
+P00309,39,M,South,Uninsured,Diabetes (Type 2),30,2023-10-14
+P00310,25,F,North,Insured,Depression/Anxiety,90,2023-07-02
+P00311,62,M,East,Insured,Hypertension,90,2022-09-11
+P00312,63,F,South,Uninsured,Osteoporosis,30,2023-06-20
+P00313,25,F,North,Insured,Asthma/COPD,30,2023-04-24
+P00314,36,M,North,Uninsured,Hypertension,30,2023-12-03
+P00315,34,M,Central,Insured,Depression/Anxiety,30,2022-08-29
+P00316,62,F,North,Insured,Hyperlipidemia,30,2024-11-09
+P00317,66,F,West,Uninsured,Hyperlipidemia,90,2023-09-14
+P00318,66,M,Central,Uninsured,Depression/Anxiety,90,2023-05-25
+P00319,80,F,East,Uninsured,Hyperlipidemia,30,2025-03-20
+P00320,69,F,South,Insured,Hyperlipidemia,30,2024-09-18
+P00321,39,F,West,Uninsured,Diabetes (Type 2),30,2022-11-02
+P00322,25,M,Central,Insured,Diabetes (Type 2),30,2022-11-13
+P00323,59,M,North,Insured,Osteoporosis,30,2022-06-03
+P00324,79,F,Central,Insured,Hypertension,90,2024-02-24
+P00325,83,M,Central,Insured,Hyperlipidemia,90,2023-07-06
+P00326,33,F,North,Insured,Hypertension,30,2023-07-29
+P00327,33,M,North,Insured,Osteoporosis,60,2023-12-28
+P00328,20,F,West,Insured,Hyperlipidemia,60,2024-01-30
+P00329,27,M,North,Uninsured,Diabetes (Type 2),90,2022-06-02
+P00330,55,M,West,Uninsured,Diabetes (Type 2),30,2022-09-30
+P00331,54,F,North,Insured,Diabetes (Type 2),30,2024-11-07
+P00332,42,F,West,Uninsured,Asthma/COPD,60,2025-05-12
+P00333,38,F,South,Insured,Hyperlipidemia,30,2025-01-01
+P00334,73,F,North,Insured,Hyperlipidemia,60,2025-03-20
+P00335,48,F,North,Uninsured,Depression/Anxiety,30,2023-11-06
+P00336,72,F,North,Insured,Diabetes (Type 2),60,2024-12-20
+P00337,82,M,East,Insured,Diabetes (Type 2),90,2025-02-21
+P00338,39,F,North,Insured,Diabetes (Type 2),30,2025-03-04
+P00339,31,F,Central,Insured,Hypertension,30,2022-11-16
+P00340,81,M,West,Uninsured,Depression/Anxiety,60,2022-11-13
+P00341,60,M,South,Insured,Osteoporosis,30,2023-08-29
+P00342,37,F,Central,Insured,Asthma/COPD,60,2023-12-21
+P00343,59,M,West,Insured,Osteoporosis,60,2025-05-17
+P00344,52,F,West,Insured,Hyperlipidemia,30,2023-05-25
+P00345,78,F,North,Insured,Diabetes (Type 2),90,2024-12-25
+P00346,35,F,West,Uninsured,Depression/Anxiety,30,2025-02-26
+P00347,84,M,East,Insured,Asthma/COPD,60,2025-05-25
+P00348,80,M,Central,Uninsured,Depression/Anxiety,30,2022-12-31
+P00349,30,M,East,Insured,Hyperlipidemia,30,2023-03-01
+P00350,29,M,West,Uninsured,Depression/Anxiety,30,2023-02-04
+P00351,53,F,South,Insured,Depression/Anxiety,90,2024-09-08
+P00352,21,F,North,Insured,Asthma/COPD,90,2024-07-15
+P00353,38,M,North,Insured,Depression/Anxiety,90,2023-09-03
+P00354,47,M,Central,Insured,Diabetes (Type 2),30,2022-09-09
+P00355,82,F,West,Uninsured,Diabetes (Type 2),30,2024-01-09
+P00356,84,M,South,Insured,Hyperlipidemia,60,2024-09-04
+P00357,28,F,West,Uninsured,Diabetes (Type 2),60,2023-11-18
+P00358,77,M,North,Insured,Asthma/COPD,30,2023-03-30
+P00359,24,F,North,Insured,Hyperlipidemia,90,2024-03-30
+P00360,68,M,East,Insured,Hyperlipidemia,30,2024-06-16
+P00361,74,F,West,Insured,Diabetes (Type 2),30,2024-03-29
+P00362,77,M,Central,Insured,Depression/Anxiety,90,2025-02-10
+P00363,32,F,West,Insured,Hyperlipidemia,30,2023-05-21
+P00364,77,M,South,Uninsured,Hypertension,30,2024-04-19
+P00365,25,M,Central,Insured,Osteoporosis,60,2025-01-21
+P00366,52,F,East,Insured,Diabetes (Type 2),90,2023-01-27
+P00367,49,M,Central,Insured,Diabetes (Type 2),30,2023-04-14
+P00368,39,M,North,Insured,Hypertension,60,2022-07-26
+P00369,19,M,North,Insured,Hyperlipidemia,30,2023-07-29
+P00370,69,M,North,Insured,Depression/Anxiety,30,2022-07-21
+P00371,40,M,Central,Insured,Osteoporosis,30,2024-09-20
+P00372,62,F,North,Insured,Hypertension,30,2022-09-09
+P00373,45,M,Central,Insured,Asthma/COPD,30,2024-07-21
+P00374,43,F,West,Insured,Depression/Anxiety,30,2024-03-16
+P00375,77,F,North,Insured,Diabetes (Type 2),60,2025-06-20
+P00376,24,M,Central,Insured,Hypertension,60,2023-06-29
+P00377,67,F,North,Insured,Diabetes (Type 2),60,2023-06-25
+P00378,68,F,North,Insured,Osteoporosis,90,2023-03-02
+P00379,43,F,East,Uninsured,Diabetes (Type 2),30,2024-01-28
+P00380,35,M,South,Insured,Hyperlipidemia,30,2023-02-03
+P00381,18,M,South,Insured,Depression/Anxiety,30,2022-10-07
+P00382,80,M,North,Insured,Osteoporosis,60,2025-05-06
+P00383,81,F,West,Insured,Depression/Anxiety,30,2024-07-06
+P00384,34,F,North,Insured,Depression/Anxiety,30,2022-10-13
+P00385,20,F,South,Uninsured,Hypertension,30,2024-04-28
+P00386,26,M,East,Uninsured,Osteoporosis,30,2023-05-11
+P00387,22,F,East,Insured,Diabetes (Type 2),90,2022-12-21
+P00388,73,M,West,Insured,Hypertension,60,2023-11-15
+P00389,77,F,South,Insured,Asthma/COPD,30,2024-11-06
+P00390,28,M,West,Insured,Hypertension,60,2022-06-01
+P00391,68,F,West,Insured,Hypertension,60,2023-07-07
+P00392,30,F,South,Insured,Depression/Anxiety,30,2025-04-05
+P00393,42,M,South,Insured,Diabetes (Type 2),30,2023-08-20
+P00394,58,M,East,Insured,Hypertension,60,2022-09-20
+P00395,66,F,East,Insured,Hyperlipidemia,30,2023-09-27
+P00396,76,M,North,Insured,Depression/Anxiety,30,2024-07-10
+P00397,21,F,East,Insured,Osteoporosis,30,2025-06-29
+P00398,31,F,North,Insured,Hypertension,60,2024-05-10
+P00399,36,F,East,Insured,Hyperlipidemia,90,2022-07-28
+P00400,38,M,Central,Insured,Osteoporosis,60,2024-11-30
+P00401,84,M,East,Uninsured,Hypertension,30,2024-10-28
+P00402,70,M,West,Insured,Hypertension,30,2024-06-05
+P00403,39,F,South,Insured,Hypertension,60,2025-03-09
+P00404,83,M,Central,Insured,Hyperlipidemia,90,2024-10-16
+P00405,51,M,Central,Insured,Hypertension,90,2023-02-18
+P00406,51,M,Central,Insured,Depression/Anxiety,90,2023-09-19
+P00407,47,F,West,Uninsured,Asthma/COPD,30,2023-12-25
+P00408,27,M,West,Insured,Hypertension,60,2023-12-04
+P00409,80,F,East,Uninsured,Depression/Anxiety,90,2024-05-22
+P00410,18,F,Central,Insured,Hypertension,60,2024-08-01
+P00411,29,F,Central,Insured,Hypertension,60,2022-09-26
+P00412,33,F,East,Insured,Depression/Anxiety,30,2024-03-03
+P00413,36,F,North,Insured,Diabetes (Type 2),60,2022-07-14
+P00414,26,F,North,Insured,Asthma/COPD,30,2023-12-30
+P00415,19,M,South,Insured,Hyperlipidemia,30,2023-09-20
+P00416,63,F,North,Insured,Hypertension,90,2023-01-19
+P00417,82,F,South,Insured,Hyperlipidemia,90,2025-06-23
+P00418,26,F,North,Insured,Hypertension,90,2023-03-19
+P00419,37,F,Central,Insured,Osteoporosis,30,2022-08-03
+P00420,51,F,North,Insured,Depression/Anxiety,30,2023-07-10
+P00421,80,F,West,Insured,Diabetes (Type 2),30,2024-10-03
+P00422,64,M,South,Insured,Hyperlipidemia,90,2022-06-11
+P00423,69,M,North,Insured,Depression/Anxiety,60,2023-12-09
+P00424,56,M,West,Insured,Osteoporosis,90,2023-09-15
+P00425,45,M,Central,Insured,Hypertension,30,2025-02-02
+P00426,31,M,West,Insured,Hypertension,60,2022-06-04
+P00427,75,M,Central,Insured,Hypertension,60,2022-06-20
+P00428,71,M,East,Insured,Diabetes (Type 2),30,2024-02-28
+P00429,19,F,West,Insured,Hyperlipidemia,90,2022-12-20
+P00430,65,M,North,Insured,Hypertension,60,2024-08-03
+P00431,23,F,Central,Insured,Diabetes (Type 2),30,2023-04-10
+P00432,67,F,West,Uninsured,Hyperlipidemia,30,2024-02-25
+P00433,73,M,South,Uninsured,Hypertension,90,2022-07-13
+P00434,26,M,South,Insured,Asthma/COPD,60,2024-07-22
+P00435,47,M,West,Insured,Hyperlipidemia,60,2024-01-07
+P00436,26,F,North,Insured,Diabetes (Type 2),60,2022-06-01
+P00437,56,M,Central,Uninsured,Hyperlipidemia,30,2023-03-28
+P00438,80,F,South,Insured,Diabetes (Type 2),60,2022-08-07
+P00439,23,F,North,Insured,Osteoporosis,90,2022-07-21
+P00440,44,F,South,Insured,Hyperlipidemia,30,2024-07-28
+P00441,83,M,Central,Insured,Hyperlipidemia,60,2023-09-27
+P00442,38,M,South,Insured,Asthma/COPD,30,2024-11-23
+P00443,26,M,East,Uninsured,Osteoporosis,30,2023-03-19
+P00444,50,M,Central,Uninsured,Osteoporosis,30,2024-08-19
+P00445,52,M,North,Insured,Diabetes (Type 2),90,2024-04-25
+P00446,62,F,West,Insured,Hypertension,30,2024-06-18
+P00447,39,F,South,Insured,Depression/Anxiety,30,2024-12-21
+P00448,82,F,West,Insured,Hyperlipidemia,60,2024-08-07
+P00449,52,F,North,Insured,Depression/Anxiety,30,2024-09-19
+P00450,37,M,North,Insured,Depression/Anxiety,60,2024-09-12
+P00451,82,F,West,Uninsured,Diabetes (Type 2),90,2023-10-18
+P00452,79,F,Central,Uninsured,Diabetes (Type 2),30,2024-08-26
+P00453,51,F,Central,Insured,Hyperlipidemia,30,2025-01-06
+P00454,19,F,West,Insured,Diabetes (Type 2),90,2024-09-11
+P00455,57,M,East,Insured,Depression/Anxiety,30,2024-04-17
+P00456,55,M,North,Insured,Depression/Anxiety,30,2022-08-23
+P00457,27,M,South,Insured,Hyperlipidemia,90,2023-10-06
+P00458,60,M,West,Insured,Depression/Anxiety,90,2022-08-11
+P00459,74,F,South,Insured,Hyperlipidemia,60,2022-09-26
+P00460,25,M,East,Uninsured,Depression/Anxiety,60,2023-07-13
+P00461,66,F,North,Insured,Diabetes (Type 2),90,2023-11-06
+P00462,27,F,East,Insured,Depression/Anxiety,60,2024-01-17
+P00463,68,M,South,Insured,Depression/Anxiety,60,2025-03-13
+P00464,46,M,North,Uninsured,Diabetes (Type 2),90,2024-10-08
+P00465,18,F,North,Insured,Hyperlipidemia,60,2023-09-21
+P00466,82,F,East,Insured,Osteoporosis,30,2023-06-13
+P00467,29,M,South,Insured,Diabetes (Type 2),30,2024-08-13
+P00468,57,M,North,Insured,Depression/Anxiety,30,2023-04-07
+P00469,30,F,East,Uninsured,Asthma/COPD,30,2025-02-22
+P00470,80,M,North,Insured,Osteoporosis,30,2024-10-30
+P00471,67,F,North,Uninsured,Diabetes (Type 2),30,2024-07-10
+P00472,71,M,North,Insured,Hyperlipidemia,90,2023-03-09
+P00473,46,M,East,Insured,Asthma/COPD,30,2024-05-02
+P00474,49,F,Central,Insured,Hyperlipidemia,30,2024-12-13
+P00475,60,F,South,Insured,Hypertension,30,2022-08-21
+P00476,70,F,South,Insured,Hypertension,30,2022-12-17
+P00477,74,M,South,Insured,Osteoporosis,60,2024-01-03
+P00478,19,F,South,Insured,Diabetes (Type 2),30,2023-07-11
+P00479,62,M,West,Uninsured,Diabetes (Type 2),30,2024-08-10
+P00480,25,M,South,Uninsured,Diabetes (Type 2),90,2023-08-27
+P00481,37,M,West,Insured,Depression/Anxiety,30,2025-06-30
+P00482,73,M,Central,Insured,Hyperlipidemia,30,2023-05-05
+P00483,34,F,Central,Uninsured,Osteoporosis,90,2023-07-12
+P00484,71,M,East,Insured,Depression/Anxiety,60,2022-06-04
+P00485,49,F,West,Uninsured,Asthma/COPD,60,2023-03-07
+P00486,33,M,Central,Insured,Osteoporosis,90,2023-02-21
+P00487,40,F,West,Insured,Diabetes (Type 2),90,2024-10-09
+P00488,53,M,South,Insured,Depression/Anxiety,30,2023-06-17
+P00489,69,F,North,Insured,Hypertension,60,2023-01-16
+P00490,58,M,North,Insured,Asthma/COPD,60,2023-05-21
+P00491,80,M,Central,Insured,Diabetes (Type 2),30,2024-02-26
+P00492,76,F,East,Uninsured,Depression/Anxiety,90,2024-11-03
+P00493,68,F,South,Uninsured,Osteoporosis,30,2025-06-10
+P00494,58,F,South,Insured,Hypertension,90,2022-07-24
+P00495,37,M,South,Insured,Osteoporosis,60,2025-01-05
+P00496,45,F,Central,Insured,Hypertension,30,2023-08-14
+P00497,25,F,West,Insured,Hyperlipidemia,30,2024-11-29
+P00498,43,F,Central,Insured,Hyperlipidemia,90,2022-07-13
+P00499,80,M,South,Uninsured,Diabetes (Type 2),60,2024-05-07
+P00500,46,F,East,Insured,Hyperlipidemia,30,2025-04-16
+P00501,25,F,North,Insured,Asthma/COPD,30,2022-07-15
+P00502,61,F,Central,Insured,Diabetes (Type 2),60,2024-11-09
+P00503,82,M,East,Insured,Hyperlipidemia,30,2022-10-08
+P00504,76,M,East,Insured,Osteoporosis,60,2025-06-13
+P00505,36,F,East,Insured,Depression/Anxiety,60,2024-09-18
+P00506,48,F,South,Insured,Hypertension,30,2025-03-24
+P00507,53,F,Central,Insured,Asthma/COPD,60,2025-03-10
+P00508,34,M,East,Insured,Hypertension,30,2023-05-23
+P00509,36,M,West,Insured,Hyperlipidemia,90,2023-09-13
+P00510,33,F,North,Insured,Hyperlipidemia,90,2024-07-20
+P00511,84,M,South,Insured,Osteoporosis,30,2022-12-15
+P00512,67,M,Central,Insured,Hypertension,30,2023-05-13
+P00513,74,F,North,Uninsured,Hypertension,30,2022-09-20
+P00514,72,F,North,Insured,Depression/Anxiety,90,2025-02-27
+P00515,82,F,Central,Insured,Hypertension,30,2023-03-07
+P00516,25,M,South,Insured,Hyperlipidemia,60,2023-09-07
+P00517,77,M,South,Insured,Depression/Anxiety,90,2023-10-24
+P00518,22,F,East,Insured,Depression/Anxiety,30,2023-07-30
+P00519,49,M,North,Insured,Hypertension,60,2024-10-26
+P00520,57,M,North,Insured,Diabetes (Type 2),30,2025-03-28
+P00521,41,M,North,Insured,Asthma/COPD,60,2024-03-08
+P00522,27,F,North,Insured,Hyperlipidemia,30,2024-12-31
+P00523,30,F,North,Insured,Hypertension,90,2022-10-04
+P00524,73,F,West,Uninsured,Hypertension,30,2025-05-27
+P00525,39,F,South,Insured,Diabetes (Type 2),30,2022-10-09
+P00526,38,M,North,Insured,Asthma/COPD,90,2022-08-15
+P00527,79,M,North,Insured,Diabetes (Type 2),90,2022-06-26
+P00528,27,M,East,Insured,Hypertension,60,2023-03-02
+P00529,79,M,Central,Insured,Hyperlipidemia,60,2025-01-01
+P00530,79,M,South,Insured,Hypertension,30,2023-05-06
+P00531,58,M,North,Insured,Diabetes (Type 2),60,2024-11-09
+P00532,29,M,South,Insured,Asthma/COPD,30,2023-09-23
+P00533,28,F,East,Insured,Depression/Anxiety,30,2022-09-26
+P00534,37,F,North,Insured,Hypertension,90,2023-11-17
+P00535,56,M,Central,Insured,Hyperlipidemia,60,2023-02-18
+P00536,28,M,West,Insured,Hypertension,30,2023-04-26
+P00537,48,F,South,Insured,Hypertension,30,2024-01-05
+P00538,25,F,Central,Uninsured,Hyperlipidemia,90,2024-11-09
+P00539,54,F,South,Insured,Hyperlipidemia,30,2024-03-24
+P00540,19,M,North,Insured,Depression/Anxiety,30,2023-02-08
+P00541,65,F,Central,Insured,Asthma/COPD,30,2024-08-19
+P00542,21,M,Central,Insured,Diabetes (Type 2),30,2024-07-26
+P00543,31,M,South,Uninsured,Asthma/COPD,30,2023-02-23
+P00544,29,M,East,Insured,Hyperlipidemia,90,2025-01-17
+P00545,73,M,North,Insured,Diabetes (Type 2),30,2025-01-07
+P00546,21,M,West,Insured,Osteoporosis,30,2024-04-12
+P00547,46,M,West,Uninsured,Hypertension,60,2023-05-01
+P00548,57,F,West,Insured,Hyperlipidemia,60,2023-07-05
+P00549,52,M,East,Insured,Depression/Anxiety,60,2023-10-10
+P00550,63,M,West,Insured,Diabetes (Type 2),60,2022-12-30
+P00551,71,M,East,Insured,Osteoporosis,60,2023-05-12
+P00552,44,M,Central,Insured,Diabetes (Type 2),60,2022-10-30
+P00553,73,M,North,Insured,Osteoporosis,60,2022-11-22
+P00554,39,M,East,Insured,Hypertension,60,2024-09-18
+P00555,83,M,East,Insured,Hypertension,60,2022-10-23
+P00556,51,F,East,Insured,Diabetes (Type 2),30,2023-11-12
+P00557,67,F,North,Insured,Osteoporosis,60,2023-09-28
+P00558,76,F,South,Insured,Hypertension,60,2022-07-23
+P00559,71,F,Central,Insured,Osteoporosis,30,2024-12-25
+P00560,75,F,North,Insured,Diabetes (Type 2),90,2025-06-15
+P00561,53,F,West,Uninsured,Hyperlipidemia,30,2024-05-21
+P00562,20,F,West,Insured,Diabetes (Type 2),30,2024-06-27
+P00563,51,F,East,Insured,Hypertension,90,2023-02-18
+P00564,30,F,North,Uninsured,Asthma/COPD,30,2025-01-09
+P00565,77,F,North,Insured,Diabetes (Type 2),30,2024-11-02
+P00566,33,M,South,Insured,Depression/Anxiety,30,2023-10-08
+P00567,33,M,North,Insured,Hyperlipidemia,90,2024-08-05
+P00568,34,M,North,Insured,Hyperlipidemia,30,2025-05-14
+P00569,61,M,North,Insured,Hyperlipidemia,60,2024-04-11
+P00570,56,F,North,Insured,Asthma/COPD,60,2023-01-12
+P00571,81,M,Central,Insured,Depression/Anxiety,60,2023-06-09
+P00572,45,F,West,Uninsured,Hyperlipidemia,90,2022-12-27
+P00573,36,F,North,Insured,Depression/Anxiety,90,2023-06-10
+P00574,21,F,West,Insured,Hyperlipidemia,30,2025-03-02
+P00575,18,M,North,Uninsured,Diabetes (Type 2),90,2023-01-01
+P00576,43,M,East,Insured,Depression/Anxiety,30,2025-03-03
+P00577,80,F,North,Uninsured,Hyperlipidemia,30,2023-04-18
+P00578,53,F,North,Insured,Depression/Anxiety,30,2023-12-16
+P00579,77,F,North,Insured,Asthma/COPD,60,2024-01-18
+P00580,24,F,East,Insured,Asthma/COPD,30,2022-10-21
+P00581,24,F,East,Insured,Osteoporosis,60,2022-12-25
+P00582,73,M,South,Uninsured,Hyperlipidemia,30,2023-05-11
+P00583,25,M,West,Uninsured,Depression/Anxiety,30,2022-08-07
+P00584,21,M,West,Uninsured,Hypertension,30,2024-09-29
+P00585,45,F,West,Insured,Hyperlipidemia,90,2024-02-07
+P00586,79,F,East,Insured,Diabetes (Type 2),30,2025-01-11
+P00587,64,M,East,Insured,Hypertension,30,2025-01-30
+P00588,24,F,East,Uninsured,Asthma/COPD,30,2023-06-28
+P00589,74,M,South,Insured,Osteoporosis,30,2024-12-09
+P00590,74,M,East,Uninsured,Hyperlipidemia,60,2022-08-09
+P00591,71,M,North,Insured,Diabetes (Type 2),30,2023-09-29
+P00592,78,M,Central,Insured,Depression/Anxiety,30,2024-06-21
+P00593,34,F,South,Insured,Diabetes (Type 2),90,2023-11-09
+P00594,83,M,West,Insured,Osteoporosis,30,2024-09-12
+P00595,39,F,Central,Insured,Asthma/COPD,30,2025-01-25
+P00596,71,F,East,Uninsured,Diabetes (Type 2),60,2023-09-22
+P00597,56,M,Central,Insured,Diabetes (Type 2),60,2023-04-06
+P00598,70,M,East,Insured,Diabetes (Type 2),60,2024-03-20
+P00599,60,F,North,Insured,Hypertension,30,2025-02-05
+P00600,61,M,North,Insured,Diabetes (Type 2),30,2025-06-19
+P00601,59,F,North,Insured,Hypertension,30,2024-12-07
+P00602,70,M,Central,Uninsured,Hypertension,30,2023-03-04
+P00603,67,F,East,Uninsured,Diabetes (Type 2),30,2023-01-18
+P00604,27,F,South,Insured,Hypertension,90,2024-03-08
+P00605,73,M,East,Insured,Depression/Anxiety,60,2023-08-29
+P00606,53,M,South,Insured,Hypertension,30,2024-04-20
+P00607,39,F,Central,Uninsured,Osteoporosis,30,2025-04-08
+P00608,52,M,Central,Insured,Diabetes (Type 2),60,2024-02-10
+P00609,82,M,North,Insured,Hypertension,30,2023-07-07
+P00610,75,M,West,Uninsured,Hypertension,30,2025-02-06
+P00611,73,M,South,Uninsured,Depression/Anxiety,30,2023-10-09
+P00612,49,F,North,Insured,Diabetes (Type 2),60,2024-04-14
+P00613,70,F,Central,Insured,Hyperlipidemia,60,2022-10-31
+P00614,43,M,North,Insured,Hypertension,30,2023-12-26
+P00615,63,F,South,Insured,Asthma/COPD,30,2023-09-25
+P00616,60,M,North,Insured,Hypertension,60,2022-10-17
+P00617,34,M,East,Insured,Diabetes (Type 2),60,2023-01-25
+P00618,35,F,East,Insured,Osteoporosis,60,2024-08-02
+P00619,22,F,South,Insured,Diabetes (Type 2),30,2022-12-21
+P00620,27,M,North,Insured,Diabetes (Type 2),60,2022-10-28
+P00621,47,M,North,Insured,Osteoporosis,90,2022-08-04
+P00622,50,F,Central,Uninsured,Diabetes (Type 2),60,2022-06-30
+P00623,29,F,Central,Insured,Hypertension,30,2023-10-04
+P00624,45,M,Central,Uninsured,Diabetes (Type 2),60,2023-12-04
+P00625,58,M,East,Insured,Hypertension,30,2024-05-05
+P00626,33,F,East,Insured,Asthma/COPD,30,2024-03-08
+P00627,40,M,West,Uninsured,Depression/Anxiety,30,2024-01-28
+P00628,42,M,West,Insured,Hyperlipidemia,90,2025-07-02
+P00629,51,M,East,Insured,Hypertension,30,2023-03-10
+P00630,42,M,South,Insured,Depression/Anxiety,90,2024-08-13
+P00631,67,M,East,Insured,Depression/Anxiety,30,2022-08-29
+P00632,39,F,North,Insured,Hypertension,30,2025-01-14
+P00633,47,F,North,Insured,Osteoporosis,30,2023-07-15
+P00634,43,F,West,Insured,Hyperlipidemia,60,2023-06-27
+P00635,30,F,Central,Insured,Osteoporosis,30,2022-10-31
+P00636,63,M,North,Insured,Diabetes (Type 2),30,2023-12-27
+P00637,33,M,North,Insured,Hypertension,30,2023-08-26
+P00638,37,F,North,Insured,Depression/Anxiety,30,2025-06-04
+P00639,71,M,West,Insured,Osteoporosis,30,2022-12-18
+P00640,81,F,South,Insured,Diabetes (Type 2),30,2023-09-15
+P00641,62,F,South,Insured,Hypertension,30,2025-03-13
+P00642,79,M,North,Insured,Osteoporosis,90,2024-11-28
+P00643,75,M,Central,Insured,Hypertension,30,2024-10-11
+P00644,50,M,East,Insured,Diabetes (Type 2),30,2024-01-15
+P00645,69,M,West,Insured,Depression/Anxiety,30,2025-02-10
+P00646,40,M,West,Uninsured,Hypertension,30,2023-02-08
+P00647,48,M,North,Uninsured,Hypertension,60,2024-12-01
+P00648,53,F,Central,Insured,Hypertension,30,2024-03-17
+P00649,82,F,East,Insured,Asthma/COPD,30,2023-07-01
+P00650,74,F,West,Insured,Diabetes (Type 2),60,2023-02-02
+P00651,50,M,South,Uninsured,Depression/Anxiety,30,2024-01-10
+P00652,61,M,Central,Uninsured,Asthma/COPD,90,2022-06-04
+P00653,31,M,Central,Insured,Depression/Anxiety,90,2024-08-15
+P00654,71,M,East,Insured,Hyperlipidemia,30,2023-02-22
+P00655,55,F,North,Insured,Hyperlipidemia,30,2023-08-14
+P00656,53,M,Central,Uninsured,Diabetes (Type 2),30,2023-01-05
+P00657,69,M,Central,Uninsured,Hyperlipidemia,30,2023-11-08
+P00658,60,F,East,Insured,Asthma/COPD,30,2023-07-24
+P00659,22,M,East,Insured,Osteoporosis,60,2022-12-29
+P00660,37,M,South,Insured,Diabetes (Type 2),30,2025-02-28
+P00661,29,M,North,Insured,Diabetes (Type 2),30,2024-10-05
+P00662,67,F,Central,Uninsured,Osteoporosis,30,2023-08-12
+P00663,20,F,East,Insured,Hypertension,90,2022-08-05
+P00664,31,M,South,Insured,Osteoporosis,90,2025-01-10
+P00665,58,F,West,Insured,Diabetes (Type 2),30,2024-07-26
+P00666,64,F,North,Insured,Depression/Anxiety,60,2024-02-18
+P00667,51,F,North,Uninsured,Osteoporosis,30,2024-04-13
+P00668,75,M,South,Insured,Hyperlipidemia,60,2022-06-09
+P00669,79,M,East,Uninsured,Hypertension,60,2023-11-17
+P00670,26,F,South,Insured,Osteoporosis,90,2022-12-31
+P00671,81,M,North,Insured,Diabetes (Type 2),30,2024-06-05
+P00672,59,F,South,Insured,Diabetes (Type 2),30,2025-04-17
+P00673,60,F,South,Insured,Hyperlipidemia,90,2024-01-21
+P00674,24,M,East,Insured,Diabetes (Type 2),30,2024-04-13
+P00675,59,F,East,Insured,Depression/Anxiety,30,2024-06-23
+P00676,66,F,Central,Insured,Hypertension,60,2025-04-15
+P00677,56,F,Central,Insured,Diabetes (Type 2),60,2022-07-14
+P00678,23,M,South,Insured,Asthma/COPD,60,2023-05-17
+P00679,53,F,Central,Insured,Hypertension,60,2023-03-30
+P00680,80,F,East,Uninsured,Hyperlipidemia,60,2024-08-17
+P00681,66,F,North,Uninsured,Depression/Anxiety,30,2023-10-19
+P00682,27,F,South,Insured,Osteoporosis,60,2024-10-19
+P00683,82,F,West,Insured,Hyperlipidemia,60,2023-11-16
+P00684,82,M,Central,Insured,Osteoporosis,90,2025-06-06
+P00685,29,M,South,Uninsured,Diabetes (Type 2),30,2024-10-13
+P00686,71,M,North,Insured,Diabetes (Type 2),30,2022-06-21
+P00687,45,F,North,Insured,Asthma/COPD,60,2025-06-20
+P00688,57,F,North,Insured,Osteoporosis,30,2025-05-11
+P00689,47,F,West,Uninsured,Hyperlipidemia,30,2022-07-20
+P00690,70,M,East,Insured,Hyperlipidemia,90,2023-08-17
+P00691,84,F,East,Insured,Hyperlipidemia,30,2025-05-31
+P00692,71,F,West,Insured,Hypertension,30,2025-01-02
+P00693,80,M,Central,Insured,Asthma/COPD,30,2023-11-11
+P00694,81,F,West,Uninsured,Osteoporosis,30,2024-02-05
+P00695,24,F,North,Insured,Hyperlipidemia,60,2022-07-04
+P00696,34,F,East,Insured,Diabetes (Type 2),30,2024-02-28
+P00697,66,M,Central,Insured,Diabetes (Type 2),30,2024-06-22
+P00698,57,F,West,Insured,Hypertension,30,2023-07-11
+P00699,21,F,South,Insured,Depression/Anxiety,30,2023-05-13
+P00700,24,F,South,Insured,Hyperlipidemia,30,2024-12-22
+P00701,52,F,Central,Uninsured,Diabetes (Type 2),30,2023-10-20
+P00702,59,F,North,Insured,Depression/Anxiety,30,2023-03-26
+P00703,29,M,East,Insured,Asthma/COPD,30,2023-07-29
+P00704,29,F,North,Insured,Hypertension,30,2023-12-08
+P00705,26,M,Central,Insured,Hyperlipidemia,30,2023-03-20
+P00706,55,F,North,Insured,Hyperlipidemia,30,2024-02-23
+P00707,18,M,North,Insured,Hypertension,30,2025-01-28
+P00708,56,M,South,Insured,Hyperlipidemia,30,2024-09-16
+P00709,49,F,South,Insured,Hyperlipidemia,30,2023-02-17
+P00710,49,M,East,Insured,Hypertension,30,2023-11-15
+P00711,63,F,South,Uninsured,Hypertension,60,2024-02-04
+P00712,53,M,South,Insured,Osteoporosis,30,2024-07-08
+P00713,66,F,East,Insured,Diabetes (Type 2),60,2024-10-02
+P00714,69,F,East,Uninsured,Depression/Anxiety,60,2023-11-30
+P00715,79,M,Central,Insured,Depression/Anxiety,30,2023-05-22
+P00716,71,F,East,Insured,Osteoporosis,30,2024-06-14
+P00717,52,M,East,Insured,Depression/Anxiety,30,2022-10-20
+P00718,50,F,West,Insured,Osteoporosis,30,2024-07-01
+P00719,33,F,North,Insured,Depression/Anxiety,30,2025-03-08
+P00720,58,F,West,Insured,Hyperlipidemia,30,2024-08-09
+P00721,27,M,Central,Insured,Diabetes (Type 2),90,2023-10-03
+P00722,80,M,South,Insured,Diabetes (Type 2),30,2024-12-16
+P00723,74,F,North,Insured,Diabetes (Type 2),60,2024-01-22
+P00724,26,F,South,Insured,Hypertension,60,2024-02-01
+P00725,70,F,South,Insured,Diabetes (Type 2),30,2025-01-18
+P00726,25,M,East,Insured,Diabetes (Type 2),90,2023-01-05
+P00727,66,M,Central,Uninsured,Hypertension,90,2024-10-28
+P00728,23,F,East,Insured,Diabetes (Type 2),30,2024-07-07
+P00729,50,M,North,Insured,Depression/Anxiety,30,2024-01-19
+P00730,62,M,South,Insured,Hyperlipidemia,30,2022-08-27
+P00731,66,F,West,Insured,Osteoporosis,30,2024-10-12
+P00732,46,M,South,Uninsured,Hyperlipidemia,30,2023-02-03
+P00733,79,F,East,Insured,Osteoporosis,30,2025-03-08
+P00734,69,M,West,Insured,Osteoporosis,30,2024-11-11
+P00735,31,F,South,Uninsured,Hypertension,60,2023-07-16
+P00736,62,F,West,Insured,Asthma/COPD,30,2023-10-05
+P00737,66,F,South,Insured,Hypertension,30,2022-06-29
+P00738,40,M,North,Insured,Hyperlipidemia,30,2023-12-15
+P00739,67,F,South,Insured,Osteoporosis,60,2022-08-05
+P00740,78,F,East,Insured,Diabetes (Type 2),60,2025-06-19
+P00741,72,M,North,Insured,Hyperlipidemia,30,2024-05-23
+P00742,69,M,Central,Insured,Diabetes (Type 2),60,2023-02-21
+P00743,60,M,East,Insured,Hypertension,30,2024-11-24
+P00744,36,F,North,Insured,Hypertension,60,2022-06-23
+P00745,71,F,Central,Insured,Hypertension,60,2024-02-11
+P00746,42,F,Central,Insured,Hypertension,30,2022-10-04
+P00747,53,F,North,Insured,Hyperlipidemia,60,2022-08-01
+P00748,39,F,North,Insured,Hyperlipidemia,90,2023-03-04
+P00749,38,M,South,Uninsured,Hyperlipidemia,60,2023-04-29
+P00750,28,M,East,Insured,Depression/Anxiety,30,2024-08-28
+P00751,82,F,West,Insured,Hypertension,60,2025-03-02
+P00752,27,M,East,Insured,Diabetes (Type 2),30,2024-10-23
+P00753,23,F,West,Insured,Depression/Anxiety,60,2024-09-13
+P00754,80,F,North,Insured,Asthma/COPD,90,2024-02-29
+P00755,55,M,West,Uninsured,Diabetes (Type 2),30,2023-07-25
+P00756,47,F,Central,Insured,Hypertension,30,2023-03-15
+P00757,67,M,East,Insured,Osteoporosis,30,2025-05-03
+P00758,43,F,East,Uninsured,Osteoporosis,30,2024-01-11
+P00759,26,F,South,Insured,Diabetes (Type 2),30,2024-02-28
+P00760,66,F,Central,Uninsured,Diabetes (Type 2),30,2022-06-17
+P00761,29,M,North,Insured,Hypertension,60,2023-10-31
+P00762,55,M,South,Insured,Hyperlipidemia,30,2024-07-09
+P00763,81,M,North,Uninsured,Asthma/COPD,30,2023-12-11
+P00764,80,M,Central,Insured,Depression/Anxiety,60,2024-04-24
+P00765,42,M,East,Insured,Diabetes (Type 2),30,2024-12-01
+P00766,70,M,Central,Insured,Depression/Anxiety,30,2022-06-25
+P00767,59,F,West,Insured,Osteoporosis,60,2025-03-18
+P00768,50,M,East,Insured,Hyperlipidemia,90,2024-12-09
+P00769,27,M,East,Insured,Osteoporosis,60,2023-09-18
+P00770,43,F,South,Insured,Diabetes (Type 2),30,2024-10-09
+P00771,61,F,East,Insured,Diabetes (Type 2),30,2022-08-15
+P00772,84,F,West,Insured,Hyperlipidemia,90,2023-05-14
+P00773,18,F,Central,Insured,Hyperlipidemia,60,2022-09-30
+P00774,66,F,East,Insured,Asthma/COPD,60,2024-05-18
+P00775,74,F,Central,Insured,Hyperlipidemia,60,2025-01-22
+P00776,81,F,Central,Insured,Diabetes (Type 2),30,2024-04-10
+P00777,46,F,East,Insured,Diabetes (Type 2),30,2024-08-12
+P00778,25,M,East,Insured,Hyperlipidemia,60,2022-11-09
+P00779,36,M,North,Insured,Diabetes (Type 2),90,2025-04-20
+P00780,74,M,South,Insured,Depression/Anxiety,30,2023-01-05
+P00781,76,M,Central,Insured,Diabetes (Type 2),60,2024-01-16
+P00782,60,F,North,Uninsured,Diabetes (Type 2),30,2024-07-11
+P00783,26,M,South,Uninsured,Hyperlipidemia,90,2025-01-23
+P00784,26,M,West,Insured,Hypertension,30,2025-04-19
+P00785,50,M,South,Uninsured,Depression/Anxiety,60,2024-04-06
+P00786,57,F,Central,Uninsured,Hyperlipidemia,30,2024-03-12
+P00787,20,M,West,Insured,Hyperlipidemia,60,2023-09-14
+P00788,63,F,North,Insured,Depression/Anxiety,60,2024-03-03
+P00789,54,F,South,Insured,Depression/Anxiety,30,2024-07-01
+P00790,18,M,West,Insured,Osteoporosis,90,2024-05-31
+P00791,24,F,Central,Insured,Diabetes (Type 2),90,2024-03-30
+P00792,48,M,Central,Insured,Diabetes (Type 2),90,2023-10-11
+P00793,66,M,Central,Insured,Depression/Anxiety,30,2023-01-08
+P00794,73,F,North,Uninsured,Hyperlipidemia,60,2022-08-01
+P00795,46,F,West,Insured,Depression/Anxiety,60,2023-09-19
+P00796,37,M,North,Insured,Hyperlipidemia,60,2023-08-22
+P00797,82,F,North,Insured,Depression/Anxiety,30,2024-04-17
+P00798,48,M,West,Insured,Hypertension,60,2025-03-13
+P00799,39,F,East,Uninsured,Hyperlipidemia,30,2024-08-01
+P00800,47,F,West,Insured,Hypertension,30,2024-11-25
+P00801,18,F,Central,Insured,Diabetes (Type 2),30,2024-03-14
+P00802,38,F,North,Insured,Depression/Anxiety,30,2025-04-13
+P00803,52,M,East,Insured,Hyperlipidemia,30,2025-04-26
+P00804,79,F,Central,Insured,Diabetes (Type 2),30,2022-11-20
+P00805,67,F,East,Uninsured,Osteoporosis,60,2024-05-22
+P00806,70,F,East,Insured,Depression/Anxiety,30,2023-12-24
+P00807,54,M,East,Insured,Hyperlipidemia,30,2025-06-02
+P00808,25,M,Central,Insured,Asthma/COPD,60,2024-03-22
+P00809,44,M,North,Insured,Diabetes (Type 2),90,2022-06-19
+P00810,84,M,Central,Insured,Osteoporosis,90,2023-01-24
+P00811,20,M,Central,Insured,Hypertension,90,2022-10-25
+P00812,76,M,Central,Insured,Diabetes (Type 2),90,2023-01-13
+P00813,63,F,East,Insured,Diabetes (Type 2),60,2022-09-17
+P00814,37,M,East,Uninsured,Hypertension,90,2024-10-30
+P00815,70,F,South,Insured,Hyperlipidemia,90,2023-12-10
+P00816,74,F,South,Insured,Hypertension,30,2024-06-28
+P00817,20,F,Central,Insured,Depression/Anxiety,90,2025-07-03
+P00818,25,M,East,Insured,Hypertension,60,2024-05-31
+P00819,62,F,West,Insured,Hypertension,60,2023-11-24
+P00820,84,F,North,Insured,Asthma/COPD,90,2023-03-29
+P00821,19,F,West,Insured,Depression/Anxiety,30,2024-09-29
+P00822,62,F,West,Insured,Asthma/COPD,30,2023-12-25
+P00823,27,F,Central,Insured,Hyperlipidemia,60,2024-10-02
+P00824,61,F,North,Insured,Hypertension,60,2022-06-27
+P00825,59,F,East,Insured,Hyperlipidemia,90,2022-12-02
+P00826,24,M,East,Insured,Hyperlipidemia,90,2022-10-25
+P00827,63,F,East,Insured,Hypertension,60,2024-07-09
+P00828,78,M,North,Insured,Osteoporosis,90,2024-01-07
+P00829,75,F,East,Uninsured,Hyperlipidemia,30,2023-05-24
+P00830,19,F,South,Uninsured,Depression/Anxiety,90,2023-05-16
+P00831,34,M,West,Insured,Hyperlipidemia,30,2024-04-16
+P00832,34,F,South,Insured,Hyperlipidemia,60,2025-05-26
+P00833,48,M,East,Insured,Diabetes (Type 2),30,2025-06-28
+P00834,27,M,West,Insured,Asthma/COPD,60,2023-11-15
+P00835,75,M,North,Insured,Diabetes (Type 2),30,2024-06-26
+P00836,70,M,West,Uninsured,Hypertension,30,2022-09-03
+P00837,72,M,West,Insured,Hypertension,60,2025-05-03
+P00838,31,M,North,Insured,Depression/Anxiety,60,2022-06-21
+P00839,18,F,North,Insured,Asthma/COPD,30,2023-06-22
+P00840,79,F,Central,Insured,Asthma/COPD,60,2024-08-27
+P00841,37,M,South,Uninsured,Depression/Anxiety,30,2025-05-30
+P00842,61,F,Central,Insured,Asthma/COPD,30,2022-12-11
+P00843,78,M,East,Insured,Depression/Anxiety,30,2024-06-16
+P00844,20,F,South,Insured,Diabetes (Type 2),60,2022-12-30
+P00845,18,M,South,Insured,Hyperlipidemia,60,2022-07-27
+P00846,18,F,West,Insured,Hypertension,60,2023-09-22
+P00847,28,M,North,Insured,Diabetes (Type 2),90,2024-03-13
+P00848,21,F,East,Insured,Diabetes (Type 2),60,2023-03-26
+P00849,72,M,South,Insured,Hypertension,60,2025-06-03
+P00850,58,F,North,Insured,Asthma/COPD,90,2024-04-27
+P00851,83,M,South,Insured,Asthma/COPD,30,2023-10-08
+P00852,71,F,East,Insured,Diabetes (Type 2),30,2023-12-01
+P00853,82,F,West,Uninsured,Depression/Anxiety,30,2023-11-07
+P00854,33,F,North,Insured,Diabetes (Type 2),60,2022-10-04
+P00855,37,F,Central,Insured,Hypertension,30,2024-04-15
+P00856,74,F,Central,Uninsured,Diabetes (Type 2),30,2024-11-02
+P00857,34,M,West,Insured,Diabetes (Type 2),90,2023-09-19
+P00858,21,M,Central,Insured,Diabetes (Type 2),90,2023-09-24
+P00859,62,M,East,Insured,Hypertension,30,2025-03-24
+P00860,71,M,Central,Insured,Hypertension,30,2024-04-20
+P00861,82,F,West,Insured,Hypertension,30,2023-05-03
+P00862,80,F,East,Uninsured,Asthma/COPD,30,2022-06-05
+P00863,26,F,North,Insured,Hypertension,90,2024-12-16
+P00864,69,F,East,Insured,Diabetes (Type 2),60,2024-05-08
+P00865,74,F,Central,Insured,Hyperlipidemia,30,2024-05-07
+P00866,64,F,Central,Insured,Diabetes (Type 2),30,2023-04-16
+P00867,72,F,East,Insured,Hyperlipidemia,30,2022-12-28
+P00868,74,M,South,Insured,Hypertension,30,2023-12-11
+P00869,47,F,West,Insured,Depression/Anxiety,30,2024-10-03
+P00870,20,F,North,Insured,Hyperlipidemia,60,2023-05-03
+P00871,48,M,North,Insured,Depression/Anxiety,30,2024-01-17
+P00872,31,M,East,Insured,Hyperlipidemia,90,2025-06-29
+P00873,25,F,Central,Insured,Diabetes (Type 2),30,2023-02-03
+P00874,26,F,South,Insured,Diabetes (Type 2),60,2023-02-16
+P00875,64,F,East,Insured,Diabetes (Type 2),30,2023-02-22
+P00876,51,F,South,Insured,Hyperlipidemia,30,2025-03-27
+P00877,54,M,East,Insured,Hypertension,90,2024-01-18
+P00878,67,M,North,Insured,Diabetes (Type 2),60,2025-04-02
+P00879,54,F,East,Insured,Depression/Anxiety,30,2025-05-06
+P00880,60,F,East,Insured,Hypertension,30,2023-09-19
+P00881,23,F,South,Insured,Hypertension,60,2022-08-02
+P00882,75,F,South,Insured,Depression/Anxiety,90,2023-05-10
+P00883,48,M,West,Insured,Diabetes (Type 2),60,2024-02-04
+P00884,28,F,North,Insured,Osteoporosis,30,2023-08-05
+P00885,72,M,North,Uninsured,Asthma/COPD,30,2022-06-03
+P00886,67,M,North,Uninsured,Asthma/COPD,30,2025-06-21
+P00887,21,M,Central,Insured,Diabetes (Type 2),30,2023-05-09
+P00888,30,M,South,Insured,Diabetes (Type 2),60,2024-04-29
+P00889,19,F,North,Insured,Hyperlipidemia,60,2025-05-04
+P00890,36,M,Central,Uninsured,Depression/Anxiety,30,2024-02-06
+P00891,24,M,North,Insured,Depression/Anxiety,60,2024-07-24
+P00892,65,F,South,Insured,Diabetes (Type 2),60,2022-07-11
+P00893,53,F,North,Insured,Hypertension,60,2024-07-26
+P00894,83,M,West,Insured,Hypertension,30,2025-01-13
+P00895,68,M,West,Insured,Hypertension,30,2025-04-02
+P00896,58,M,West,Insured,Hypertension,30,2022-09-03
+P00897,52,F,South,Insured,Asthma/COPD,30,2023-02-13
+P00898,21,M,South,Insured,Hypertension,30,2022-07-24
+P00899,22,M,Central,Uninsured,Hyperlipidemia,30,2025-04-02
+P00900,59,M,Central,Uninsured,Asthma/COPD,30,2023-04-07
+P00901,18,F,North,Insured,Diabetes (Type 2),30,2024-01-22
+P00902,20,M,West,Insured,Hyperlipidemia,90,2023-11-20
+P00903,32,F,Central,Insured,Depression/Anxiety,60,2024-07-17
+P00904,77,M,East,Uninsured,Diabetes (Type 2),30,2025-03-07
+P00905,48,F,West,Insured,Hyperlipidemia,90,2023-06-01
+P00906,65,M,North,Insured,Osteoporosis,30,2024-11-08
+P00907,45,M,North,Uninsured,Depression/Anxiety,30,2023-04-25
+P00908,29,M,North,Insured,Osteoporosis,90,2023-01-10
+P00909,42,F,North,Insured,Asthma/COPD,30,2022-09-28
+P00910,24,F,Central,Insured,Diabetes (Type 2),30,2023-07-26
+P00911,69,M,West,Insured,Depression/Anxiety,30,2024-02-23
+P00912,30,M,West,Insured,Hyperlipidemia,30,2024-10-28
+P00913,43,F,South,Insured,Depression/Anxiety,60,2025-01-13
+P00914,83,F,Central,Uninsured,Depression/Anxiety,30,2024-01-17
+P00915,57,M,North,Insured,Depression/Anxiety,30,2023-09-05
+P00916,48,M,Central,Uninsured,Osteoporosis,30,2022-12-15
+P00917,54,F,North,Insured,Diabetes (Type 2),30,2025-03-29
+P00918,70,F,North,Insured,Depression/Anxiety,30,2023-08-22
+P00919,35,F,North,Uninsured,Diabetes (Type 2),90,2024-10-11
+P00920,60,F,West,Insured,Hyperlipidemia,60,2024-05-07
+P00921,76,F,South,Insured,Depression/Anxiety,30,2025-04-17
+P00922,56,M,East,Insured,Osteoporosis,60,2025-06-03
+P00923,47,M,East,Insured,Diabetes (Type 2),30,2024-08-07
+P00924,27,M,West,Uninsured,Hyperlipidemia,30,2024-06-17
+P00925,34,M,South,Insured,Diabetes (Type 2),30,2022-11-02
+P00926,81,M,North,Insured,Hypertension,30,2022-06-19
+P00927,54,M,South,Insured,Diabetes (Type 2),60,2024-02-07
+P00928,38,F,South,Insured,Asthma/COPD,90,2024-08-04
+P00929,46,M,West,Insured,Diabetes (Type 2),30,2024-09-20
+P00930,56,M,West,Insured,Asthma/COPD,30,2023-03-11
+P00931,54,F,North,Insured,Diabetes (Type 2),60,2023-12-21
+P00932,64,F,West,Insured,Depression/Anxiety,30,2025-01-29
+P00933,35,F,North,Uninsured,Hyperlipidemia,30,2022-09-17
+P00934,61,F,West,Insured,Depression/Anxiety,90,2023-08-08
+P00935,47,F,South,Insured,Depression/Anxiety,90,2025-05-02
+P00936,81,M,South,Insured,Depression/Anxiety,90,2023-01-12
+P00937,28,M,East,Insured,Asthma/COPD,30,2023-05-24
+P00938,27,F,South,Insured,Hyperlipidemia,30,2023-11-11
+P00939,48,M,West,Insured,Hypertension,30,2024-07-17
+P00940,52,M,Central,Insured,Diabetes (Type 2),90,2023-03-16
+P00941,64,M,Central,Uninsured,Depression/Anxiety,30,2024-11-11
+P00942,45,M,East,Insured,Hyperlipidemia,30,2023-02-22
+P00943,79,M,East,Insured,Hyperlipidemia,30,2023-07-21
+P00944,49,M,East,Uninsured,Hyperlipidemia,60,2024-03-09
+P00945,26,F,West,Insured,Diabetes (Type 2),60,2022-06-14
+P00946,25,F,East,Uninsured,Depression/Anxiety,60,2024-10-14
+P00947,83,M,East,Insured,Depression/Anxiety,30,2024-06-25
+P00948,26,F,East,Uninsured,Depression/Anxiety,60,2024-12-29
+P00949,81,M,South,Insured,Depression/Anxiety,30,2023-04-07
+P00950,36,F,East,Insured,Asthma/COPD,30,2023-08-23
+P00951,24,F,West,Insured,Hyperlipidemia,30,2025-03-11
+P00952,38,M,East,Insured,Asthma/COPD,30,2022-08-15
+P00953,59,F,Central,Insured,Hypertension,30,2023-12-07
+P00954,46,F,Central,Uninsured,Depression/Anxiety,90,2023-11-29
+P00955,70,F,East,Insured,Depression/Anxiety,30,2023-10-19
+P00956,58,F,Central,Insured,Hyperlipidemia,30,2023-10-03
+P00957,44,F,North,Uninsured,Diabetes (Type 2),60,2024-09-21
+P00958,60,M,Central,Insured,Hyperlipidemia,60,2023-01-09
+P00959,83,F,South,Insured,Diabetes (Type 2),30,2025-03-03
+P00960,45,F,East,Insured,Asthma/COPD,60,2025-03-08
+P00961,28,F,South,Insured,Diabetes (Type 2),30,2022-12-20
+P00962,45,M,East,Insured,Hypertension,30,2025-06-04
+P00963,74,F,South,Insured,Hyperlipidemia,60,2023-03-23
+P00964,32,M,West,Insured,Diabetes (Type 2),60,2022-07-29
+P00965,81,F,North,Insured,Hypertension,30,2023-08-24
+P00966,57,M,Central,Insured,Hyperlipidemia,30,2024-11-15
+P00967,58,F,Central,Insured,Hyperlipidemia,30,2025-01-09
+P00968,39,F,East,Insured,Hypertension,30,2024-05-30
+P00969,79,M,East,Insured,Hyperlipidemia,90,2024-12-02
+P00970,20,F,West,Insured,Hyperlipidemia,30,2023-03-23
+P00971,38,M,North,Insured,Depression/Anxiety,90,2025-02-17
+P00972,46,F,West,Insured,Diabetes (Type 2),30,2024-05-18
+P00973,49,F,South,Insured,Diabetes (Type 2),90,2022-10-29
+P00974,49,M,West,Uninsured,Asthma/COPD,30,2022-10-24
+P00975,27,M,South,Insured,Hyperlipidemia,30,2023-03-29
+P00976,33,M,West,Insured,Hypertension,30,2022-08-18
+P00977,24,M,West,Insured,Osteoporosis,30,2023-04-16
+P00978,56,F,South,Insured,Hypertension,90,2025-06-26
+P00979,41,F,West,Uninsured,Osteoporosis,60,2023-02-27
+P00980,55,M,East,Uninsured,Depression/Anxiety,60,2024-05-19
+P00981,57,F,South,Uninsured,Asthma/COPD,30,2025-06-08
+P00982,65,M,East,Insured,Asthma/COPD,60,2023-03-13
+P00983,54,F,Central,Insured,Diabetes (Type 2),60,2024-07-25
+P00984,61,M,North,Insured,Depression/Anxiety,90,2023-10-22
+P00985,57,F,Central,Insured,Diabetes (Type 2),60,2023-04-19
+P00986,61,F,Central,Insured,Depression/Anxiety,60,2025-05-08
+P00987,59,M,East,Insured,Hyperlipidemia,30,2024-06-11
+P00988,39,F,West,Insured,Hypertension,90,2023-10-09
+P00989,34,F,South,Uninsured,Hypertension,30,2024-12-03
+P00990,70,M,North,Insured,Hypertension,30,2025-03-13
+P00991,40,M,East,Insured,Hypertension,90,2024-10-30
+P00992,54,F,Central,Uninsured,Diabetes (Type 2),30,2025-02-05
+P00993,31,M,South,Insured,Asthma/COPD,30,2023-05-30
+P00994,46,M,West,Insured,Hyperlipidemia,30,2023-06-24
+P00995,53,M,West,Insured,Osteoporosis,30,2023-02-18
+P00996,59,F,West,Insured,Osteoporosis,90,2024-07-25
+P00997,53,M,South,Insured,Depression/Anxiety,90,2024-11-23
+P00998,42,M,South,Insured,Diabetes (Type 2),30,2024-06-15
+P00999,82,F,East,Insured,Osteoporosis,90,2024-04-07
+P01000,52,F,Central,Insured,Depression/Anxiety,60,2024-10-18
+P01001,72,F,Central,Insured,Depression/Anxiety,90,2022-12-22
+P01002,67,M,East,Insured,Asthma/COPD,30,2023-07-19
+P01003,55,F,Central,Insured,Hyperlipidemia,30,2024-08-07
+P01004,77,F,East,Insured,Hyperlipidemia,30,2022-07-29
+P01005,26,M,South,Insured,Asthma/COPD,30,2025-03-25
+P01006,79,F,North,Insured,Hyperlipidemia,60,2022-12-11
+P01007,74,M,West,Insured,Osteoporosis,30,2024-11-05
+P01008,51,M,West,Insured,Hypertension,30,2024-04-27
+P01009,67,M,Central,Insured,Hypertension,60,2025-01-12
+P01010,52,F,West,Insured,Hyperlipidemia,30,2024-10-23
+P01011,36,M,North,Insured,Hypertension,30,2024-01-04
+P01012,71,M,East,Insured,Asthma/COPD,60,2024-10-01
+P01013,34,M,West,Insured,Hypertension,90,2023-06-27
+P01014,39,M,East,Insured,Depression/Anxiety,30,2024-03-20
+P01015,52,M,East,Insured,Diabetes (Type 2),90,2025-03-30
+P01016,74,F,Central,Insured,Asthma/COPD,90,2022-09-04
+P01017,43,M,West,Insured,Diabetes (Type 2),60,2023-07-07
+P01018,51,M,West,Insured,Hypertension,30,2022-06-20
+P01019,20,F,East,Insured,Hypertension,60,2024-01-25
+P01020,25,M,South,Insured,Hyperlipidemia,90,2024-10-31
+P01021,21,F,East,Uninsured,Asthma/COPD,30,2022-07-14
+P01022,22,M,Central,Uninsured,Asthma/COPD,90,2024-02-11
+P01023,76,M,West,Uninsured,Diabetes (Type 2),90,2023-09-12
+P01024,74,M,West,Insured,Hyperlipidemia,30,2024-10-31
+P01025,73,M,North,Insured,Hypertension,60,2023-02-04
+P01026,21,M,Central,Insured,Hyperlipidemia,30,2022-12-01
+P01027,23,F,South,Insured,Hyperlipidemia,60,2022-09-15
+P01028,36,M,Central,Insured,Diabetes (Type 2),90,2023-09-03
+P01029,55,F,East,Insured,Hyperlipidemia,30,2023-12-03
+P01030,40,F,Central,Insured,Asthma/COPD,30,2025-04-03
+P01031,50,M,Central,Insured,Hypertension,30,2023-11-08
+P01032,29,F,West,Uninsured,Diabetes (Type 2),90,2022-12-11
+P01033,66,M,Central,Insured,Hypertension,30,2024-07-29
+P01034,39,M,West,Insured,Hypertension,90,2022-08-09
+P01035,22,M,Central,Insured,Hypertension,30,2023-06-25
+P01036,67,F,North,Insured,Depression/Anxiety,30,2024-06-07
+P01037,78,F,North,Uninsured,Hypertension,90,2023-03-14
+P01038,18,M,East,Insured,Depression/Anxiety,60,2024-04-02
+P01039,47,F,Central,Uninsured,Osteoporosis,30,2023-10-25
+P01040,73,F,West,Insured,Asthma/COPD,30,2025-05-10
+P01041,65,M,East,Insured,Depression/Anxiety,30,2023-04-21
+P01042,75,F,East,Insured,Hypertension,30,2025-03-20
+P01043,45,F,West,Insured,Hypertension,30,2024-05-07
+P01044,42,F,Central,Insured,Diabetes (Type 2),60,2024-09-24
+P01045,65,F,Central,Insured,Asthma/COPD,30,2022-12-08
+P01046,28,M,North,Uninsured,Asthma/COPD,30,2022-06-22
+P01047,34,M,East,Insured,Diabetes (Type 2),30,2024-09-03
+P01048,58,F,South,Uninsured,Diabetes (Type 2),30,2023-11-25
+P01049,62,M,West,Insured,Hyperlipidemia,90,2023-05-15
+P01050,26,M,East,Uninsured,Diabetes (Type 2),30,2025-03-08
+P01051,52,F,Central,Insured,Asthma/COPD,30,2023-06-04
+P01052,42,M,East,Insured,Diabetes (Type 2),60,2023-10-03
+P01053,51,M,West,Insured,Diabetes (Type 2),90,2024-08-26
+P01054,82,F,North,Insured,Diabetes (Type 2),60,2025-05-22
+P01055,23,M,Central,Uninsured,Hypertension,90,2025-03-11
+P01056,84,M,North,Insured,Diabetes (Type 2),90,2024-06-06
+P01057,48,F,South,Insured,Osteoporosis,60,2022-10-03
+P01058,69,M,Central,Insured,Hypertension,90,2022-10-02
+P01059,46,M,Central,Insured,Hyperlipidemia,30,2024-07-22
+P01060,38,M,East,Insured,Diabetes (Type 2),90,2023-12-27
+P01061,69,F,East,Insured,Hypertension,90,2022-10-29
+P01062,64,M,North,Insured,Hypertension,90,2024-07-25
+P01063,27,F,Central,Insured,Diabetes (Type 2),30,2025-04-29
+P01064,65,M,North,Insured,Hypertension,60,2022-08-13
+P01065,68,M,North,Uninsured,Diabetes (Type 2),30,2024-12-19
+P01066,43,F,East,Insured,Osteoporosis,60,2023-06-25
+P01067,80,F,North,Insured,Depression/Anxiety,30,2023-08-24
+P01068,60,F,North,Insured,Asthma/COPD,60,2024-08-18
+P01069,40,M,West,Insured,Diabetes (Type 2),60,2023-03-06
+P01070,18,F,West,Insured,Depression/Anxiety,30,2022-11-25
+P01071,63,F,South,Insured,Depression/Anxiety,30,2025-05-24
+P01072,32,M,West,Insured,Hypertension,30,2023-06-29
+P01073,68,M,West,Insured,Diabetes (Type 2),60,2022-12-09
+P01074,53,F,South,Insured,Hyperlipidemia,60,2024-07-18
+P01075,49,M,West,Uninsured,Osteoporosis,60,2023-01-31
+P01076,28,F,East,Insured,Hyperlipidemia,30,2024-10-23
+P01077,65,F,Central,Insured,Diabetes (Type 2),90,2022-08-19
+P01078,29,M,North,Insured,Asthma/COPD,60,2024-01-07
+P01079,45,M,South,Insured,Hypertension,30,2023-08-29
+P01080,74,M,South,Insured,Asthma/COPD,30,2025-05-16
+P01081,79,M,South,Insured,Osteoporosis,30,2024-01-10
+P01082,84,M,Central,Insured,Osteoporosis,30,2025-04-10
+P01083,82,F,West,Insured,Osteoporosis,30,2023-03-08
+P01084,55,M,East,Insured,Hypertension,30,2023-11-17
+P01085,31,F,East,Uninsured,Depression/Anxiety,30,2024-12-05
+P01086,74,M,Central,Insured,Depression/Anxiety,30,2022-11-28
+P01087,71,M,East,Uninsured,Depression/Anxiety,30,2025-04-13
+P01088,84,M,South,Insured,Diabetes (Type 2),90,2024-10-20
+P01089,61,F,North,Uninsured,Hypertension,30,2024-07-04
+P01090,27,M,South,Insured,Diabetes (Type 2),30,2023-03-02
+P01091,51,M,West,Insured,Hyperlipidemia,60,2024-12-10
+P01092,48,F,East,Insured,Hyperlipidemia,30,2025-01-07
+P01093,74,F,East,Insured,Osteoporosis,30,2023-04-27
+P01094,44,M,East,Insured,Depression/Anxiety,30,2024-03-24
+P01095,40,F,Central,Uninsured,Depression/Anxiety,30,2022-08-08
+P01096,23,M,Central,Insured,Diabetes (Type 2),60,2023-08-19
+P01097,73,M,North,Insured,Hyperlipidemia,30,2022-11-18
+P01098,68,F,North,Insured,Diabetes (Type 2),30,2024-02-19
+P01099,20,M,South,Uninsured,Diabetes (Type 2),60,2024-02-10
+P01100,47,M,Central,Uninsured,Hypertension,90,2024-01-23
+P01101,50,F,East,Insured,Diabetes (Type 2),30,2024-07-04
+P01102,49,M,Central,Insured,Diabetes (Type 2),30,2025-04-10
+P01103,79,F,West,Insured,Hyperlipidemia,30,2023-01-09
+P01104,28,F,East,Insured,Hypertension,60,2023-01-29
+P01105,38,F,South,Uninsured,Diabetes (Type 2),60,2023-01-30
+P01106,30,F,South,Insured,Hypertension,60,2025-04-13
+P01107,34,F,North,Insured,Depression/Anxiety,30,2022-09-13
+P01108,78,F,East,Insured,Hyperlipidemia,30,2022-07-06
+P01109,81,M,South,Insured,Diabetes (Type 2),90,2022-11-29
+P01110,20,M,South,Uninsured,Hypertension,30,2024-10-16
+P01111,60,F,North,Insured,Asthma/COPD,90,2024-03-16
+P01112,33,F,West,Insured,Hyperlipidemia,30,2025-04-04
+P01113,30,M,Central,Insured,Depression/Anxiety,30,2023-01-17
+P01114,37,F,East,Uninsured,Hyperlipidemia,30,2023-08-19
+P01115,31,M,East,Insured,Osteoporosis,30,2024-02-18
+P01116,50,F,Central,Uninsured,Asthma/COPD,90,2022-08-22
+P01117,84,M,East,Insured,Diabetes (Type 2),30,2025-04-03
+P01118,57,M,West,Insured,Depression/Anxiety,60,2024-11-25
+P01119,66,M,East,Insured,Diabetes (Type 2),60,2022-11-10
+P01120,51,M,East,Insured,Depression/Anxiety,90,2025-01-07
+P01121,18,M,East,Insured,Diabetes (Type 2),60,2023-10-20
+P01122,23,M,West,Insured,Hypertension,90,2023-06-15
+P01123,36,M,West,Insured,Asthma/COPD,90,2025-05-04
+P01124,34,M,East,Insured,Osteoporosis,30,2024-01-07
+P01125,74,M,North,Insured,Diabetes (Type 2),90,2023-02-12
+P01126,74,M,Central,Insured,Asthma/COPD,90,2024-11-30
+P01127,75,M,Central,Insured,Diabetes (Type 2),30,2024-08-17
+P01128,60,M,North,Insured,Hyperlipidemia,60,2023-01-03
+P01129,55,M,South,Uninsured,Osteoporosis,30,2024-07-04
+P01130,61,M,Central,Uninsured,Diabetes (Type 2),60,2024-05-11
+P01131,45,M,South,Insured,Hyperlipidemia,30,2023-04-07
+P01132,62,F,Central,Insured,Depression/Anxiety,60,2023-09-30
+P01133,71,F,West,Insured,Hypertension,30,2025-01-03
+P01134,69,F,Central,Insured,Diabetes (Type 2),60,2022-12-14
+P01135,59,F,North,Uninsured,Diabetes (Type 2),30,2024-08-24
+P01136,21,F,East,Insured,Depression/Anxiety,60,2024-12-25
+P01137,66,M,East,Insured,Hypertension,30,2025-04-23
+P01138,42,F,Central,Insured,Diabetes (Type 2),60,2023-06-02
+P01139,67,F,South,Insured,Depression/Anxiety,30,2023-03-29
+P01140,54,F,South,Uninsured,Hypertension,30,2025-04-20
+P01141,77,F,North,Insured,Diabetes (Type 2),30,2023-11-05
+P01142,40,M,West,Insured,Depression/Anxiety,90,2024-03-04
+P01143,80,F,Central,Insured,Depression/Anxiety,30,2024-01-01
+P01144,74,F,North,Uninsured,Hypertension,60,2024-01-02
+P01145,40,M,South,Insured,Osteoporosis,30,2024-05-06
+P01146,50,F,South,Uninsured,Depression/Anxiety,60,2023-09-21
+P01147,53,M,Central,Uninsured,Diabetes (Type 2),30,2023-08-17
+P01148,69,F,East,Insured,Depression/Anxiety,30,2023-08-27
+P01149,64,F,South,Uninsured,Depression/Anxiety,30,2024-06-10
+P01150,75,M,South,Insured,Hyperlipidemia,30,2024-12-10
+P01151,42,F,East,Insured,Hyperlipidemia,30,2024-02-17
+P01152,51,M,South,Insured,Depression/Anxiety,30,2024-07-04
+P01153,46,F,North,Insured,Asthma/COPD,30,2023-09-10
+P01154,78,F,Central,Insured,Hyperlipidemia,90,2024-10-21
+P01155,38,F,East,Insured,Osteoporosis,30,2023-08-19
+P01156,57,F,South,Insured,Depression/Anxiety,90,2023-09-19
+P01157,26,M,West,Insured,Osteoporosis,30,2022-08-02
+P01158,74,M,West,Insured,Asthma/COPD,30,2023-03-23
+P01159,43,M,North,Insured,Hypertension,30,2024-09-11
+P01160,40,M,North,Insured,Hypertension,30,2022-09-07
+P01161,57,M,North,Uninsured,Hyperlipidemia,30,2023-02-08
+P01162,51,M,West,Uninsured,Hyperlipidemia,90,2024-10-24
+P01163,74,M,West,Insured,Hyperlipidemia,60,2025-02-10
+P01164,53,M,West,Insured,Osteoporosis,60,2023-09-12
+P01165,52,F,West,Insured,Asthma/COPD,30,2023-09-03
+P01166,25,M,East,Insured,Diabetes (Type 2),30,2023-12-27
+P01167,19,F,East,Insured,Depression/Anxiety,60,2024-10-17
+P01168,44,M,West,Insured,Hypertension,30,2023-11-12
+P01169,84,M,South,Insured,Hyperlipidemia,30,2022-12-13
+P01170,79,F,Central,Insured,Hypertension,30,2023-09-30
+P01171,60,M,Central,Insured,Hyperlipidemia,30,2023-03-15
+P01172,60,M,Central,Insured,Hyperlipidemia,60,2024-07-12
+P01173,44,F,Central,Uninsured,Depression/Anxiety,30,2022-11-09
+P01174,29,M,South,Insured,Depression/Anxiety,30,2024-04-18
+P01175,18,M,North,Insured,Diabetes (Type 2),90,2022-10-25
+P01176,40,F,East,Insured,Hypertension,90,2025-06-02
+P01177,39,M,West,Insured,Hypertension,30,2024-05-23
+P01178,30,F,West,Insured,Asthma/COPD,30,2022-11-04
+P01179,35,M,South,Insured,Asthma/COPD,60,2025-05-18
+P01180,19,F,South,Insured,Diabetes (Type 2),30,2024-03-09
+P01181,58,F,East,Insured,Diabetes (Type 2),30,2024-04-15
+P01182,80,F,Central,Insured,Diabetes (Type 2),30,2022-08-11
+P01183,64,F,North,Insured,Depression/Anxiety,30,2022-12-29
+P01184,48,M,South,Insured,Diabetes (Type 2),90,2024-11-29
+P01185,46,F,South,Insured,Hypertension,60,2023-11-10
+P01186,38,M,Central,Uninsured,Diabetes (Type 2),90,2024-04-26
+P01187,27,F,East,Insured,Diabetes (Type 2),60,2025-06-19
+P01188,58,F,North,Insured,Diabetes (Type 2),60,2023-09-27
+P01189,55,M,South,Uninsured,Hypertension,60,2023-08-05
+P01190,18,F,North,Insured,Depression/Anxiety,60,2024-11-22
+P01191,45,M,East,Insured,Hyperlipidemia,30,2022-08-14
+P01192,36,F,Central,Insured,Diabetes (Type 2),30,2023-10-27
+P01193,29,F,East,Insured,Hyperlipidemia,30,2025-01-21
+P01194,65,M,Central,Insured,Hyperlipidemia,30,2023-02-13
+P01195,53,F,West,Uninsured,Osteoporosis,30,2023-05-10
+P01196,60,F,Central,Uninsured,Asthma/COPD,30,2023-11-16
+P01197,65,M,South,Insured,Hypertension,60,2022-08-23
+P01198,83,F,Central,Insured,Osteoporosis,30,2022-08-19
+P01199,71,M,South,Insured,Depression/Anxiety,30,2023-03-11
+P01200,59,F,East,Insured,Depression/Anxiety,30,2025-03-10
+P01201,76,M,West,Insured,Diabetes (Type 2),30,2023-02-06
+P01202,49,F,South,Insured,Diabetes (Type 2),90,2024-09-03
+P01203,83,F,South,Insured,Hypertension,30,2023-09-25
+P01204,69,M,North,Insured,Asthma/COPD,30,2024-10-06
+P01205,61,M,North,Insured,Hyperlipidemia,30,2023-06-08
+P01206,78,F,East,Insured,Diabetes (Type 2),90,2025-02-12
+P01207,52,F,Central,Insured,Hyperlipidemia,60,2023-07-24
+P01208,66,M,South,Uninsured,Hypertension,30,2024-11-10
+P01209,37,M,East,Insured,Hypertension,30,2024-12-25
+P01210,82,M,Central,Insured,Depression/Anxiety,60,2023-10-01
+P01211,59,F,West,Insured,Hyperlipidemia,90,2024-06-22
+P01212,70,M,North,Insured,Osteoporosis,30,2022-10-12
+P01213,48,F,East,Uninsured,Depression/Anxiety,30,2023-12-13
+P01214,76,M,North,Uninsured,Hyperlipidemia,30,2023-07-27
+P01215,22,F,South,Insured,Osteoporosis,30,2025-05-13
+P01216,25,M,South,Insured,Hypertension,60,2025-04-20
+P01217,51,M,West,Insured,Depression/Anxiety,90,2024-11-01
+P01218,67,F,North,Insured,Depression/Anxiety,90,2025-05-07
+P01219,72,F,South,Insured,Diabetes (Type 2),60,2025-06-06
+P01220,47,M,South,Insured,Hypertension,30,2024-10-14
+P01221,61,M,South,Insured,Hypertension,90,2024-04-01
+P01222,55,M,West,Insured,Hypertension,30,2023-01-17
+P01223,82,M,South,Insured,Hyperlipidemia,30,2024-12-07
+P01224,61,M,South,Insured,Hypertension,60,2023-01-06
+P01225,45,F,East,Insured,Depression/Anxiety,30,2022-12-27
+P01226,82,M,West,Insured,Hypertension,90,2025-02-18
+P01227,25,F,North,Insured,Hypertension,90,2022-10-08
+P01228,83,M,Central,Insured,Diabetes (Type 2),60,2022-11-08
+P01229,28,M,Central,Insured,Hypertension,60,2023-12-29
+P01230,37,F,West,Insured,Asthma/COPD,30,2024-03-21
+P01231,73,M,East,Uninsured,Diabetes (Type 2),30,2022-07-22
+P01232,67,F,West,Uninsured,Diabetes (Type 2),60,2023-08-02
+P01233,83,M,East,Insured,Hypertension,60,2023-02-10
+P01234,68,F,South,Insured,Diabetes (Type 2),90,2023-05-07
+P01235,60,F,South,Insured,Hyperlipidemia,30,2022-12-22
+P01236,41,F,North,Insured,Osteoporosis,30,2024-07-04
+P01237,18,M,Central,Insured,Diabetes (Type 2),30,2023-11-17
+P01238,26,M,South,Insured,Depression/Anxiety,60,2025-05-19
+P01239,37,M,South,Insured,Hyperlipidemia,60,2022-06-10
+P01240,20,F,Central,Insured,Osteoporosis,90,2024-10-25
+P01241,52,M,East,Insured,Hyperlipidemia,30,2025-03-24
+P01242,70,M,West,Insured,Diabetes (Type 2),30,2023-12-01
+P01243,82,M,South,Insured,Depression/Anxiety,30,2024-07-29
+P01244,50,M,South,Insured,Osteoporosis,30,2023-10-11
+P01245,76,M,West,Insured,Hyperlipidemia,30,2024-04-02
+P01246,84,M,East,Insured,Asthma/COPD,60,2025-03-21
+P01247,75,M,North,Insured,Osteoporosis,30,2024-01-20
+P01248,49,F,Central,Insured,Hypertension,30,2024-03-14
+P01249,39,M,East,Insured,Osteoporosis,60,2025-06-18
+P01250,83,M,West,Uninsured,Hyperlipidemia,90,2023-12-13
+P01251,34,F,South,Insured,Hyperlipidemia,30,2022-12-13
+P01252,45,F,East,Insured,Hyperlipidemia,30,2024-07-10
+P01253,22,M,West,Insured,Osteoporosis,60,2024-07-22
+P01254,71,F,Central,Uninsured,Hyperlipidemia,60,2023-02-23
+P01255,61,F,South,Insured,Hyperlipidemia,90,2024-08-31
+P01256,23,F,West,Uninsured,Hypertension,30,2022-08-11
+P01257,32,F,Central,Insured,Hyperlipidemia,30,2023-05-28
+P01258,55,F,West,Insured,Asthma/COPD,90,2025-01-21
+P01259,54,M,North,Insured,Depression/Anxiety,30,2024-04-28
+P01260,71,M,North,Insured,Hypertension,30,2024-04-16
+P01261,35,F,South,Insured,Osteoporosis,90,2024-05-02
+P01262,79,F,North,Insured,Osteoporosis,30,2022-12-04
+P01263,47,M,West,Insured,Hyperlipidemia,60,2025-05-21
+P01264,73,M,Central,Uninsured,Hypertension,90,2023-05-03
+P01265,33,F,East,Insured,Hyperlipidemia,30,2024-11-04
+P01266,20,M,East,Insured,Hypertension,60,2025-06-22
+P01267,21,F,West,Insured,Diabetes (Type 2),30,2023-02-28
+P01268,42,F,East,Uninsured,Depression/Anxiety,90,2024-05-17
+P01269,81,F,East,Uninsured,Asthma/COPD,90,2022-07-18
+P01270,21,F,East,Insured,Diabetes (Type 2),90,2024-05-19
+P01271,42,F,South,Uninsured,Osteoporosis,30,2023-10-11
+P01272,25,F,North,Uninsured,Asthma/COPD,60,2022-08-21
+P01273,80,F,East,Uninsured,Hypertension,90,2024-06-28
+P01274,63,F,Central,Uninsured,Diabetes (Type 2),60,2025-05-29
+P01275,69,F,North,Insured,Depression/Anxiety,60,2022-09-02
+P01276,65,M,South,Insured,Depression/Anxiety,30,2025-03-04
+P01277,62,F,South,Insured,Diabetes (Type 2),90,2025-01-08
+P01278,69,M,Central,Insured,Depression/Anxiety,30,2024-02-09
+P01279,18,F,East,Insured,Hyperlipidemia,30,2025-03-14
+P01280,75,F,East,Insured,Depression/Anxiety,90,2023-05-16
+P01281,67,M,West,Uninsured,Depression/Anxiety,90,2024-08-21
+P01282,67,M,South,Insured,Hypertension,90,2024-07-28
+P01283,44,M,West,Uninsured,Hypertension,30,2024-03-17
+P01284,71,F,North,Insured,Hypertension,30,2024-12-27
+P01285,43,M,North,Insured,Asthma/COPD,30,2025-02-14
+P01286,21,M,Central,Insured,Asthma/COPD,30,2024-11-04
+P01287,78,F,West,Uninsured,Osteoporosis,90,2024-03-26
+P01288,33,F,North,Insured,Hypertension,60,2025-06-08
+P01289,24,M,East,Insured,Hyperlipidemia,30,2024-02-18
+P01290,59,M,North,Insured,Hypertension,30,2024-05-20
+P01291,33,F,West,Insured,Diabetes (Type 2),30,2022-12-31
+P01292,75,F,West,Insured,Diabetes (Type 2),90,2023-05-29
+P01293,47,F,South,Uninsured,Osteoporosis,60,2025-03-18
+P01294,18,M,South,Insured,Hypertension,30,2023-12-15
+P01295,81,M,South,Insured,Depression/Anxiety,30,2023-12-30
+P01296,52,M,South,Insured,Asthma/COPD,30,2024-12-08
+P01297,35,F,South,Uninsured,Depression/Anxiety,30,2023-06-04
+P01298,63,M,South,Insured,Hypertension,90,2023-03-27
+P01299,53,M,East,Insured,Asthma/COPD,60,2022-06-11
+P01300,19,F,Central,Insured,Depression/Anxiety,30,2023-02-17
+P01301,68,F,West,Insured,Hyperlipidemia,60,2023-12-31
+P01302,44,F,South,Insured,Depression/Anxiety,30,2024-08-27
+P01303,64,M,Central,Insured,Osteoporosis,30,2023-06-07
+P01304,78,M,South,Insured,Hyperlipidemia,60,2023-10-15
+P01305,58,M,Central,Insured,Hyperlipidemia,30,2023-02-06
+P01306,62,M,South,Insured,Hyperlipidemia,30,2024-12-08
+P01307,35,F,East,Uninsured,Hypertension,90,2024-01-14
+P01308,33,M,South,Insured,Osteoporosis,90,2022-11-10
+P01309,45,F,West,Insured,Hypertension,30,2024-04-19
+P01310,75,F,South,Insured,Diabetes (Type 2),60,2023-06-15
+P01311,53,F,Central,Insured,Diabetes (Type 2),30,2025-02-01
+P01312,41,M,North,Insured,Diabetes (Type 2),60,2023-03-30
+P01313,70,M,East,Insured,Diabetes (Type 2),30,2025-02-01
+P01314,75,M,North,Insured,Hyperlipidemia,60,2024-07-27
+P01315,78,M,Central,Insured,Diabetes (Type 2),30,2022-10-31
+P01316,38,M,East,Insured,Hypertension,90,2024-10-05
+P01317,65,M,West,Insured,Osteoporosis,90,2024-08-22
+P01318,57,F,Central,Uninsured,Asthma/COPD,30,2023-10-28
+P01319,48,F,East,Insured,Hyperlipidemia,60,2022-11-29
+P01320,44,F,North,Insured,Diabetes (Type 2),30,2023-11-22
+P01321,25,M,South,Insured,Hypertension,60,2024-04-18
+P01322,36,M,South,Insured,Hypertension,30,2022-10-28
+P01323,54,M,Central,Uninsured,Diabetes (Type 2),30,2023-06-21
+P01324,77,M,Central,Insured,Asthma/COPD,60,2024-08-01
+P01325,76,M,East,Insured,Depression/Anxiety,30,2024-02-15
+P01326,30,F,Central,Insured,Diabetes (Type 2),30,2025-06-25
+P01327,63,M,South,Insured,Asthma/COPD,30,2023-01-31
+P01328,23,M,West,Uninsured,Diabetes (Type 2),30,2024-10-26
+P01329,63,F,South,Insured,Diabetes (Type 2),30,2023-09-24
+P01330,40,F,South,Insured,Diabetes (Type 2),60,2023-02-07
+P01331,48,F,South,Insured,Hypertension,60,2025-05-09
+P01332,66,M,East,Insured,Osteoporosis,30,2024-05-04
+P01333,46,F,South,Insured,Diabetes (Type 2),30,2024-01-26
+P01334,72,M,South,Insured,Depression/Anxiety,60,2023-04-30
+P01335,53,M,South,Insured,Diabetes (Type 2),60,2025-02-20
+P01336,84,F,North,Insured,Asthma/COPD,90,2022-07-05
+P01337,60,F,Central,Insured,Depression/Anxiety,30,2022-10-08
+P01338,37,M,South,Insured,Hyperlipidemia,30,2022-12-21
+P01339,69,F,North,Uninsured,Hypertension,60,2024-06-07
+P01340,45,M,East,Insured,Asthma/COPD,30,2022-09-24
+P01341,53,M,Central,Insured,Hyperlipidemia,30,2024-11-16
+P01342,27,M,South,Insured,Diabetes (Type 2),30,2023-01-08
+P01343,25,F,Central,Uninsured,Osteoporosis,90,2024-07-03
+P01344,56,M,West,Insured,Hypertension,30,2024-11-15
+P01345,30,F,West,Insured,Diabetes (Type 2),60,2025-02-16
+P01346,84,M,South,Insured,Hyperlipidemia,60,2023-04-27
+P01347,75,F,North,Insured,Diabetes (Type 2),30,2022-08-24
+P01348,64,F,South,Insured,Hyperlipidemia,90,2024-10-02
+P01349,67,M,Central,Insured,Diabetes (Type 2),60,2023-10-20
+P01350,57,M,West,Insured,Hypertension,30,2025-05-07
+P01351,22,M,West,Uninsured,Hypertension,60,2022-12-30
+P01352,44,F,Central,Insured,Hypertension,30,2024-03-10
+P01353,51,M,South,Insured,Asthma/COPD,30,2022-10-13
+P01354,79,F,South,Insured,Hyperlipidemia,60,2023-12-01
+P01355,32,M,Central,Uninsured,Hyperlipidemia,60,2022-06-02
+P01356,51,F,East,Uninsured,Diabetes (Type 2),30,2024-09-24
+P01357,41,M,South,Insured,Depression/Anxiety,90,2024-04-13
+P01358,27,F,South,Insured,Hypertension,60,2022-09-18
+P01359,24,F,Central,Insured,Diabetes (Type 2),60,2023-12-16
+P01360,42,M,North,Uninsured,Depression/Anxiety,30,2023-09-27
+P01361,23,F,North,Insured,Hyperlipidemia,30,2024-06-30
+P01362,22,M,West,Insured,Depression/Anxiety,30,2023-12-16
+P01363,41,M,North,Insured,Asthma/COPD,60,2023-11-01
+P01364,31,F,North,Uninsured,Osteoporosis,30,2024-12-25
+P01365,55,F,Central,Uninsured,Hypertension,60,2024-01-08
+P01366,19,F,East,Uninsured,Hypertension,30,2024-12-06
+P01367,38,M,West,Insured,Hypertension,60,2025-02-24
+P01368,48,M,East,Uninsured,Osteoporosis,90,2025-01-13
+P01369,82,M,North,Uninsured,Asthma/COPD,60,2025-05-14
+P01370,60,F,North,Insured,Asthma/COPD,60,2024-07-27
+P01371,77,M,West,Insured,Diabetes (Type 2),90,2024-02-25
+P01372,41,M,North,Uninsured,Osteoporosis,30,2024-01-20
+P01373,48,M,East,Insured,Hyperlipidemia,60,2023-01-17
+P01374,46,M,South,Insured,Osteoporosis,90,2024-12-21
+P01375,77,M,South,Insured,Hyperlipidemia,60,2024-07-22
+P01376,82,M,Central,Insured,Hypertension,30,2025-02-10
+P01377,82,F,West,Insured,Hypertension,90,2024-07-31
+P01378,68,F,West,Insured,Asthma/COPD,30,2023-11-25
+P01379,51,M,South,Insured,Diabetes (Type 2),30,2023-04-30
+P01380,54,F,South,Uninsured,Diabetes (Type 2),30,2025-06-17
+P01381,83,F,West,Insured,Diabetes (Type 2),30,2024-09-06
+P01382,37,M,North,Insured,Diabetes (Type 2),30,2025-02-12
+P01383,41,M,South,Uninsured,Asthma/COPD,30,2024-03-22
+P01384,78,M,West,Insured,Hypertension,90,2023-12-29
+P01385,43,M,West,Insured,Hypertension,30,2022-07-09
+P01386,33,F,North,Insured,Osteoporosis,30,2022-08-18
+P01387,55,F,West,Insured,Hyperlipidemia,90,2024-08-06
+P01388,39,M,East,Insured,Hypertension,90,2023-02-09
+P01389,77,F,South,Insured,Hypertension,30,2022-09-01
+P01390,78,M,West,Uninsured,Diabetes (Type 2),30,2024-10-24
+P01391,38,F,Central,Insured,Diabetes (Type 2),60,2024-05-01
+P01392,53,F,East,Insured,Hypertension,90,2022-10-04
+P01393,83,M,South,Uninsured,Hypertension,60,2023-12-17
+P01394,67,M,South,Insured,Depression/Anxiety,30,2023-11-13
+P01395,32,F,East,Insured,Osteoporosis,60,2022-06-05
+P01396,57,F,North,Insured,Asthma/COPD,60,2024-04-13
+P01397,59,M,East,Insured,Diabetes (Type 2),60,2023-08-22
+P01398,61,M,North,Insured,Diabetes (Type 2),90,2025-02-16
+P01399,19,M,North,Insured,Asthma/COPD,60,2022-10-09
+P01400,38,F,East,Insured,Depression/Anxiety,60,2025-01-12
+P01401,75,F,West,Insured,Hyperlipidemia,60,2022-06-08
+P01402,34,F,Central,Insured,Diabetes (Type 2),60,2024-10-10
+P01403,38,F,North,Insured,Diabetes (Type 2),30,2024-10-31
+P01404,39,F,South,Insured,Hyperlipidemia,30,2023-09-04
+P01405,29,F,East,Insured,Hyperlipidemia,60,2023-04-13
+P01406,28,M,East,Insured,Hypertension,60,2022-11-08
+P01407,41,F,Central,Insured,Asthma/COPD,30,2023-06-19
+P01408,76,M,West,Insured,Hyperlipidemia,30,2024-06-26
+P01409,18,M,East,Insured,Hyperlipidemia,60,2024-08-27
+P01410,36,F,North,Uninsured,Hypertension,60,2022-12-22
+P01411,22,F,North,Insured,Depression/Anxiety,30,2022-06-13
+P01412,55,F,North,Insured,Depression/Anxiety,30,2024-02-24
+P01413,34,M,West,Insured,Hypertension,30,2024-03-17
+P01414,71,F,South,Insured,Hyperlipidemia,90,2025-06-12
+P01415,57,M,South,Insured,Depression/Anxiety,90,2024-10-07
+P01416,70,M,West,Insured,Osteoporosis,60,2024-02-12
+P01417,60,M,Central,Insured,Hypertension,30,2024-03-30
+P01418,47,F,East,Uninsured,Osteoporosis,60,2024-05-29
+P01419,75,M,Central,Insured,Hyperlipidemia,30,2023-10-24
+P01420,49,F,West,Insured,Hypertension,90,2024-07-04
+P01421,81,M,West,Insured,Hypertension,30,2023-01-07
+P01422,84,M,Central,Insured,Hypertension,30,2024-12-24
+P01423,57,F,North,Uninsured,Diabetes (Type 2),60,2025-01-28
+P01424,63,M,West,Insured,Hyperlipidemia,30,2023-10-05
+P01425,35,F,Central,Uninsured,Depression/Anxiety,60,2023-10-29
+P01426,72,F,Central,Insured,Hypertension,60,2023-12-14
+P01427,62,M,East,Uninsured,Asthma/COPD,30,2024-12-09
+P01428,78,F,West,Uninsured,Hypertension,30,2022-12-16
+P01429,35,F,Central,Uninsured,Hyperlipidemia,60,2023-06-21
+P01430,70,F,Central,Insured,Asthma/COPD,90,2024-04-24
+P01431,49,F,Central,Insured,Osteoporosis,30,2024-07-22
+P01432,30,F,Central,Insured,Depression/Anxiety,30,2023-04-30
+P01433,29,F,South,Insured,Depression/Anxiety,60,2022-10-11
+P01434,55,M,West,Insured,Hypertension,30,2023-12-26
+P01435,39,F,East,Insured,Hypertension,60,2024-05-21
+P01436,24,F,Central,Insured,Diabetes (Type 2),60,2024-10-13
+P01437,46,F,Central,Uninsured,Hypertension,30,2022-06-04
+P01438,61,F,Central,Insured,Diabetes (Type 2),60,2022-06-20
+P01439,39,M,East,Uninsured,Diabetes (Type 2),30,2023-08-11
+P01440,82,F,East,Insured,Asthma/COPD,30,2024-02-27
+P01441,70,F,North,Insured,Osteoporosis,60,2022-06-05
+P01442,52,M,West,Uninsured,Osteoporosis,90,2022-12-13
+P01443,80,M,East,Uninsured,Depression/Anxiety,60,2023-09-16
+P01444,47,F,East,Insured,Hypertension,30,2023-04-12
+P01445,27,M,West,Uninsured,Hypertension,60,2024-08-11
+P01446,20,F,Central,Insured,Depression/Anxiety,30,2022-07-10
+P01447,80,M,North,Uninsured,Depression/Anxiety,30,2025-02-27
+P01448,82,M,East,Insured,Diabetes (Type 2),30,2022-12-09
+P01449,67,F,West,Insured,Hyperlipidemia,30,2023-10-11
+P01450,24,F,Central,Insured,Hyperlipidemia,30,2025-06-18
+P01451,37,F,West,Insured,Diabetes (Type 2),90,2024-06-18
+P01452,20,F,West,Insured,Diabetes (Type 2),30,2025-07-02
+P01453,21,F,Central,Insured,Diabetes (Type 2),90,2022-06-23
+P01454,34,F,Central,Insured,Hyperlipidemia,60,2024-08-21
+P01455,56,F,West,Uninsured,Asthma/COPD,30,2022-08-25
+P01456,22,F,South,Insured,Hyperlipidemia,30,2024-04-21
+P01457,83,F,East,Insured,Depression/Anxiety,30,2023-06-03
+P01458,48,M,West,Insured,Osteoporosis,30,2024-10-25
+P01459,35,M,North,Insured,Hypertension,60,2022-10-19
+P01460,52,F,West,Insured,Depression/Anxiety,90,2025-03-09
+P01461,70,F,East,Insured,Hyperlipidemia,90,2023-11-25
+P01462,38,F,Central,Insured,Hyperlipidemia,30,2024-01-08
+P01463,21,M,South,Insured,Hypertension,30,2024-03-06
+P01464,21,F,Central,Insured,Asthma/COPD,30,2022-07-10
+P01465,75,M,East,Insured,Asthma/COPD,90,2023-05-17
+P01466,25,F,East,Uninsured,Hypertension,30,2024-08-09
+P01467,60,F,West,Uninsured,Hypertension,30,2025-05-20
+P01468,43,F,East,Insured,Hypertension,60,2025-06-16
+P01469,70,F,Central,Insured,Osteoporosis,60,2024-01-26
+P01470,22,M,North,Insured,Hyperlipidemia,30,2023-03-19
+P01471,78,M,West,Insured,Hypertension,60,2023-11-22
+P01472,64,F,Central,Insured,Osteoporosis,30,2023-11-06
+P01473,48,F,South,Uninsured,Diabetes (Type 2),30,2023-08-23
+P01474,31,F,South,Insured,Hyperlipidemia,30,2023-07-13
+P01475,83,M,East,Insured,Diabetes (Type 2),30,2025-02-05
+P01476,38,M,West,Insured,Hyperlipidemia,90,2023-08-15
+P01477,50,M,Central,Insured,Hyperlipidemia,30,2022-07-04
+P01478,44,M,West,Insured,Diabetes (Type 2),60,2024-08-23
+P01479,33,M,West,Insured,Diabetes (Type 2),30,2024-06-20
+P01480,45,F,East,Uninsured,Asthma/COPD,60,2023-08-02
+P01481,28,F,West,Insured,Hyperlipidemia,90,2024-05-12
+P01482,18,M,South,Insured,Asthma/COPD,30,2025-04-28
+P01483,37,M,East,Insured,Hyperlipidemia,90,2025-04-09
+P01484,25,M,North,Insured,Depression/Anxiety,60,2024-11-08
+P01485,45,F,North,Uninsured,Diabetes (Type 2),60,2024-03-20
+P01486,75,M,Central,Uninsured,Osteoporosis,30,2022-07-02
+P01487,28,F,Central,Uninsured,Diabetes (Type 2),60,2023-12-31
+P01488,18,F,East,Insured,Hypertension,30,2024-12-11
+P01489,25,M,North,Insured,Hypertension,90,2025-01-09
+P01490,52,F,North,Insured,Hypertension,90,2024-10-20
+P01491,36,F,North,Insured,Asthma/COPD,30,2025-06-18
+P01492,50,M,West,Insured,Asthma/COPD,90,2024-01-05
+P01493,19,M,South,Insured,Depression/Anxiety,90,2022-10-02
+P01494,40,F,South,Insured,Hypertension,60,2023-12-13
+P01495,45,F,Central,Uninsured,Asthma/COPD,30,2023-05-26
+P01496,46,F,Central,Insured,Depression/Anxiety,30,2024-12-30
+P01497,54,F,West,Uninsured,Diabetes (Type 2),30,2024-10-25
+P01498,70,M,South,Insured,Hyperlipidemia,30,2023-09-23
+P01499,49,F,East,Insured,Depression/Anxiety,90,2023-08-13
+P01500,74,F,South,Insured,Hypertension,30,2022-11-28
+P01501,53,M,Central,Insured,Hyperlipidemia,60,2022-07-19
+P01502,35,F,North,Insured,Depression/Anxiety,60,2023-05-20
+P01503,33,F,West,Insured,Hypertension,60,2023-02-28
+P01504,39,F,East,Insured,Hyperlipidemia,30,2023-03-27
+P01505,58,M,West,Uninsured,Hyperlipidemia,60,2025-07-02
+P01506,34,M,East,Insured,Depression/Anxiety,60,2024-07-08
+P01507,79,F,North,Insured,Asthma/COPD,60,2024-02-13
+P01508,50,F,West,Insured,Osteoporosis,30,2022-12-19
+P01509,75,F,West,Uninsured,Depression/Anxiety,60,2025-01-05
+P01510,63,F,East,Insured,Hyperlipidemia,30,2024-05-28
+P01511,40,M,South,Insured,Hyperlipidemia,60,2024-01-03
+P01512,33,M,South,Insured,Hyperlipidemia,30,2023-11-09
+P01513,67,M,East,Insured,Hypertension,30,2024-02-14
+P01514,40,M,South,Insured,Depression/Anxiety,90,2025-01-03
+P01515,34,M,South,Insured,Depression/Anxiety,30,2024-08-22
+P01516,80,F,South,Uninsured,Hyperlipidemia,90,2023-11-30
+P01517,50,M,North,Insured,Osteoporosis,90,2024-06-23
+P01518,21,M,Central,Insured,Depression/Anxiety,30,2025-04-15
+P01519,51,F,South,Insured,Diabetes (Type 2),30,2023-06-04
+P01520,48,M,North,Insured,Hypertension,30,2025-03-13
+P01521,75,M,North,Insured,Hypertension,90,2024-04-16
+P01522,65,F,Central,Insured,Diabetes (Type 2),60,2022-12-27
+P01523,30,M,East,Insured,Hyperlipidemia,30,2025-05-27
+P01524,28,F,South,Insured,Hypertension,30,2024-07-14
+P01525,58,F,East,Insured,Hypertension,30,2023-08-10
+P01526,21,M,North,Uninsured,Diabetes (Type 2),60,2023-01-29
+P01527,39,F,South,Insured,Osteoporosis,30,2025-03-30
+P01528,27,F,South,Insured,Depression/Anxiety,30,2024-12-16
+P01529,19,F,Central,Uninsured,Diabetes (Type 2),90,2022-07-21
+P01530,79,F,North,Uninsured,Hypertension,30,2024-05-18
+P01531,24,F,East,Insured,Hypertension,30,2022-10-08
+P01532,18,F,West,Uninsured,Hypertension,60,2023-04-29
+P01533,80,F,Central,Insured,Diabetes (Type 2),90,2024-03-03
+P01534,30,M,East,Insured,Hypertension,30,2023-03-09
+P01535,72,F,South,Uninsured,Diabetes (Type 2),90,2023-12-31
+P01536,20,F,South,Insured,Asthma/COPD,30,2023-09-28
+P01537,28,F,South,Insured,Hyperlipidemia,90,2024-03-18
+P01538,25,M,West,Insured,Osteoporosis,30,2024-11-21
+P01539,65,M,South,Insured,Hypertension,60,2022-11-23
+P01540,59,F,West,Insured,Diabetes (Type 2),30,2024-11-15
+P01541,49,F,West,Uninsured,Asthma/COPD,90,2023-02-07
+P01542,34,M,Central,Insured,Diabetes (Type 2),90,2022-07-08
+P01543,23,M,South,Insured,Depression/Anxiety,30,2023-10-18
+P01544,56,M,Central,Insured,Asthma/COPD,30,2023-05-08
+P01545,33,F,East,Insured,Hyperlipidemia,60,2022-12-26
+P01546,57,M,West,Insured,Diabetes (Type 2),30,2023-09-21
+P01547,64,F,West,Uninsured,Hyperlipidemia,60,2025-02-05
+P01548,74,M,Central,Insured,Hypertension,60,2024-03-23
+P01549,51,M,East,Insured,Hypertension,30,2024-08-30
+P01550,18,M,West,Insured,Hypertension,30,2022-11-16
+P01551,36,F,South,Insured,Osteoporosis,90,2022-08-25
+P01552,75,F,East,Insured,Depression/Anxiety,30,2023-06-14
+P01553,53,F,East,Insured,Diabetes (Type 2),60,2024-10-22
+P01554,59,F,West,Insured,Diabetes (Type 2),30,2025-02-24
+P01555,48,M,West,Insured,Depression/Anxiety,30,2022-09-23
+P01556,28,F,North,Uninsured,Asthma/COPD,30,2023-11-21
+P01557,78,M,Central,Insured,Diabetes (Type 2),30,2023-08-22
+P01558,69,M,West,Insured,Diabetes (Type 2),60,2024-09-18
+P01559,84,M,North,Insured,Osteoporosis,30,2023-01-19
+P01560,75,M,Central,Insured,Asthma/COPD,60,2023-11-30
+P01561,37,F,West,Uninsured,Asthma/COPD,60,2025-01-15
+P01562,35,F,North,Insured,Diabetes (Type 2),30,2023-11-07
+P01563,34,F,East,Insured,Hypertension,30,2024-10-30
+P01564,79,F,Central,Insured,Diabetes (Type 2),60,2024-05-03
+P01565,55,F,South,Uninsured,Diabetes (Type 2),60,2024-04-05
+P01566,48,M,Central,Insured,Osteoporosis,60,2023-03-20
+P01567,82,M,East,Insured,Hypertension,30,2025-06-25
+P01568,58,M,South,Insured,Depression/Anxiety,90,2023-03-10
+P01569,78,F,South,Insured,Asthma/COPD,30,2025-04-17
+P01570,83,F,East,Uninsured,Asthma/COPD,60,2025-06-21
+P01571,23,M,West,Insured,Depression/Anxiety,30,2023-12-30
+P01572,42,F,Central,Insured,Asthma/COPD,60,2025-02-06
+P01573,67,F,North,Insured,Hypertension,30,2024-08-16
+P01574,72,F,Central,Uninsured,Diabetes (Type 2),60,2024-09-10
+P01575,27,F,East,Insured,Hypertension,30,2022-08-17
+P01576,39,F,North,Insured,Asthma/COPD,60,2022-11-02
+P01577,54,F,Central,Uninsured,Asthma/COPD,30,2022-08-18
+P01578,71,F,South,Insured,Hypertension,60,2022-07-05
+P01579,25,M,West,Uninsured,Hypertension,30,2024-12-30
+P01580,58,F,West,Insured,Diabetes (Type 2),30,2022-12-16
+P01581,37,M,North,Insured,Diabetes (Type 2),60,2022-06-08
+P01582,32,F,South,Insured,Osteoporosis,30,2025-04-24
+P01583,52,M,West,Insured,Hypertension,30,2023-04-11
+P01584,45,M,South,Insured,Osteoporosis,90,2024-12-08
+P01585,60,M,North,Insured,Hyperlipidemia,90,2025-05-20
+P01586,39,M,North,Uninsured,Diabetes (Type 2),90,2024-01-12
+P01587,73,M,Central,Insured,Hypertension,30,2025-04-12
+P01588,23,M,North,Insured,Asthma/COPD,30,2025-05-29
+P01589,75,M,North,Insured,Hyperlipidemia,60,2022-11-10
+P01590,19,M,East,Insured,Diabetes (Type 2),30,2022-11-13
+P01591,67,F,North,Insured,Diabetes (Type 2),60,2023-07-23
+P01592,41,F,West,Uninsured,Asthma/COPD,30,2024-02-22
+P01593,43,F,East,Insured,Osteoporosis,90,2024-11-04
+P01594,19,M,West,Insured,Osteoporosis,60,2022-12-24
+P01595,65,M,East,Insured,Hyperlipidemia,30,2023-01-05
+P01596,29,F,West,Insured,Osteoporosis,30,2023-05-12
+P01597,62,M,West,Uninsured,Diabetes (Type 2),30,2023-04-03
+P01598,66,M,East,Insured,Depression/Anxiety,30,2025-04-27
+P01599,74,F,North,Insured,Diabetes (Type 2),60,2023-08-22
+P01600,65,F,South,Insured,Hyperlipidemia,30,2025-02-05
+P01601,38,M,North,Insured,Asthma/COPD,30,2022-08-03
+P01602,67,F,North,Insured,Asthma/COPD,30,2022-09-23
+P01603,73,M,South,Uninsured,Hyperlipidemia,60,2024-11-24
+P01604,39,F,South,Uninsured,Hyperlipidemia,30,2023-03-09
+P01605,26,M,North,Insured,Asthma/COPD,30,2022-09-02
+P01606,77,M,South,Insured,Asthma/COPD,90,2024-04-02
+P01607,27,F,East,Insured,Depression/Anxiety,30,2022-11-14
+P01608,57,M,North,Insured,Hypertension,30,2022-08-09
+P01609,33,F,South,Insured,Diabetes (Type 2),90,2023-09-02
+P01610,26,M,North,Insured,Asthma/COPD,30,2024-02-12
+P01611,70,F,North,Insured,Depression/Anxiety,90,2024-01-17
+P01612,27,F,North,Insured,Depression/Anxiety,60,2024-03-21
+P01613,62,F,East,Insured,Depression/Anxiety,60,2022-06-27
+P01614,64,F,West,Insured,Diabetes (Type 2),30,2023-04-25
+P01615,22,M,West,Insured,Diabetes (Type 2),30,2023-06-23
+P01616,29,F,West,Insured,Osteoporosis,30,2023-04-27
+P01617,71,M,West,Insured,Diabetes (Type 2),30,2024-02-22
+P01618,51,F,Central,Uninsured,Depression/Anxiety,30,2023-02-14
+P01619,26,F,South,Insured,Depression/Anxiety,60,2024-05-14
+P01620,84,F,West,Insured,Osteoporosis,60,2025-04-22
+P01621,35,F,Central,Insured,Diabetes (Type 2),30,2024-06-15
+P01622,18,F,East,Insured,Depression/Anxiety,60,2023-08-14
+P01623,79,M,Central,Insured,Hypertension,90,2023-10-04
+P01624,19,F,North,Insured,Hypertension,60,2024-03-22
+P01625,55,F,Central,Insured,Diabetes (Type 2),60,2024-08-26
+P01626,84,M,East,Insured,Hypertension,60,2023-05-07
+P01627,56,F,South,Insured,Asthma/COPD,30,2022-07-14
+P01628,57,M,North,Insured,Asthma/COPD,30,2024-08-02
+P01629,44,M,West,Insured,Hypertension,90,2024-06-16
+P01630,26,M,East,Insured,Osteoporosis,60,2022-09-23
+P01631,56,M,South,Insured,Hyperlipidemia,60,2024-05-08
+P01632,78,F,South,Insured,Depression/Anxiety,90,2022-08-20
+P01633,24,F,Central,Insured,Osteoporosis,30,2024-05-27
+P01634,76,F,East,Insured,Hyperlipidemia,30,2024-09-18
+P01635,45,F,North,Insured,Hypertension,60,2022-06-18
+P01636,53,M,South,Insured,Hypertension,30,2024-08-29
+P01637,29,M,North,Insured,Hyperlipidemia,60,2022-10-14
+P01638,59,M,West,Insured,Asthma/COPD,90,2023-03-27
+P01639,30,F,Central,Insured,Hyperlipidemia,60,2024-08-04
+P01640,36,M,Central,Insured,Diabetes (Type 2),30,2023-07-06
+P01641,66,F,West,Insured,Hypertension,60,2025-06-08
+P01642,21,F,West,Uninsured,Asthma/COPD,30,2025-05-16
+P01643,47,F,East,Uninsured,Diabetes (Type 2),90,2025-06-19
+P01644,57,F,West,Insured,Depression/Anxiety,30,2022-09-26
+P01645,26,M,North,Insured,Depression/Anxiety,90,2022-12-17
+P01646,37,F,East,Insured,Diabetes (Type 2),30,2022-12-24
+P01647,41,F,East,Insured,Hypertension,30,2024-03-22
+P01648,62,F,North,Insured,Diabetes (Type 2),30,2023-09-29
+P01649,83,F,East,Insured,Diabetes (Type 2),30,2024-09-20
+P01650,74,F,West,Insured,Depression/Anxiety,30,2023-04-15
+P01651,30,F,South,Uninsured,Osteoporosis,90,2023-01-12
+P01652,19,M,East,Insured,Diabetes (Type 2),90,2024-06-02
+P01653,21,F,South,Insured,Hyperlipidemia,30,2024-04-27
+P01654,57,F,South,Insured,Hypertension,60,2024-07-19
+P01655,28,M,North,Insured,Hypertension,90,2023-05-19
+P01656,33,F,South,Insured,Depression/Anxiety,90,2024-01-16
+P01657,74,M,Central,Uninsured,Osteoporosis,30,2025-04-14
+P01658,76,F,Central,Uninsured,Depression/Anxiety,30,2024-04-21
+P01659,74,M,West,Insured,Hypertension,90,2025-04-18
+P01660,34,M,West,Insured,Hyperlipidemia,30,2023-10-03
+P01661,59,F,West,Insured,Diabetes (Type 2),30,2022-07-21
+P01662,58,M,East,Insured,Asthma/COPD,60,2024-10-06
+P01663,30,M,East,Insured,Depression/Anxiety,30,2023-11-02
+P01664,55,M,West,Insured,Asthma/COPD,90,2022-07-18
+P01665,53,F,West,Insured,Hypertension,30,2022-11-04
+P01666,44,F,East,Insured,Hyperlipidemia,60,2023-05-20
+P01667,68,F,East,Insured,Depression/Anxiety,90,2023-01-02
+P01668,63,M,East,Uninsured,Diabetes (Type 2),90,2024-07-12
+P01669,53,F,South,Insured,Depression/Anxiety,90,2024-04-20
+P01670,66,M,South,Uninsured,Hyperlipidemia,90,2023-06-08
+P01671,69,F,North,Insured,Asthma/COPD,30,2022-09-04
+P01672,55,M,East,Uninsured,Hypertension,90,2022-08-28
+P01673,35,M,West,Insured,Asthma/COPD,90,2025-05-03
+P01674,68,M,West,Insured,Diabetes (Type 2),30,2023-06-25
+P01675,66,F,Central,Insured,Hyperlipidemia,30,2022-09-30
+P01676,83,F,North,Uninsured,Hyperlipidemia,30,2024-08-12
+P01677,28,M,West,Insured,Diabetes (Type 2),60,2025-02-07
+P01678,46,F,West,Insured,Asthma/COPD,60,2022-10-16
+P01679,79,F,East,Insured,Asthma/COPD,30,2025-05-02
+P01680,52,M,South,Insured,Asthma/COPD,30,2024-08-27
+P01681,81,F,South,Uninsured,Asthma/COPD,60,2023-03-12
+P01682,18,F,West,Insured,Depression/Anxiety,30,2024-10-23
+P01683,20,M,Central,Insured,Hyperlipidemia,90,2023-09-18
+P01684,71,F,West,Insured,Osteoporosis,30,2024-05-18
+P01685,42,M,East,Insured,Hypertension,30,2022-10-22
+P01686,52,F,West,Insured,Osteoporosis,30,2023-03-03
+P01687,46,M,North,Insured,Hyperlipidemia,90,2024-10-21
+P01688,45,F,West,Insured,Depression/Anxiety,90,2024-11-26
+P01689,80,M,North,Insured,Diabetes (Type 2),30,2022-06-13
+P01690,24,F,Central,Uninsured,Diabetes (Type 2),30,2023-01-29
+P01691,69,F,Central,Insured,Hypertension,30,2024-04-16
+P01692,77,M,East,Insured,Diabetes (Type 2),30,2025-03-19
+P01693,62,F,South,Insured,Diabetes (Type 2),60,2024-07-01
+P01694,44,F,West,Uninsured,Diabetes (Type 2),30,2024-08-06
+P01695,28,F,West,Insured,Diabetes (Type 2),30,2023-08-13
+P01696,63,M,West,Insured,Hyperlipidemia,30,2022-08-01
+P01697,49,F,East,Insured,Diabetes (Type 2),30,2024-10-12
+P01698,28,M,South,Uninsured,Osteoporosis,30,2024-11-19
+P01699,42,M,North,Uninsured,Hypertension,30,2023-10-14
+P01700,82,F,South,Insured,Hyperlipidemia,30,2023-12-24
+P01701,35,F,East,Uninsured,Hypertension,30,2023-02-21
+P01702,29,F,East,Insured,Hyperlipidemia,30,2023-10-25
+P01703,63,M,East,Insured,Hyperlipidemia,90,2023-03-01
+P01704,31,F,South,Insured,Depression/Anxiety,30,2023-09-18
+P01705,79,F,Central,Insured,Diabetes (Type 2),30,2022-10-30
+P01706,75,M,South,Insured,Hyperlipidemia,30,2024-04-15
+P01707,83,F,Central,Uninsured,Hypertension,60,2023-03-07
+P01708,79,M,South,Uninsured,Hyperlipidemia,90,2024-08-27
+P01709,34,M,East,Insured,Diabetes (Type 2),60,2024-01-06
+P01710,32,F,West,Insured,Depression/Anxiety,60,2025-03-08
+P01711,40,F,South,Insured,Diabetes (Type 2),90,2023-02-05
+P01712,49,M,South,Insured,Depression/Anxiety,30,2023-04-05
+P01713,76,M,South,Uninsured,Diabetes (Type 2),90,2023-03-02
+P01714,67,M,Central,Insured,Diabetes (Type 2),60,2024-05-13
+P01715,61,F,North,Insured,Diabetes (Type 2),30,2022-09-29
+P01716,76,M,East,Insured,Hypertension,30,2024-07-14
+P01717,61,F,West,Uninsured,Hyperlipidemia,30,2024-12-11
+P01718,43,F,West,Uninsured,Osteoporosis,30,2024-07-01
+P01719,45,M,East,Insured,Depression/Anxiety,90,2022-10-31
+P01720,52,F,North,Insured,Diabetes (Type 2),30,2023-12-09
+P01721,23,F,North,Insured,Hypertension,60,2024-01-24
+P01722,67,F,East,Insured,Osteoporosis,90,2023-08-16
+P01723,61,M,Central,Insured,Hypertension,30,2023-11-09
+P01724,66,M,North,Uninsured,Diabetes (Type 2),30,2024-10-08
+P01725,53,M,Central,Uninsured,Osteoporosis,60,2024-12-29
+P01726,70,F,West,Uninsured,Diabetes (Type 2),90,2023-05-05
+P01727,81,F,North,Insured,Hypertension,30,2023-06-08
+P01728,56,M,South,Insured,Diabetes (Type 2),30,2023-01-21
+P01729,47,M,South,Uninsured,Hyperlipidemia,60,2023-08-28
+P01730,25,F,Central,Insured,Hypertension,90,2024-02-07
+P01731,70,M,East,Insured,Depression/Anxiety,30,2024-08-14
+P01732,78,M,South,Uninsured,Diabetes (Type 2),30,2023-03-30
+P01733,64,F,South,Insured,Diabetes (Type 2),90,2023-01-31
+P01734,75,M,East,Uninsured,Diabetes (Type 2),30,2022-07-08
+P01735,75,M,North,Insured,Osteoporosis,30,2022-09-15
+P01736,71,M,South,Uninsured,Diabetes (Type 2),60,2022-07-29
+P01737,51,M,North,Insured,Depression/Anxiety,30,2023-01-21
+P01738,24,F,West,Insured,Hyperlipidemia,30,2024-07-24
+P01739,18,F,West,Uninsured,Hypertension,60,2024-10-22
+P01740,31,F,East,Insured,Hyperlipidemia,60,2025-06-03
+P01741,46,M,North,Insured,Hyperlipidemia,30,2024-02-06
+P01742,67,F,South,Insured,Hyperlipidemia,30,2023-10-27
+P01743,48,M,Central,Uninsured,Osteoporosis,60,2025-03-12
+P01744,19,F,South,Uninsured,Asthma/COPD,60,2022-11-14
+P01745,32,M,North,Insured,Osteoporosis,90,2024-05-12
+P01746,83,F,North,Insured,Hyperlipidemia,60,2024-12-10
+P01747,84,M,Central,Insured,Hyperlipidemia,60,2023-12-20
+P01748,43,M,North,Uninsured,Depression/Anxiety,90,2023-03-23
+P01749,71,F,East,Uninsured,Diabetes (Type 2),90,2024-05-01
+P01750,66,M,Central,Uninsured,Osteoporosis,30,2025-06-29
+P01751,80,M,West,Insured,Osteoporosis,90,2023-02-22
+P01752,77,F,East,Insured,Diabetes (Type 2),90,2024-02-26
+P01753,60,F,South,Insured,Asthma/COPD,30,2022-07-28
+P01754,44,M,North,Insured,Osteoporosis,30,2023-02-18
+P01755,59,F,North,Insured,Diabetes (Type 2),60,2024-10-14
+P01756,39,F,Central,Insured,Asthma/COPD,30,2023-12-12
+P01757,41,F,North,Insured,Hypertension,60,2023-01-11
+P01758,58,F,North,Insured,Hypertension,30,2023-06-14
+P01759,56,F,Central,Insured,Diabetes (Type 2),30,2022-10-15
+P01760,56,F,East,Insured,Hyperlipidemia,30,2024-10-28
+P01761,43,F,South,Insured,Diabetes (Type 2),90,2025-04-30
+P01762,45,F,West,Uninsured,Asthma/COPD,30,2022-09-28
+P01763,18,M,East,Insured,Diabetes (Type 2),60,2023-02-24
+P01764,58,M,Central,Uninsured,Diabetes (Type 2),30,2025-01-23
+P01765,56,M,East,Insured,Depression/Anxiety,30,2025-02-17
+P01766,80,F,West,Insured,Hypertension,30,2024-10-14
+P01767,51,M,Central,Insured,Depression/Anxiety,30,2024-08-16
+P01768,49,F,East,Insured,Diabetes (Type 2),60,2025-01-28
+P01769,22,F,South,Insured,Asthma/COPD,60,2023-07-27
+P01770,31,F,Central,Insured,Depression/Anxiety,30,2025-03-07
+P01771,40,M,South,Uninsured,Hypertension,30,2025-02-25
+P01772,43,F,North,Uninsured,Hypertension,60,2023-02-15
+P01773,42,F,East,Insured,Hypertension,60,2022-08-22
+P01774,44,M,Central,Insured,Asthma/COPD,30,2024-01-10
+P01775,69,F,North,Insured,Depression/Anxiety,60,2024-10-04
+P01776,26,M,Central,Insured,Diabetes (Type 2),30,2025-01-15
+P01777,40,F,Central,Insured,Hypertension,30,2022-11-08
+P01778,28,F,Central,Insured,Osteoporosis,60,2023-08-01
+P01779,38,M,East,Insured,Hypertension,60,2024-10-14
+P01780,63,M,South,Insured,Depression/Anxiety,90,2022-08-08
+P01781,21,M,East,Uninsured,Depression/Anxiety,30,2024-08-25
+P01782,40,M,North,Uninsured,Diabetes (Type 2),30,2023-04-26
+P01783,19,F,Central,Insured,Hyperlipidemia,60,2022-06-26
+P01784,81,M,West,Uninsured,Diabetes (Type 2),30,2023-03-01
+P01785,66,M,East,Insured,Diabetes (Type 2),30,2024-09-15
+P01786,34,F,East,Insured,Asthma/COPD,60,2025-02-07
+P01787,31,F,West,Uninsured,Depression/Anxiety,30,2022-08-31
+P01788,24,F,East,Uninsured,Osteoporosis,30,2023-11-06
+P01789,49,F,Central,Uninsured,Hyperlipidemia,30,2023-01-14
+P01790,68,M,Central,Insured,Diabetes (Type 2),90,2024-07-11
+P01791,57,F,Central,Uninsured,Depression/Anxiety,30,2024-10-29
+P01792,77,M,West,Insured,Hyperlipidemia,30,2025-05-22
+P01793,41,F,West,Insured,Hypertension,30,2023-07-06
+P01794,36,F,South,Insured,Diabetes (Type 2),30,2023-05-04
+P01795,50,F,North,Insured,Depression/Anxiety,30,2023-05-16
+P01796,31,F,East,Insured,Depression/Anxiety,60,2024-10-07
+P01797,83,F,Central,Insured,Diabetes (Type 2),30,2023-10-16
+P01798,30,M,North,Uninsured,Osteoporosis,30,2022-06-26
+P01799,50,F,East,Insured,Diabetes (Type 2),30,2025-05-05
+P01800,52,F,North,Insured,Diabetes (Type 2),30,2022-09-26
+P01801,21,F,East,Insured,Hypertension,30,2025-04-13
+P01802,49,F,North,Insured,Osteoporosis,60,2022-11-30
+P01803,48,M,West,Insured,Diabetes (Type 2),60,2024-01-29
+P01804,35,F,Central,Insured,Hyperlipidemia,60,2023-05-19
+P01805,26,M,West,Insured,Diabetes (Type 2),30,2024-07-15
+P01806,21,M,West,Insured,Depression/Anxiety,90,2023-08-29
+P01807,18,M,South,Insured,Osteoporosis,60,2023-07-20
+P01808,50,F,East,Uninsured,Diabetes (Type 2),30,2023-11-21
+P01809,24,M,North,Insured,Asthma/COPD,30,2025-06-01
+P01810,82,M,South,Insured,Hypertension,60,2023-03-04
+P01811,34,M,East,Insured,Hypertension,30,2023-02-04
+P01812,61,F,West,Insured,Hyperlipidemia,30,2022-08-14
+P01813,63,F,North,Insured,Depression/Anxiety,60,2024-09-11
+P01814,51,M,Central,Insured,Diabetes (Type 2),30,2024-07-04
+P01815,77,M,East,Insured,Hyperlipidemia,90,2024-04-18
+P01816,25,F,Central,Uninsured,Diabetes (Type 2),30,2022-06-27
+P01817,33,M,East,Insured,Hyperlipidemia,30,2024-11-09
+P01818,34,F,East,Insured,Depression/Anxiety,30,2024-11-30
+P01819,27,M,West,Insured,Asthma/COPD,30,2025-05-02
+P01820,37,F,Central,Insured,Hyperlipidemia,90,2025-04-15
+P01821,38,M,North,Insured,Depression/Anxiety,90,2023-03-25
+P01822,69,F,East,Uninsured,Hyperlipidemia,90,2024-08-11
+P01823,38,M,North,Insured,Diabetes (Type 2),30,2023-08-29
+P01824,76,F,East,Insured,Diabetes (Type 2),30,2024-04-03
+P01825,69,F,Central,Insured,Asthma/COPD,30,2023-06-11
+P01826,78,F,Central,Insured,Hypertension,30,2024-06-11
+P01827,25,M,South,Insured,Osteoporosis,90,2025-05-11
+P01828,83,M,South,Insured,Hypertension,30,2024-06-06
+P01829,59,F,East,Insured,Osteoporosis,30,2025-04-05
+P01830,83,F,South,Uninsured,Hypertension,30,2025-04-17
+P01831,41,M,North,Insured,Asthma/COPD,60,2022-10-13
+P01832,81,M,South,Insured,Depression/Anxiety,30,2025-05-24
+P01833,57,M,East,Insured,Hypertension,60,2024-12-10
+P01834,22,F,East,Insured,Depression/Anxiety,60,2023-09-25
+P01835,45,F,Central,Insured,Hyperlipidemia,90,2024-04-08
+P01836,27,F,East,Insured,Diabetes (Type 2),30,2024-04-27
+P01837,81,F,South,Uninsured,Diabetes (Type 2),30,2024-11-04
+P01838,38,M,West,Insured,Depression/Anxiety,30,2024-11-23
+P01839,32,M,West,Insured,Depression/Anxiety,90,2022-09-24
+P01840,55,M,East,Insured,Diabetes (Type 2),90,2022-06-02
+P01841,46,F,East,Insured,Osteoporosis,60,2023-03-06
+P01842,24,M,South,Insured,Diabetes (Type 2),30,2024-01-17
+P01843,72,M,Central,Insured,Hypertension,30,2025-01-14
+P01844,74,M,Central,Insured,Hyperlipidemia,60,2024-06-07
+P01845,67,M,North,Insured,Hypertension,30,2022-11-01
+P01846,59,F,South,Uninsured,Diabetes (Type 2),60,2024-08-18
+P01847,44,M,South,Uninsured,Hyperlipidemia,90,2023-11-11
+P01848,54,M,Central,Insured,Diabetes (Type 2),30,2023-07-22
+P01849,52,F,North,Insured,Hypertension,30,2024-10-19
+P01850,29,M,South,Uninsured,Depression/Anxiety,30,2023-04-30
+P01851,23,M,South,Uninsured,Hyperlipidemia,30,2024-04-29
+P01852,34,M,East,Uninsured,Osteoporosis,60,2022-12-23
+P01853,48,F,South,Insured,Hyperlipidemia,30,2023-08-05
+P01854,28,M,East,Insured,Hyperlipidemia,30,2024-02-20
+P01855,25,F,West,Insured,Diabetes (Type 2),30,2024-05-04
+P01856,75,F,Central,Uninsured,Osteoporosis,30,2025-04-03
+P01857,43,F,North,Insured,Hypertension,60,2023-04-24
+P01858,57,M,North,Insured,Diabetes (Type 2),60,2025-03-08
+P01859,53,F,North,Insured,Osteoporosis,30,2024-12-08
+P01860,67,M,Central,Insured,Depression/Anxiety,30,2023-07-12
+P01861,67,M,West,Insured,Hyperlipidemia,30,2022-11-06
+P01862,37,F,East,Insured,Hypertension,30,2023-03-19
+P01863,74,M,West,Insured,Hypertension,30,2024-06-12
+P01864,42,M,East,Insured,Hyperlipidemia,90,2024-11-07
+P01865,73,M,South,Insured,Depression/Anxiety,30,2024-04-22
+P01866,45,M,East,Insured,Hyperlipidemia,30,2024-08-27
+P01867,25,M,West,Uninsured,Hypertension,30,2022-09-23
+P01868,68,F,North,Insured,Hypertension,60,2023-12-23
+P01869,20,F,West,Insured,Hyperlipidemia,30,2025-02-11
+P01870,69,M,East,Insured,Depression/Anxiety,90,2023-08-14
+P01871,20,F,North,Insured,Hypertension,30,2025-03-11
+P01872,31,M,South,Insured,Hypertension,90,2022-10-18
+P01873,58,M,East,Insured,Diabetes (Type 2),60,2025-06-09
+P01874,81,M,South,Insured,Hypertension,30,2024-11-03
+P01875,45,M,South,Insured,Hyperlipidemia,30,2024-05-08
+P01876,26,M,West,Insured,Hypertension,30,2024-04-28
+P01877,33,M,East,Insured,Depression/Anxiety,90,2025-04-23
+P01878,78,M,East,Insured,Depression/Anxiety,90,2023-07-31
+P01879,66,F,West,Insured,Asthma/COPD,30,2022-12-04
+P01880,24,M,North,Insured,Asthma/COPD,30,2025-04-03
+P01881,43,M,South,Insured,Diabetes (Type 2),30,2022-09-25
+P01882,35,M,North,Insured,Hypertension,30,2024-06-14
+P01883,29,F,Central,Uninsured,Diabetes (Type 2),60,2023-03-28
+P01884,74,M,North,Uninsured,Depression/Anxiety,30,2025-04-15
+P01885,59,F,Central,Insured,Hypertension,30,2025-06-04
+P01886,30,M,North,Insured,Diabetes (Type 2),90,2023-11-18
+P01887,61,M,South,Insured,Diabetes (Type 2),60,2024-01-24
+P01888,45,F,West,Insured,Hypertension,60,2023-10-27
+P01889,22,M,Central,Uninsured,Depression/Anxiety,30,2023-09-24
+P01890,48,M,North,Insured,Depression/Anxiety,90,2025-04-24
+P01891,30,M,South,Uninsured,Hyperlipidemia,60,2023-04-21
+P01892,34,F,Central,Insured,Asthma/COPD,30,2025-05-19
+P01893,76,F,South,Insured,Hypertension,30,2024-06-04
+P01894,65,F,South,Uninsured,Hypertension,90,2025-05-20
+P01895,26,F,West,Insured,Diabetes (Type 2),30,2024-04-22
+P01896,75,M,North,Insured,Depression/Anxiety,90,2024-12-11
+P01897,56,F,Central,Insured,Hyperlipidemia,60,2023-12-06
+P01898,76,M,Central,Uninsured,Hypertension,60,2023-11-05
+P01899,68,F,Central,Insured,Asthma/COPD,60,2023-03-18
+P01900,40,M,South,Insured,Diabetes (Type 2),90,2023-01-24
+P01901,53,M,North,Uninsured,Diabetes (Type 2),30,2022-07-13
+P01902,53,F,East,Insured,Depression/Anxiety,30,2023-08-07
+P01903,66,M,South,Insured,Asthma/COPD,60,2025-06-20
+P01904,34,F,Central,Uninsured,Depression/Anxiety,30,2025-04-25
+P01905,40,M,West,Insured,Asthma/COPD,60,2024-07-19
+P01906,34,F,Central,Uninsured,Hypertension,60,2023-07-16
+P01907,37,F,West,Insured,Hyperlipidemia,30,2024-01-09
+P01908,28,M,West,Insured,Osteoporosis,60,2024-10-02
+P01909,20,F,North,Insured,Hyperlipidemia,30,2022-06-03
+P01910,80,F,North,Insured,Diabetes (Type 2),90,2025-04-08
+P01911,22,F,North,Uninsured,Asthma/COPD,30,2025-02-07
+P01912,77,M,East,Insured,Hypertension,60,2025-05-31
+P01913,18,F,South,Insured,Diabetes (Type 2),90,2022-09-15
+P01914,70,F,Central,Insured,Osteoporosis,30,2025-05-05
+P01915,40,M,North,Insured,Asthma/COPD,30,2024-04-23
+P01916,52,M,Central,Insured,Asthma/COPD,30,2024-02-17
+P01917,36,M,West,Uninsured,Osteoporosis,60,2022-12-20
+P01918,50,F,North,Insured,Hypertension,30,2023-12-08
+P01919,48,M,North,Uninsured,Asthma/COPD,30,2023-07-16
+P01920,53,F,South,Insured,Diabetes (Type 2),90,2025-06-20
+P01921,44,F,South,Insured,Depression/Anxiety,30,2023-06-19
+P01922,53,M,South,Insured,Diabetes (Type 2),30,2023-02-02
+P01923,73,M,East,Insured,Osteoporosis,60,2025-05-04
+P01924,47,F,North,Insured,Hyperlipidemia,30,2022-12-29
+P01925,42,M,North,Insured,Osteoporosis,30,2025-03-18
+P01926,26,F,West,Insured,Hypertension,90,2025-05-23
+P01927,42,F,Central,Uninsured,Hypertension,60,2023-05-14
+P01928,26,F,South,Uninsured,Hyperlipidemia,30,2024-07-18
+P01929,30,M,Central,Uninsured,Hypertension,60,2024-11-16
+P01930,81,F,South,Insured,Depression/Anxiety,30,2024-01-27
+P01931,23,F,South,Uninsured,Diabetes (Type 2),30,2024-07-26
+P01932,50,M,North,Insured,Hyperlipidemia,60,2022-10-28
+P01933,73,F,East,Insured,Hypertension,30,2024-01-04
+P01934,81,F,East,Insured,Hypertension,30,2024-01-01
+P01935,27,F,West,Insured,Depression/Anxiety,90,2024-03-01
+P01936,28,M,North,Insured,Diabetes (Type 2),30,2025-05-02
+P01937,42,M,North,Insured,Hypertension,30,2024-12-18
+P01938,55,M,East,Insured,Diabetes (Type 2),30,2024-04-11
+P01939,82,M,North,Insured,Hypertension,60,2023-08-30
+P01940,31,M,North,Uninsured,Depression/Anxiety,60,2023-08-31
+P01941,29,F,West,Insured,Hypertension,90,2022-06-23
+P01942,34,M,Central,Insured,Diabetes (Type 2),30,2024-02-13
+P01943,76,F,East,Insured,Depression/Anxiety,60,2023-03-13
+P01944,20,M,North,Uninsured,Hyperlipidemia,60,2025-02-25
+P01945,43,M,Central,Insured,Hyperlipidemia,30,2024-10-21
+P01946,25,M,East,Insured,Diabetes (Type 2),30,2025-03-27
+P01947,28,M,West,Insured,Asthma/COPD,90,2025-06-29
+P01948,79,F,North,Insured,Diabetes (Type 2),30,2023-08-26
+P01949,18,F,East,Insured,Diabetes (Type 2),60,2023-09-27
+P01950,39,F,North,Insured,Asthma/COPD,30,2024-04-17
+P01951,79,M,West,Insured,Depression/Anxiety,30,2023-09-30
+P01952,58,F,South,Insured,Hyperlipidemia,90,2023-04-12
+P01953,22,M,Central,Insured,Osteoporosis,90,2024-08-07
+P01954,49,F,North,Insured,Hypertension,30,2023-10-23
+P01955,83,F,West,Insured,Osteoporosis,60,2025-04-29
+P01956,44,M,North,Insured,Depression/Anxiety,30,2023-02-04
+P01957,53,M,West,Insured,Diabetes (Type 2),60,2023-10-15
+P01958,53,M,East,Insured,Diabetes (Type 2),30,2024-01-22
+P01959,62,M,Central,Insured,Hypertension,30,2025-03-21
+P01960,30,F,West,Insured,Asthma/COPD,30,2024-03-14
+P01961,74,F,South,Insured,Hypertension,30,2022-08-17
+P01962,84,F,North,Insured,Diabetes (Type 2),30,2023-06-17
+P01963,27,M,East,Insured,Depression/Anxiety,30,2025-02-25
+P01964,72,F,East,Insured,Depression/Anxiety,90,2023-04-04
+P01965,72,M,North,Insured,Hypertension,30,2023-06-20
+P01966,67,F,East,Insured,Osteoporosis,30,2022-11-18
+P01967,42,M,South,Insured,Hyperlipidemia,30,2024-08-21
+P01968,49,M,South,Insured,Osteoporosis,60,2022-11-05
+P01969,74,F,North,Insured,Hypertension,30,2023-07-21
+P01970,28,M,South,Uninsured,Hypertension,30,2024-08-12
+P01971,73,M,South,Insured,Depression/Anxiety,60,2025-03-08
+P01972,79,F,North,Insured,Hypertension,30,2023-02-06
+P01973,63,M,East,Insured,Hyperlipidemia,90,2023-06-11
+P01974,40,F,South,Uninsured,Hypertension,30,2022-10-12
+P01975,55,F,North,Uninsured,Depression/Anxiety,60,2023-10-08
+P01976,21,F,East,Insured,Asthma/COPD,30,2025-07-02
+P01977,80,F,North,Insured,Osteoporosis,60,2023-05-10
+P01978,40,F,Central,Insured,Asthma/COPD,90,2023-03-21
+P01979,21,F,East,Insured,Asthma/COPD,30,2023-08-26
+P01980,71,F,Central,Insured,Hyperlipidemia,30,2025-03-08
+P01981,62,F,Central,Insured,Diabetes (Type 2),30,2024-02-08
+P01982,59,M,Central,Insured,Asthma/COPD,30,2024-04-18
+P01983,21,M,East,Uninsured,Asthma/COPD,90,2024-10-29
+P01984,68,F,East,Insured,Asthma/COPD,60,2024-08-16
+P01985,60,M,West,Insured,Depression/Anxiety,60,2024-04-07
+P01986,71,M,North,Insured,Hypertension,90,2024-02-24
+P01987,73,M,Central,Insured,Asthma/COPD,90,2024-01-24
+P01988,32,F,South,Insured,Asthma/COPD,90,2022-12-22
+P01989,32,M,North,Uninsured,Depression/Anxiety,30,2023-09-11
+P01990,79,F,South,Insured,Osteoporosis,30,2025-01-12
+P01991,53,F,South,Insured,Hyperlipidemia,30,2022-07-15
+P01992,47,F,North,Insured,Asthma/COPD,30,2024-12-21
+P01993,37,M,West,Uninsured,Hypertension,30,2024-02-29
+P01994,60,F,North,Uninsured,Osteoporosis,30,2023-06-30
+P01995,68,F,Central,Insured,Hypertension,30,2022-10-07
+P01996,18,M,East,Insured,Diabetes (Type 2),30,2024-10-10
+P01997,55,F,West,Insured,Hypertension,30,2022-06-01
+P01998,84,M,South,Uninsured,Hyperlipidemia,30,2024-02-04
+P01999,36,F,North,Uninsured,Diabetes (Type 2),30,2022-12-01
+P02000,36,M,North,Uninsured,Asthma/COPD,30,2025-03-23

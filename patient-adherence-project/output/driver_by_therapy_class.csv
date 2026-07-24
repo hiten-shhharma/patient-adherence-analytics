@@ -1,0 +1,7 @@
+therapy_class,patient_count,discontinued_count,avg_pdc,avg_days_persisted,discontinuation_rate_pct,persistency_rate_pct
+Osteoporosis,213,153,0.904,302.0,71.8,28.2
+Asthma/COPD,221,152,0.888,348.0,68.8,31.2
+Depression/Anxiety,319,208,0.892,370.0,65.2,34.8
+Hyperlipidemia,358,204,0.885,426.0,57.0,43.0
+Diabetes (Type 2),451,246,0.89,454.0,54.5,45.5
+Hypertension,438,236,0.89,477.0,53.9,46.1

@@ -1,0 +1,316 @@
+patient_id,age,gender,region,insurance_status,therapy_class,initial_supply_days,total_fills,last_fill_date,days_since_last_fill,pdc,risk_score,priority_tier
+P00332,42,F,West,Uninsured,Asthma/COPD,60,4,2025-11-24,37,1.0,98.0,High
+P01505,58,M,West,Uninsured,Hyperlipidemia,60,3,2025-11-02,59,0.9836,95.0,High
+P00109,49,F,West,Uninsured,Diabetes (Type 2),60,6,2025-11-04,57,0.9068,94.0,High
+P00285,47,F,East,Uninsured,Osteoporosis,30,15,2025-11-14,47,0.8654,93.0,High
+P00980,55,M,East,Uninsured,Depression/Anxiety,60,9,2025-11-17,44,0.9122,89.0,High
+P01447,80,M,North,Uninsured,Depression/Anxiety,30,7,2025-11-20,41,0.7095,88.0,High
+P01487,28,F,Central,Uninsured,Diabetes (Type 2),60,11,2025-11-09,52,0.9016,88.0,High
+P01482,18,M,South,Insured,Asthma/COPD,30,6,2025-11-01,60,0.8295,88.0,High
+P01050,26,M,East,Uninsured,Diabetes (Type 2),30,5,2025-11-04,57,0.5535,87.0,High
+P00197,40,M,West,Insured,Osteoporosis,60,4,2025-11-16,45,1.0,87.0,High
+P01087,71,M,East,Uninsured,Depression/Anxiety,30,5,2025-11-13,48,0.6148,85.0,High
+P00097,34,M,West,Insured,Hypertension,30,6,2025-11-19,42,0.8654,84.0,High
+P01588,23,M,North,Insured,Asthma/COPD,30,6,2025-11-14,47,0.9045,84.0,High
+P01839,32,M,West,Insured,Depression/Anxiety,90,13,2025-11-19,42,0.9791,82.0,High
+P01673,35,M,West,Insured,Asthma/COPD,90,3,2025-11-13,48,1.0,82.0,High
+P00061,79,F,East,Uninsured,Depression/Anxiety,60,11,2025-11-03,58,0.9335,81.0,High
+P01286,21,M,Central,Insured,Asthma/COPD,30,11,2025-11-29,32,0.7857,81.0,High
+P00020,48,M,West,Insured,Asthma/COPD,60,13,2025-11-01,60,0.8219,81.0,High
+P01123,36,M,West,Insured,Asthma/COPD,90,3,2025-11-22,39,1.0,80.0,High
+P00846,18,F,West,Insured,Hypertension,60,13,2025-11-24,37,0.9375,80.0,High
+P01769,22,F,South,Insured,Asthma/COPD,60,14,2025-11-19,42,0.9449,79.0,High
+P01710,32,F,West,Insured,Depression/Anxiety,60,4,2025-11-15,46,0.8027,79.0,High
+P00805,67,F,East,Uninsured,Osteoporosis,60,8,2025-11-10,51,0.8149,79.0,High
+P00343,59,M,West,Insured,Osteoporosis,60,4,2025-11-29,32,1.0,78.0,High
+P00964,32,M,West,Insured,Diabetes (Type 2),60,19,2025-11-12,49,0.9105,77.0,High
+P00122,62,M,East,Uninsured,Diabetes (Type 2),60,5,2025-11-10,51,0.9585,77.0,High
+P00426,31,M,West,Insured,Hypertension,60,20,2025-11-12,49,0.9181,77.0,High
+P00891,24,M,North,Insured,Depression/Anxiety,60,9,2025-11-29,32,1.0,76.0,High
+P00401,84,M,East,Uninsured,Hypertension,30,12,2025-11-02,59,0.9,76.0,High
+P01894,65,F,South,Uninsured,Hypertension,90,3,2025-11-18,43,1.0,75.0,High
+P01345,30,F,West,Insured,Diabetes (Type 2),60,5,2025-11-14,47,0.9404,75.0,High
+P01985,60,M,West,Insured,Depression/Anxiety,60,9,2025-11-13,48,0.8517,75.0,High
+P01269,81,F,East,Uninsured,Asthma/COPD,90,14,2025-11-23,38,0.9976,73.0,High
+P01017,43,M,West,Insured,Diabetes (Type 2),60,14,2025-11-15,46,0.9241,72.0,High
+P01217,51,M,West,Insured,Depression/Anxiety,90,5,2025-11-29,32,1.0,72.0,High
+P00177,66,M,West,Insured,Depression/Anxiety,60,7,2025-11-09,52,0.8468,72.0,High
+P00492,76,F,East,Uninsured,Depression/Anxiety,90,5,2025-11-26,35,1.0,72.0,High
+P01254,71,F,Central,Uninsured,Hyperlipidemia,60,15,2025-11-06,55,0.8629,72.0,High
+P01014,39,M,East,Insured,Depression/Anxiety,30,19,2025-11-22,39,0.8879,71.0,High
+P01078,29,M,North,Insured,Asthma/COPD,60,11,2025-11-25,36,0.9103,71.0,High
+P00206,35,M,Central,Insured,Depression/Anxiety,30,6,2025-11-16,45,0.7595,71.0,High
+P00798,48,M,West,Insured,Hypertension,60,5,2025-11-15,46,1.0,71.0,High
+P00895,68,M,West,Insured,Hypertension,30,8,2025-11-28,33,0.8889,70.0,High
+P00913,43,F,South,Insured,Depression/Anxiety,60,6,2025-11-18,43,1.0,69.0,High
+P01363,41,M,North,Insured,Asthma/COPD,60,13,2025-11-26,35,0.9848,69.0,High
+P00707,18,M,North,Insured,Hypertension,30,9,2025-11-26,35,0.8133,69.0,High
+P01957,53,M,West,Insured,Diabetes (Type 2),60,13,2025-11-09,52,0.9642,69.0,High
+P00371,40,M,Central,Insured,Osteoporosis,30,12,2025-11-30,31,0.7725,69.0,High
+P00433,73,M,South,Uninsured,Hypertension,90,13,2025-11-17,44,0.9227,68.0,High
+P01627,56,F,South,Insured,Asthma/COPD,30,30,2025-11-25,36,0.7143,68.0,High
+P01153,46,F,North,Insured,Asthma/COPD,30,20,2025-11-14,47,0.7264,68.0,High
+P01258,55,F,West,Insured,Asthma/COPD,90,4,2025-11-25,36,1.0,67.0,High
+P00125,75,M,North,Uninsured,Hypertension,90,3,2025-11-10,51,1.0,67.0,High
+P01834,22,F,East,Insured,Depression/Anxiety,60,13,2025-11-05,56,0.9409,67.0,High
+P01612,27,F,North,Insured,Depression/Anxiety,60,10,2025-11-30,31,0.9217,67.0,High
+P00857,34,M,West,Insured,Diabetes (Type 2),90,9,2025-11-04,57,0.9701,66.0,High
+P01071,63,F,South,Insured,Depression/Anxiety,30,6,2025-11-21,40,0.8531,66.0,High
+P01831,41,M,North,Insured,Asthma/COPD,60,18,2025-11-27,34,0.9184,66.0,High
+P00996,59,F,West,Insured,Osteoporosis,90,6,2025-11-10,51,1.0,66.0,High
+P00110,65,M,West,Insured,Hyperlipidemia,60,6,2025-11-18,43,0.9917,65.0,Medium
+P00548,57,F,West,Insured,Hyperlipidemia,60,14,2025-11-06,55,0.9221,65.0,Medium
+P01822,69,F,East,Uninsured,Hyperlipidemia,90,6,2025-11-24,37,1.0,65.0,Medium
+P01013,34,M,West,Insured,Hypertension,90,10,2025-11-18,43,0.9793,65.0,Medium
+P01827,25,M,South,Insured,Osteoporosis,90,3,2025-11-30,31,1.0,65.0,Medium
+P01201,76,M,West,Insured,Diabetes (Type 2),30,28,2025-11-27,34,0.7962,64.0,Medium
+P00352,21,F,North,Insured,Asthma/COPD,90,6,2025-11-01,60,1.0,64.0,Medium
+P00279,22,F,North,Insured,Depression/Anxiety,90,3,2025-11-15,46,1.0,63.0,Medium
+P01988,32,F,South,Insured,Asthma/COPD,90,12,2025-11-19,42,0.9765,63.0,Medium
+P01502,35,F,North,Insured,Depression/Anxiety,60,14,2025-11-24,37,0.8777,62.0,Medium
+P00242,57,M,North,Uninsured,Hypertension,90,11,2025-11-04,57,0.8068,62.0,Medium
+P00889,19,F,North,Insured,Hyperlipidemia,60,4,2025-11-08,53,0.9917,62.0,Medium
+P01024,74,M,West,Insured,Hyperlipidemia,30,9,2025-11-22,39,0.6475,62.0,Medium
+P00516,25,M,South,Insured,Hyperlipidemia,60,12,2025-11-25,36,0.8501,61.0,Medium
+P00832,34,F,South,Insured,Hyperlipidemia,60,4,2025-11-22,39,1.0,61.0,Medium
+P01094,44,M,East,Insured,Depression/Anxiety,30,14,2025-11-15,46,0.6656,61.0,Medium
+P00274,82,F,Central,Uninsured,Hypertension,60,7,2025-11-13,48,0.875,61.0,Medium
+P01953,22,M,Central,Insured,Osteoporosis,90,6,2025-11-08,53,1.0,61.0,Medium
+P00934,61,F,West,Insured,Depression/Anxiety,90,9,2025-11-09,52,0.9236,61.0,Medium
+P01216,25,M,South,Insured,Hypertension,60,4,2025-11-08,53,0.9375,61.0,Medium
+P01506,34,M,East,Insured,Depression/Anxiety,60,8,2025-11-01,60,0.8872,60.0,Medium
+P01091,51,M,West,Insured,Hyperlipidemia,60,5,2025-11-11,50,0.7752,60.0,Medium
+P01261,35,F,South,Insured,Osteoporosis,90,7,2025-11-14,47,1.0,60.0,Medium
+P00998,42,M,South,Insured,Diabetes (Type 2),30,13,2025-11-02,59,0.729,60.0,Medium
+P01073,68,M,West,Insured,Diabetes (Type 2),60,17,2025-11-08,53,0.9115,59.0,Medium
+P00342,37,F,Central,Insured,Asthma/COPD,60,11,2025-11-11,50,0.8895,59.0,Medium
+P01037,78,F,North,Uninsured,Hypertension,90,11,2025-11-01,60,0.9668,59.0,Medium
+P00762,55,M,South,Insured,Hyperlipidemia,30,14,2025-11-10,51,0.8092,59.0,Medium
+P00881,23,F,South,Insured,Hypertension,60,19,2025-11-20,41,0.9135,58.0,Medium
+P01163,74,M,West,Insured,Hyperlipidemia,60,5,2025-11-11,50,0.9231,58.0,Medium
+P00728,23,F,East,Insured,Diabetes (Type 2),30,14,2025-11-15,46,0.7985,58.0,Medium
+P00614,43,M,North,Insured,Hypertension,30,21,2025-11-21,40,0.8678,57.0,Medium
+P00971,38,M,North,Insured,Depression/Anxiety,90,4,2025-11-21,40,1.0,57.0,Medium
+P00400,38,M,Central,Insured,Osteoporosis,60,6,2025-11-25,36,0.9068,57.0,Medium
+P00463,68,M,South,Insured,Depression/Anxiety,60,5,2025-11-25,36,1.0,57.0,Medium
+P00102,31,M,Central,Insured,Hypertension,30,33,2025-11-09,52,0.7698,57.0,Medium
+P00137,58,M,North,Insured,Asthma/COPD,60,17,2025-11-16,45,0.9083,56.0,Medium
+P01333,46,F,South,Insured,Diabetes (Type 2),30,18,2025-11-17,44,0.7815,56.0,Medium
+P00052,31,M,North,Insured,Hyperlipidemia,60,18,2025-11-17,44,0.927,56.0,Medium
+P01326,30,F,Central,Insured,Diabetes (Type 2),30,5,2025-11-27,34,0.8108,55.0,Medium
+P01121,18,M,East,Insured,Diabetes (Type 2),60,13,2025-11-20,41,0.9701,55.0,Medium
+P00844,20,F,South,Insured,Diabetes (Type 2),60,15,2025-11-25,36,0.8197,55.0,Medium
+P00874,26,F,South,Insured,Diabetes (Type 2),60,15,2025-11-19,42,0.8571,55.0,Medium
+P01770,31,F,Central,Insured,Depression/Anxiety,30,5,2025-11-27,34,0.5085,55.0,Medium
+P00211,35,F,North,Insured,Hypertension,30,31,2025-11-17,44,0.7828,55.0,Medium
+P01387,55,F,West,Insured,Hyperlipidemia,90,6,2025-11-27,34,1.0,55.0,Medium
+P00111,36,M,Central,Insured,Hypertension,30,22,2025-11-16,45,0.8365,55.0,Medium
+P00618,35,F,East,Insured,Osteoporosis,60,8,2025-11-22,39,0.9284,55.0,Medium
+P00117,20,M,Central,Insured,Diabetes (Type 2),60,7,2025-11-05,56,0.9292,55.0,Medium
+P01209,37,M,East,Insured,Hypertension,30,11,2025-11-30,31,0.8919,54.0,Medium
+P00757,67,M,East,Insured,Osteoporosis,30,7,2025-11-24,37,0.8936,54.0,Medium
+P00837,72,M,West,Insured,Hypertension,60,4,2025-11-21,40,0.9877,54.0,Medium
+P01308,33,M,South,Insured,Osteoporosis,90,11,2025-11-11,50,0.8624,54.0,Medium
+P01192,36,F,Central,Insured,Diabetes (Type 2),30,22,2025-11-26,35,0.8344,53.0,Medium
+P00388,73,M,West,Insured,Hypertension,60,12,2025-11-25,36,0.9254,53.0,Medium
+P00570,56,F,North,Insured,Asthma/COPD,60,16,2025-11-25,36,0.8848,52.0,Medium
+P01829,59,F,East,Insured,Osteoporosis,30,7,2025-11-24,37,0.7985,52.0,Medium
+P00549,52,M,East,Insured,Depression/Anxiety,60,13,2025-11-25,36,0.9582,52.0,Medium
+P01721,23,F,North,Insured,Hypertension,60,11,2025-11-14,47,0.9322,52.0,Medium
+P01971,73,M,South,Insured,Depression/Anxiety,60,5,2025-11-26,35,1.0,52.0,Medium
+P00632,39,F,North,Insured,Hypertension,30,9,2025-11-30,31,0.7714,52.0,Medium
+P00696,34,F,East,Insured,Diabetes (Type 2),30,17,2025-11-04,57,0.7907,51.0,Medium
+P01229,28,M,Central,Insured,Hypertension,60,12,2025-11-18,43,0.9809,51.0,Medium
+P01621,35,F,Central,Insured,Diabetes (Type 2),30,14,2025-11-17,44,0.7636,51.0,Medium
+P00398,31,F,North,Insured,Hypertension,60,10,2025-11-09,52,0.9983,51.0,Medium
+P00353,38,M,North,Insured,Depression/Anxiety,90,9,2025-11-15,46,0.9518,51.0,Medium
+P00053,42,M,South,Insured,Osteoporosis,90,11,2025-11-13,48,0.8847,50.0,Medium
+P01266,20,M,East,Insured,Hypertension,60,3,2025-11-07,54,0.9326,50.0,Medium
+P01000,52,F,Central,Insured,Depression/Anxiety,60,7,2025-11-17,44,0.9545,50.0,Medium
+P01563,34,F,East,Insured,Hypertension,30,11,2025-11-06,55,0.8209,50.0,Medium
+P00848,21,F,East,Insured,Diabetes (Type 2),60,16,2025-11-26,35,0.9486,49.0,Medium
+P01494,40,F,South,Insured,Hypertension,60,12,2025-11-26,35,0.96,49.0,Medium
+P01436,24,F,Central,Insured,Diabetes (Type 2),60,7,2025-11-09,52,0.9438,49.0,Medium
+P00506,48,F,South,Insured,Hypertension,30,6,2025-11-10,51,0.6897,49.0,Medium
+P00666,64,F,North,Insured,Depression/Anxiety,60,11,2025-11-17,44,0.9663,49.0,Medium
+P01990,79,F,South,Insured,Osteoporosis,30,8,2025-11-30,31,0.6818,49.0,Medium
+P00706,55,F,North,Insured,Hyperlipidemia,30,18,2025-11-04,57,0.8308,49.0,Medium
+P01400,38,F,East,Insured,Depression/Anxiety,60,5,2025-11-12,49,0.8475,49.0,Medium
+P00917,54,F,North,Insured,Diabetes (Type 2),30,8,2025-11-20,41,0.9023,49.0,Medium
+P00308,55,F,North,Insured,Osteoporosis,60,14,2025-11-26,35,0.9071,49.0,Medium
+P00751,82,F,West,Insured,Hypertension,60,5,2025-11-04,57,0.9836,48.0,Medium
+P01662,58,M,East,Insured,Asthma/COPD,60,7,2025-11-25,36,0.9292,48.0,Medium
+P01290,59,M,North,Insured,Hypertension,30,17,2025-11-02,59,0.9091,48.0,Medium
+P01841,46,F,East,Insured,Osteoporosis,60,15,2025-11-08,53,0.8721,48.0,Medium
+P01520,48,M,North,Insured,Hypertension,30,7,2025-11-27,34,0.7266,48.0,Medium
+P01273,80,F,East,Uninsured,Hypertension,90,6,2025-11-23,38,0.9783,47.0,Medium
+P01978,40,F,Central,Insured,Asthma/COPD,90,11,2025-11-16,45,0.9735,47.0,Medium
+P00986,61,F,Central,Insured,Depression/Anxiety,60,4,2025-11-11,50,1.0,47.0,Medium
+P01415,57,M,South,Insured,Depression/Anxiety,90,5,2025-11-08,53,0.9978,47.0,Medium
+P00818,25,M,East,Insured,Hypertension,60,9,2025-11-22,39,0.931,47.0,Medium
+P01092,48,F,East,Insured,Hyperlipidemia,30,10,2025-11-30,31,0.8403,47.0,Medium
+P00172,24,F,South,Insured,Diabetes (Type 2),60,5,2025-11-03,58,0.7557,47.0,Medium
+P01568,58,M,South,Insured,Depression/Anxiety,90,11,2025-11-26,35,0.963,47.0,Medium
+P01639,30,F,Central,Insured,Hyperlipidemia,60,8,2025-11-27,34,0.932,47.0,Medium
+P01669,53,F,South,Insured,Depression/Anxiety,90,7,2025-11-26,35,1.0,47.0,Medium
+P01335,53,M,South,Insured,Diabetes (Type 2),60,5,2025-11-08,53,0.9524,46.0,Medium
+P00214,48,M,South,Insured,Hyperlipidemia,60,13,2025-11-10,51,0.8289,46.0,Medium
+P01537,28,F,South,Insured,Hyperlipidemia,90,7,2025-11-02,59,0.9633,46.0,Medium
+P01608,57,M,North,Insured,Hypertension,30,33,2025-11-19,42,0.8062,46.0,Medium
+P00843,78,M,East,Insured,Depression/Anxiety,30,15,2025-11-22,39,0.8123,46.0,Medium
+P00520,57,M,North,Insured,Diabetes (Type 2),30,7,2025-11-26,35,0.7692,45.0,Medium
+P00567,33,M,North,Insured,Hyperlipidemia,90,6,2025-11-15,46,1.0,45.0,Medium
+P01631,56,M,South,Insured,Hyperlipidemia,60,9,2025-11-13,48,0.8955,45.0,Medium
+P01558,69,M,West,Insured,Diabetes (Type 2),60,6,2025-11-19,42,0.766,45.0,Medium
+P00188,43,F,Central,Insured,Diabetes (Type 2),30,14,2025-11-10,51,0.733,45.0,Medium
+P00644,50,M,East,Insured,Diabetes (Type 2),30,19,2025-11-27,34,0.8006,45.0,Medium
+P01312,41,M,North,Insured,Diabetes (Type 2),60,15,2025-11-17,44,0.8929,44.0,Medium
+P00528,27,M,East,Insured,Hypertension,60,15,2025-11-10,51,0.8687,44.0,Medium
+P00477,74,M,South,Insured,Osteoporosis,60,10,2025-11-06,55,0.823,44.0,Medium
+P01068,60,F,North,Insured,Asthma/COPD,60,7,2025-11-28,33,0.8383,44.0,Medium
+P00982,65,M,East,Insured,Asthma/COPD,60,15,2025-11-03,58,0.878,44.0,Medium
+P01857,43,F,North,Insured,Hypertension,60,16,2025-11-03,58,0.9766,43.0,Medium
+P01890,48,M,North,Insured,Depression/Anxiety,90,3,2025-11-17,44,1.0,43.0,Medium
+P01581,37,M,North,Insured,Diabetes (Type 2),60,18,2025-11-30,31,0.8289,43.0,Medium
+P00457,27,M,South,Insured,Hyperlipidemia,90,8,2025-11-16,45,0.8802,43.0,Medium
+P00987,59,M,East,Insured,Hyperlipidemia,30,15,2025-11-24,37,0.8021,43.0,Medium
+P01156,57,F,South,Insured,Depression/Anxiety,90,9,2025-11-30,31,0.9701,43.0,Medium
+P01084,55,M,East,Insured,Hypertension,30,22,2025-11-16,45,0.8684,43.0,Medium
+P00519,49,M,North,Insured,Hypertension,60,7,2025-11-14,47,0.9722,42.0,Medium
+P01517,50,M,North,Insured,Osteoporosis,90,6,2025-11-08,53,0.9695,42.0,Medium
+P00756,47,F,Central,Insured,Hypertension,30,25,2025-11-10,51,0.7493,42.0,Medium
+P01275,69,F,North,Insured,Depression/Anxiety,60,18,2025-11-14,47,0.8874,42.0,Medium
+P00351,53,F,South,Insured,Depression/Anxiety,90,5,2025-11-02,59,0.9375,42.0,Medium
+P00275,46,M,East,Insured,Hypertension,30,19,2025-11-27,34,0.7028,42.0,Medium
+P00368,39,M,North,Insured,Hypertension,60,18,2025-11-29,32,0.8606,42.0,Medium
+P01775,69,F,North,Insured,Depression/Anxiety,60,7,2025-11-20,41,0.9251,42.0,Medium
+P00359,24,F,North,Insured,Hyperlipidemia,90,7,2025-11-30,31,0.9813,41.0,Medium
+P00065,45,M,South,Insured,Diabetes (Type 2),90,4,2025-11-22,39,1.0,41.0,Medium
+P01984,68,F,East,Insured,Asthma/COPD,60,8,2025-11-06,55,0.9543,41.0,Medium
+P00984,61,M,North,Insured,Depression/Anxiety,90,9,2025-11-30,31,1.0,40.0,Low
+P00579,77,F,North,Insured,Asthma/COPD,60,11,2025-11-27,34,0.9244,40.0,Low
+P01584,45,M,South,Insured,Osteoporosis,90,4,2025-11-28,33,0.9254,40.0,Low
+P00774,66,F,East,Insured,Asthma/COPD,60,9,2025-11-19,42,0.9106,40.0,Low
+P01132,62,F,Central,Insured,Depression/Anxiety,60,12,2025-11-24,37,0.8738,40.0,Low
+P00721,27,M,Central,Insured,Diabetes (Type 2),90,9,2025-11-09,52,0.9866,39.0,Low
+P00510,33,F,North,Insured,Hyperlipidemia,90,6,2025-11-11,50,1.0,39.0,Low
+P00116,56,M,North,Insured,Depression/Anxiety,90,9,2025-11-05,56,0.9289,39.0,Low
+P01595,65,M,East,Insured,Hyperlipidemia,30,29,2025-11-26,35,0.8011,39.0,Low
+P01324,77,M,Central,Insured,Asthma/COPD,60,8,2025-11-28,33,0.9266,39.0,Low
+P00953,59,F,Central,Insured,Hypertension,30,22,2025-11-22,39,0.8847,39.0,Low
+P01885,59,F,Central,Insured,Hypertension,30,6,2025-11-22,39,0.8955,39.0,Low
+P01723,61,M,Central,Insured,Hypertension,30,21,2025-11-18,43,0.8182,39.0,Low
+P00764,80,M,Central,Insured,Depression/Anxiety,60,10,2025-11-18,43,0.9724,38.0,Low
+P01098,68,F,North,Insured,Diabetes (Type 2),30,19,2025-11-22,39,0.8482,38.0,Low
+P00811,20,M,Central,Insured,Hypertension,90,12,2025-11-06,55,0.9278,38.0,Low
+P00726,25,M,East,Insured,Diabetes (Type 2),90,12,2025-11-12,49,0.989,38.0,Low
+P00103,71,F,East,Insured,Osteoporosis,60,10,2025-11-20,41,1.0,38.0,Low
+P00554,39,M,East,Insured,Hypertension,60,7,2025-11-08,53,0.8936,38.0,Low
+P00482,73,M,Central,Insured,Hyperlipidemia,30,27,2025-11-23,38,0.8411,38.0,Low
+P01391,38,F,Central,Insured,Diabetes (Type 2),60,9,2025-11-13,48,0.8852,38.0,Low
+P00625,58,M,East,Insured,Hypertension,30,15,2025-11-06,55,0.7759,38.0,Low
+P01949,18,F,East,Insured,Diabetes (Type 2),60,10,2025-11-02,59,0.7255,37.0,Low
+P00347,84,M,East,Insured,Asthma/COPD,60,4,2025-11-28,33,1.0,37.0,Low
+P00403,39,F,South,Insured,Hypertension,60,4,2025-11-18,43,0.8054,37.0,Low
+P00767,59,F,West,Insured,Osteoporosis,60,3,2025-11-25,36,0.6228,37.0,Low
+P01292,75,F,West,Insured,Diabetes (Type 2),90,10,2025-11-01,60,0.9494,37.0,Low
+P00608,52,M,Central,Insured,Diabetes (Type 2),60,11,2025-11-24,37,0.9551,36.0,Low
+P01181,58,F,East,Insured,Diabetes (Type 2),30,16,2025-11-19,42,0.783,36.0,Low
+P00936,81,M,South,Insured,Depression/Anxiety,90,12,2025-11-16,45,0.9954,36.0,Low
+P01573,67,F,North,Insured,Hypertension,30,13,2025-11-12,49,0.8075,36.0,Low
+P01654,57,F,South,Insured,Hypertension,60,8,2025-11-17,44,0.904,36.0,Low
+P00551,71,M,East,Insured,Osteoporosis,60,14,2025-11-08,53,0.8705,36.0,Low
+P00668,75,M,South,Insured,Hyperlipidemia,60,20,2025-11-18,43,0.9217,36.0,Low
+P01441,70,F,North,Insured,Osteoporosis,60,18,2025-11-23,38,0.827,36.0,Low
+P00654,71,M,East,Insured,Hyperlipidemia,30,26,2025-11-14,47,0.7602,35.0,Low
+P00057,54,F,North,Insured,Hypertension,60,6,2025-11-17,44,0.9863,35.0,Low
+P01539,65,M,South,Insured,Hypertension,60,17,2025-11-17,44,0.8987,35.0,Low
+P00973,49,F,South,Insured,Diabetes (Type 2),90,13,2025-11-08,53,1.0,35.0,Low
+P00958,60,M,Central,Insured,Hyperlipidemia,60,17,2025-11-10,51,0.9375,35.0,Low
+P01260,71,M,North,Insured,Hypertension,30,15,2025-11-26,35,0.727,35.0,Low
+P00779,36,M,North,Insured,Diabetes (Type 2),90,3,2025-11-05,56,1.0,35.0,Low
+P00043,64,F,South,Insured,Depression/Anxiety,90,3,2025-11-23,38,1.0,35.0,Low
+P01666,44,F,East,Insured,Hyperlipidemia,60,14,2025-11-20,41,0.8777,35.0,Low
+P00569,61,M,North,Insured,Hyperlipidemia,60,9,2025-11-09,52,0.8571,34.0,Low
+P01689,80,M,North,Insured,Diabetes (Type 2),30,34,2025-11-13,48,0.7975,34.0,Low
+P01203,83,F,South,Insured,Hypertension,30,22,2025-11-14,47,0.8138,34.0,Low
+P00725,70,F,South,Insured,Diabetes (Type 2),30,7,2025-11-25,36,0.6158,33.0,Low
+P00663,20,F,East,Insured,Hypertension,90,13,2025-11-22,39,0.9398,33.0,Low
+P01499,49,F,East,Insured,Depression/Anxiety,90,9,2025-11-25,36,0.9289,33.0,Low
+P00535,56,M,Central,Insured,Hyperlipidemia,60,15,2025-11-11,50,0.8588,33.0,Low
+P01188,58,F,North,Insured,Diabetes (Type 2),60,13,2025-11-15,46,0.9432,33.0,Low
+P01313,70,M,East,Insured,Diabetes (Type 2),30,8,2025-11-11,50,0.7668,32.0,Low
+P00609,82,M,North,Insured,Hypertension,30,25,2025-11-29,32,0.8278,32.0,Low
+P00597,56,M,Central,Insured,Diabetes (Type 2),60,15,2025-11-20,41,0.8991,32.0,Low
+P01952,58,F,South,Insured,Hyperlipidemia,90,11,2025-11-17,44,0.995,32.0,Low
+P01969,74,F,North,Insured,Hypertension,30,23,2025-11-05,56,0.7949,32.0,Low
+P01773,42,F,East,Insured,Hypertension,60,18,2025-11-14,47,0.8795,32.0,Low
+P00149,73,F,North,Insured,Asthma/COPD,90,8,2025-11-25,36,1.0,32.0,Low
+P01987,73,M,Central,Insured,Asthma/COPD,90,8,2025-11-24,37,1.0,32.0,Low
+P00824,61,F,North,Insured,Hypertension,60,20,2025-11-12,49,0.9346,31.0,Low
+P01755,59,F,North,Insured,Diabetes (Type 2),60,7,2025-11-24,37,0.9459,31.0,Low
+P01995,68,F,Central,Insured,Hypertension,30,31,2025-11-29,32,0.7888,31.0,Low
+P01632,78,F,South,Insured,Depression/Anxiety,90,13,2025-11-30,31,0.9512,31.0,Low
+P01609,33,F,South,Insured,Diabetes (Type 2),90,8,2025-11-02,59,0.8451,31.0,Low
+P01972,79,F,North,Insured,Hypertension,30,28,2025-11-22,39,0.8,30.0,Low
+P01430,70,F,Central,Insured,Asthma/COPD,90,7,2025-11-19,42,1.0,30.0,Low
+P01553,53,F,East,Insured,Diabetes (Type 2),60,7,2025-11-29,32,0.9633,29.0,Low
+P00558,76,F,South,Insured,Hypertension,60,20,2025-11-28,33,0.9539,29.0,Low
+P00517,77,M,South,Insured,Depression/Anxiety,90,8,2025-11-24,37,0.9,29.0,Low
+P01587,73,M,Central,Insured,Hypertension,30,6,2025-11-16,45,0.7258,29.0,Low
+P00679,53,F,Central,Insured,Hypertension,60,15,2025-11-18,43,0.8929,29.0,Low
+P01585,60,M,North,Insured,Hyperlipidemia,90,3,2025-11-25,36,1.0,29.0,Low
+P00399,36,F,East,Insured,Hyperlipidemia,90,13,2025-11-20,41,0.9338,29.0,Low
+P01589,75,M,North,Insured,Hyperlipidemia,60,17,2025-11-30,31,0.8885,28.0,Low
+P00792,48,M,Central,Insured,Diabetes (Type 2),90,9,2025-11-04,57,0.9963,28.0,Low
+P00985,57,F,Central,Insured,Diabetes (Type 2),60,15,2025-11-27,34,0.9109,28.0,Low
+P01868,68,F,North,Insured,Hypertension,60,12,2025-11-22,39,0.973,28.0,Low
+P00204,64,F,North,Insured,Hypertension,60,7,2025-11-22,39,0.9545,28.0,Low
+P00991,40,M,East,Insured,Hypertension,90,5,2025-11-15,46,1.0,28.0,Low
+P01810,82,M,South,Insured,Hypertension,60,16,2025-11-06,55,0.9284,28.0,Low
+P01705,79,F,Central,Insured,Diabetes (Type 2),30,30,2025-11-20,41,0.7847,27.0,Low
+P00677,56,F,Central,Insured,Diabetes (Type 2),60,18,2025-11-09,52,0.8524,27.0,Low
+P00336,72,F,North,Insured,Diabetes (Type 2),60,6,2025-11-01,60,0.9574,27.0,Low
+P01870,69,M,East,Insured,Depression/Anxiety,90,9,2025-11-08,53,0.93,26.0,Low
+P01873,58,M,East,Insured,Diabetes (Type 2),60,3,2025-11-02,59,0.8738,26.0,Low
+P01844,74,M,Central,Insured,Hyperlipidemia,60,9,2025-11-23,38,0.9424,26.0,Low
+P01348,64,F,South,Insured,Hyperlipidemia,90,5,2025-11-04,57,0.9868,26.0,Low
+P01354,79,F,South,Insured,Hyperlipidemia,60,11,2025-11-28,33,0.8661,26.0,Low
+P00613,70,F,Central,Insured,Hyperlipidemia,60,18,2025-11-29,32,0.9326,26.0,Low
+P00075,63,F,Central,Insured,Osteoporosis,90,3,2025-11-17,44,1.0,26.0,Low
+P01522,65,F,Central,Insured,Diabetes (Type 2),60,17,2025-11-18,43,0.9264,25.0,Low
+P00813,63,F,East,Insured,Diabetes (Type 2),60,19,2025-11-26,35,0.9484,25.0,Low
+P01184,48,M,South,Insured,Diabetes (Type 2),90,4,2025-11-10,51,0.9045,25.0,Low
+P01398,61,M,North,Insured,Diabetes (Type 2),90,4,2025-11-22,39,1.0,25.0,Low
+P00430,65,M,North,Insured,Hypertension,60,7,2025-11-07,54,0.814,25.0,Low
+P01548,74,M,Central,Insured,Hypertension,60,11,2025-11-29,32,1.0,25.0,Low
+P00810,84,M,Central,Insured,Osteoporosis,90,12,2025-11-29,32,1.0,24.0,Low
+P00489,69,F,North,Insured,Hypertension,60,16,2025-11-26,35,0.8881,24.0,Low
+P00742,69,M,Central,Insured,Diabetes (Type 2),60,15,2025-11-17,44,0.8612,24.0,Low
+P00502,61,F,Central,Insured,Diabetes (Type 2),60,6,2025-11-04,57,0.8612,24.0,Low
+P00864,69,F,East,Insured,Diabetes (Type 2),60,10,2025-11-28,33,0.995,23.0,Low
+P00691,84,F,East,Insured,Hyperlipidemia,30,5,2025-11-29,32,0.7075,22.0,Low
+P00472,71,M,North,Insured,Hyperlipidemia,90,11,2025-11-10,51,0.9621,22.0,Low
+P01939,82,M,North,Insured,Hypertension,60,13,2025-11-10,51,0.9123,22.0,Low
+P01746,83,F,North,Insured,Hyperlipidemia,60,6,2025-11-20,41,0.9302,22.0,Low
+P00237,62,M,Central,Insured,Diabetes (Type 2),90,11,2025-11-18,43,1.0,22.0,Low
+P01062,64,M,North,Insured,Hypertension,90,6,2025-11-16,45,1.0,22.0,Low
+P00405,51,M,Central,Insured,Hypertension,90,11,2025-11-15,46,0.9447,22.0,Low
+P01001,72,F,Central,Insured,Depression/Anxiety,90,11,2025-11-17,44,0.8951,22.0,Low
+P00877,54,M,East,Insured,Hypertension,90,8,2025-11-26,35,1.0,21.0,Low
+P01277,62,F,South,Insured,Diabetes (Type 2),90,4,2025-11-30,31,1.0,21.0,Low
+P01747,84,M,Central,Insured,Hyperlipidemia,60,11,2025-11-29,32,0.8883,20.0,Low
+P00745,71,F,Central,Insured,Hypertension,60,10,2025-11-30,31,0.8696,19.0,Low
+P00529,79,M,Central,Insured,Hyperlipidemia,60,5,2025-11-10,51,0.8219,19.0,Low
+P01228,83,M,Central,Insured,Diabetes (Type 2),60,17,2025-11-25,36,0.887,19.0,Low
+P00427,75,M,Central,Insured,Hypertension,60,18,2025-11-18,43,0.8366,19.0,Low
+P00002,69,M,Central,Insured,Hypertension,90,6,2025-11-27,34,1.0,18.0,Low
+P00195,82,F,South,Insured,Hypertension,90,4,2025-11-06,55,1.0,18.0,Low
+P01564,79,F,Central,Insured,Diabetes (Type 2),60,9,2025-11-25,36,0.8882,17.0,Low
+P00220,78,M,Central,Insured,Diabetes (Type 2),90,10,2025-11-02,59,0.9945,16.0,Low
+P01815,77,M,East,Insured,Hyperlipidemia,90,7,2025-11-08,53,1.0,16.0,Low
+P01154,78,F,Central,Insured,Hyperlipidemia,90,5,2025-11-02,59,1.0,15.0,Low
+P00740,78,F,East,Insured,Diabetes (Type 2),60,3,2025-11-15,46,0.9184,15.0,Low
+P01461,70,F,East,Insured,Hyperlipidemia,90,8,2025-11-08,53,0.9375,14.0,Low
+P01206,78,F,East,Insured,Diabetes (Type 2),90,4,2025-11-17,44,1.0,13.0,Low
+P00325,83,M,Central,Insured,Hyperlipidemia,90,9,2025-11-17,44,0.8901,11.0,Low

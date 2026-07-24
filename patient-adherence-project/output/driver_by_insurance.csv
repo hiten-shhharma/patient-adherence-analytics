@@ -1,0 +1,3 @@
+insurance_status,patient_count,discontinued_count,avg_pdc,avg_days_persisted,discontinuation_rate_pct,persistency_rate_pct
+Uninsured,406,354,0.914,191.0,87.2,12.8
+Insured,1594,845,0.885,469.0,53.0,47.0
