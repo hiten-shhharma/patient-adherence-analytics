@@ -8,12 +8,6 @@ Built to mirror a real pharmacy/PBM (Pharmacy Benefit Manager) analytics
 workflow: raw dispensing data → SQL data model → Python adherence metrics →
 client-ready Excel dashboard with a prioritized outreach list.
 
-> **Note on the data:** the dataset is fully **synthetic**, generated with a
-> fixed random seed (`data/generate_data.py`). It is not real patient data.
-> The generator deliberately bakes in realistic signals (insurance status,
-> supply size, therapy class, region, age) so the downstream SQL/Python
-> analysis has genuine patterns to uncover — the same way a real dataset
-> would.
 
 ---
 
@@ -206,41 +200,3 @@ outputs of all of them.
 
 ---
 
-## What you'll need to do to make this fully yours
-
-1. **Push it to GitHub.** Create a repo (your resume bullet links to one —
-   `github.com/QuantumWebber/...` would be consistent with your other
-   projects) and push this `project/` folder. Add a proper top-level
-   `README.md` (this file works as a starting point) with a screenshot of
-   the Excel dashboard's Executive Summary tab — recruiters skim, they
-   don't clone.
-2. **Set up your own MySQL instance.** I built and ran this against a real
-   MySQL 8.0 server, but that server only exists inside this sandboxed
-   session — it won't persist. On your machine: install MySQL (or use
-   XAMPP/MySQL Workbench), run `schema.sql`, then `load_data.py` with your
-   own credentials.
-3. **Swap in the real GitHub link** on your resume bullet once the repo is
-   live (the `(Link)` placeholder in your resume PDF).
-4. **Optional polish for the portfolio README:**
-   - A short "Problem → Approach → Impact" framing at the top (recruiters
-     respond well to this structure).
-   - 1–2 screenshots: the Executive Summary tab and the Outreach Watchlist
-     tab with conditional formatting visible.
-   - A one-line note that the dataset is synthetic (avoids any confusion
-     about real PHI/patient data — good practice to state this explicitly
-     for a healthcare-adjacent project).
-5. **Talking points for interviews** (all already built into this repo):
-   - Why PDC uses interval-merging for overlapping refills instead of a
-     naive sum.
-   - Why Kaplan-Meier (not a flat %) is the right way to measure
-     persistency — censoring.
-   - Why the Cox model matters: it shows insurance status is still the
-     dominant driver even after controlling for age, supply size, and
-     therapy class — descriptive stats alone can't tell you that.
-   - Trade-offs of logistic regression vs. a rule-based risk score (the
-     project used to have one — see git history / earlier README version
-     — this is a good "here's how I iterated" story).
-6. **Update the resume bullet if you want to reflect the added depth** —
-   e.g. mention the Kaplan-Meier/Cox survival analysis and the logistic
-   regression model (0.76 ROC-AUC) alongside the SQL/Excel work. Optional,
-   but it's a stronger signal for data-science-leaning roles.
